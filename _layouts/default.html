@@ -37,6 +37,23 @@ layout: compress
     />
     <meta property="twitter:description" content="{{ site.description }}" />
     <meta property="twitter:image" content="{{ site.shareImage }}" />
+
+    <link
+      rel="stylesheet"
+      href="https://unicons.iconscout.com/release/v2.1.9/css/unicons.css"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ site.url }}/assets/css/vendor.css?{{site.time | date: '%s%N'}}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ site.url }}/assets/css/main.css?{{site.time | date: '%s%N'}}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ site.url }}/assets/css/{{page.type}}.css?{{site.time | date: '%s%N'}}"
+    />
   </head>
   <body class="{{ page.type }}">
     {% include header.html %}
