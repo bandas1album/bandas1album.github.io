@@ -1,3 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
-  background-color: $color-black;
+  background-color: $black;
+}
+
+html {
+  min-height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: $font-family;
+  font-size: rem($font-size);
+  line-height: normal;
+  color: $white;
+}
+
+.main {
+  flex: 1;
+}
+
+a {
+  position: relative;
+  color: $white;
+  text-decoration: none;
+  transition: 0.2s all ease;
+}
+
+.uil::before {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.hide {
+  color: transparent !important;
+  overflow: hidden !important;
+  width: 0 !important;
+  height: 0 !important;
+  display: block !important;
+  margin: 0 !important;
 }

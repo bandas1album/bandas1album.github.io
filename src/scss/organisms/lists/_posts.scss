@@ -1,0 +1,25 @@
+.dd-o-list-posts {
+  display: flex;
+  flex-wrap: wrap;
+
+  &__item {
+    width: 100%;
+    max-width: rem(160px);
+  }
+
+  &__card {
+    display: block;
+    width: 100%;
+    filter: grayscale(1);
+    transition: 0.2s all ease;
+
+    &:hover {
+      filter: grayscale(0);
+    }
+
+    &__image {
+      width: 100%;
+      display: block;
+    }
+  }
+}

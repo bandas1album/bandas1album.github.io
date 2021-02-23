@@ -50,10 +50,6 @@ layout: compress
       rel="stylesheet"
       href="{{ site.url }}/assets/css/main.css?{{site.time | date: '%s%N'}}"
     />
-    <link
-      rel="stylesheet"
-      href="{{ site.url }}/assets/css/{{page.type}}.css?{{site.time | date: '%s%N'}}"
-    />
   </head>
   <body class="{{ page.type }}">
     {% include header.html %}

@@ -8,6 +8,7 @@ url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bandas1album
 instagram_username: bandas1album
 facebook_username: bandas1album
+permalink: /:title
 
 # Build settings
 plugins:
