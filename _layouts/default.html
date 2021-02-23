@@ -1,0 +1,50 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>
+      {% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% else %}
+      {{ page.title }} | {{ site.title }} {% endif %}
+    </title>
+    <meta
+      name="title"
+      content="{% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% else %}
+      {{ page.title }} | {{ site.title }} {% endif %}"
+    />
+    <meta name="description" content="{{ site.description }}" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta
+      property="og:title"
+      content="{% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% else %}
+      {{ page.title }} | {{ site.title }} {% endif %}"
+    />
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:image" content="{{ site.shareImage }}" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="{{ site.url }}" />
+    <meta
+      property="twitter:title"
+      content="{% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% else %}
+      {{ page.title }} | {{ site.title }} {% endif %}"
+    />
+    <meta property="twitter:description" content="{{ site.description }}" />
+    <meta property="twitter:image" content="{{ site.shareImage }}" />
+  </head>
+  <body class="{{ page.type }}">
+    {% include header.html %}
+
+    <main class="main">{{ content }}</main>
+
+    {% include footer.html %}
+
+    <script src="/assets/js/main.js"></script>
+  </body>
+</html>
