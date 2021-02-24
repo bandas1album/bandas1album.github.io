@@ -1,0 +1,24 @@
+.dd-a-logo {
+  display: inline-flex;
+  align-items: center;
+
+  &__image {
+    display: block;
+    margin-right: rem(16px);
+  }
+
+  &__title {
+    letter-spacing: -0.8px;
+    font-weight: 700;
+    line-height: rem(24px);
+
+    span {
+      display: block;
+      font-size: rem(24px);
+    }
+
+    strong {
+      font-size: rem(32px);
+    }
+  }
+}
