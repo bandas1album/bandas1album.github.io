@@ -19,7 +19,12 @@
     margin: auto;
     display: flex;
     align-items: center;
+    flex-direction: column;
     justify-content: space-between;
+
+    @media (min-width: 768px) {
+      flex-direction: row;
+    }
   }
 
   a {
@@ -31,6 +36,12 @@
   }
 
   &__nav {
+    display: none;
+
+    @media (min-width: 768px) {
+      display: block;
+    }
+
     > a {
       &:not(:last-child) {
         margin-right: rem(40px);
