@@ -1,0 +1,40 @@
+.dd-o-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: rem(80px);
+  z-index: 1;
+  background-image: linear-gradient(to top, $black, transparent);
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: rem(14px);
+  font-weight: 600;
+  text-transform: uppercase;
+
+  &__wrapper {
+    width: calc(100% - 144px);
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  a {
+    pointer-events: all;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  &__nav {
+    > a {
+      &:not(:last-child) {
+        margin-right: rem(40px);
+      }
+    }
+  }
+}
