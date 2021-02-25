@@ -6,6 +6,7 @@ title: Em Busca do Tempo Perdido
 artist: Peso
 year: 1975
 country: 🇧🇷
+genres: ['hard rock', 'blues rock']
 images:
   [
     'https://img.discogs.com/V-cXOI-zZUFksY82QcL9Wm7t0VY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4943400-1380141429-2127.jpeg.jpg',
