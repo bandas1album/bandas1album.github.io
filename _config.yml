@@ -5,6 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   O projeto Bandas de 1 Álbum tem por propósito eternizar bandas e artistas que lançaram apenas um disco de estúdio em toda a carreira.
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://bandas1album.com.br' # the base hostname & protocol for your site, e.g. http://example.com
+shareImage: '/assets/img/share.png'
 twitter_username: bandas1album
 instagram_username: bandas1album
 facebook_username: bandas1album
