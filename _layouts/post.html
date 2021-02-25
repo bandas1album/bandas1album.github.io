@@ -1,0 +1,53 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="pt-br">
+  {% include head.html %}
+  <body class="single">
+    {% include header.html %}
+
+    <main class="main">
+      {% include lists/list-posts.html %}
+
+      <article class="post-album">
+        <div class="post-album__cover">
+          <img src="{{ page.images[0] }}" alt="{{ page.title }}" />
+          <!-- {%- for image in page.images -%}
+          <div>
+            <img src="{{ image }}" alt="" />
+          </div>
+          {%- endfor -%} -->
+        </div>
+        <div class="post-album__content">
+          <header class="post-album__content__header">
+            <h2 class="post-album__content__artist">{{ page.artist }}</h2>
+            <h1 class="post-album__content__title">{{ page.title }}</h1>
+            <strong class="post-album__content__year">({{ page.year }})</strong>
+          </header>
+          <ul class="post-album__content__links">
+            {%- for link in page.links -%}
+            <li>
+              <a
+                href="{{ link.url }}"
+                title="Abrir álbum no {{link.title}}"
+                target="_blank"
+              >
+                <img
+                  src="/assets/img/icons/{{link.title}}.svg"
+                  alt="{{link.title}}"
+                />
+              </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </div>
+      </article>
+    </main>
+
+    {% include footer.html %}
+
+    <script src="/assets/js/main.js"></script>
+  </body>
+</html>

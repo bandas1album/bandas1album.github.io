@@ -1,4 +1,6 @@
 ---
+layout: post
+
 # Infos
 title: Jerusalem
 artist: Jerusalem

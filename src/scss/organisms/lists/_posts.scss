@@ -1,4 +1,4 @@
-.dd-o-list-posts {
+.list-posts {
   display: flex;
   flex-wrap: wrap;
 
@@ -45,9 +45,11 @@
     height: 100%;
     filter: grayscale(1);
     transition: 0.2s all ease;
+    opacity: 0.8;
 
     &:hover {
       filter: grayscale(0);
+      opacity: 1;
     }
 
     &__image {

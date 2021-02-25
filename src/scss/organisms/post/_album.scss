@@ -1,0 +1,100 @@
+.post-album {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  width: calc(100% - 80px);
+  max-width: rem(1168px);
+  margin: rem(168px) auto 0;
+
+  @media (min-width: 768px) {
+    margin: rem(220px) auto 0;
+    flex-direction: row;
+  }
+
+  &__cover {
+    width: 100%;
+    margin-bottom: rem(32px);
+
+    @media (min-width: 768px) {
+      width: calc(100% - 480px);
+      max-width: rem(480px);
+      margin-bottom: 0;
+      margin-right: rem(48px);
+    }
+
+    img {
+      display: block;
+      width: 100%;
+    }
+  }
+
+  &__content {
+    width: 100%;
+    max-width: rem(320px);
+
+    @media (min-width: 1024px) {
+      max-width: rem(480px);
+    }
+
+    &__header {
+      margin-bottom: rem(24px);
+
+      @media (min-width: 1024px) {
+        margin-bottom: rem(40px);
+      }
+    }
+
+    &__artist {
+      margin: 0;
+      margin-bottom: rem(8px);
+      font-size: rem(16px);
+      font-weight: 400;
+
+      @media (min-width: 1024px) {
+        margin-bottom: rem(16px);
+        font-size: rem(32px);
+      }
+    }
+
+    &__title,
+    &__year {
+      margin: 0;
+      font-size: rem(40px);
+      font-weight: 700;
+
+      @media (min-width: 1024px) {
+        font-size: rem(56px);
+      }
+    }
+
+    &__links {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+
+      li {
+        width: rem(24px);
+        display: inline-block;
+
+        @media (min-width: 1024px) {
+          width: rem(40px);
+        }
+
+        &:not(:last-child) {
+          margin-right: rem(16px);
+
+          @media (min-width: 1024px) {
+            margin-right: rem(24px);
+          }
+        }
+      }
+
+      a,
+      img {
+        display: block;
+        width: 100%;
+      }
+    }
+  }
+}

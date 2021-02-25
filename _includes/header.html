@@ -1,11 +1,17 @@
-<header class="dd-o-header" role="banner">
-  <div class="dd-o-header__wrapper">
-    <a href="{{ site.url }}" class="dd-a-logo">
-      <img src="/assets/img/logo.png" alt="" class="dd-a-logo__image" />
-      <h1 class="dd-a-logo__title">
+<header class="header" role="banner">
+  <div class="header__wrapper">
+    <a href="{{ site.url }}" class="logo">
+      <img src="/assets/img/logo.png" alt="" class="logo__image" />
+      <h1 class="logo__title">
         <span>Bandas de</span>
         <strong>1 álbum</strong>
       </h1>
     </a>
+
+    {%- if page.url != site.url -%}
+    <a href="{{ site.url }}" class="header__close">
+      <i class="uil uil-times"></i>
+    </a>
+    {%- endif -%}
   </div>
 </header>

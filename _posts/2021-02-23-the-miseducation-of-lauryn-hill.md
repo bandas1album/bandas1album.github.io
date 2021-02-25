@@ -1,4 +1,6 @@
 ---
+layout: post
+
 # Infos
 title: The Miseducation of Lauryn Hill
 artist: Lauryn Hill
@@ -10,10 +12,17 @@ images:
   ]
 
 # Links
-amazon: #
-deezer: #
-lastfm: #
-spotify: #
-youtube: #
-wikipedia: #
+links:
+  - title: Amazon
+    url: #
+  - title: Deezer
+    url: #
+  - title: Lastfm
+    url: #
+  - title: Spotify
+    url: #
+  - title: YouTube
+    url: #
+  - title: Wikipedia
+    url: #
 ---

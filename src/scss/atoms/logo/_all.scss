@@ -1,6 +1,7 @@
-.dd-a-logo {
+.logo {
   display: inline-flex;
   align-items: center;
+  pointer-events: all;
 
   &__image {
     display: block;
@@ -9,7 +10,7 @@
 
   &__title {
     letter-spacing: -0.8px;
-    font-weight: 700;
+    font-weight: 600;
     line-height: rem(24px);
 
     span {

@@ -1,17 +1,3 @@
 ---
 layout: default
 ---
-
-<ul class="dd-o-list dd-o-list-posts">
-  {%- for post in site.posts -%}
-  <li class="dd-o-list-posts__item">
-    <a href="{{ post.url }}" class="dd-o-list-posts__card">
-      <img
-        class="dd-o-list-posts__card__image"
-        src="{{ post.images[0] }}"
-        alt="{{ post.title }}"
-      />
-    </a>
-  </li>
-  {%- endfor -%}
-</ul>

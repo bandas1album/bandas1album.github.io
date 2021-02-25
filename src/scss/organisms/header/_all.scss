@@ -1,4 +1,4 @@
-.dd-o-header {
+.header {
   position: absolute;
   top: 0;
   left: 0;
@@ -14,9 +14,14 @@
   &__wrapper {
     width: calc(100% - 144px);
     margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
   }
 
-  .dd-a-logo {
+  &__close {
+    display: block;
+    font-size: rem(56px);
     pointer-events: all;
   }
 }

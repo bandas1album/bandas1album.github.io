@@ -1,11 +1,7 @@
-@import './fonts/all';
+// @import './fonts/all';
 
 * {
   box-sizing: border-box;
-}
-
-body {
-  background-color: $black;
 }
 
 html {
@@ -21,6 +17,7 @@ body {
   font-family: $font-family;
   font-size: rem($font-size);
   line-height: normal;
+  background-color: $black;
   color: $white;
   letter-spacing: 1px;
 }
@@ -34,6 +31,22 @@ a {
   color: $white;
   text-decoration: none;
   transition: 0.2s all ease;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.2;
+}
+
+h1 {
+}
+
+p {
+  line-height: 1.5;
 }
 
 .uil::before {

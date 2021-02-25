@@ -1,0 +1,11 @@
+.single {
+  .list-posts {
+    position: absolute;
+    z-index: -1;
+    opacity: 0.5;
+    pointer-events: none;
+    filter: blur(3px);
+    max-height: 100vh;
+    overflow: hidden;
+  }
+}
