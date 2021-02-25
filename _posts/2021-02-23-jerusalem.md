@@ -12,10 +12,17 @@ images:
   ]
 
 # Links
-amazon:
-deezer: #
-lastfm: #
-spotify: #
-youtube: #
-wikipedia: #
+links:
+  - title: Amazon
+    url: #
+  - title: Deezer
+    url: #
+  - title: Last.fm
+    url: #
+  - title: Spotify
+    url: #
+  - title: YouTube
+    url: #
+  - title: Wikipedia
+    url: #
 ---
