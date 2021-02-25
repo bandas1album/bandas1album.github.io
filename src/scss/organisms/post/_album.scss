@@ -74,11 +74,11 @@
       list-style: none;
 
       li {
-        width: rem(24px);
+        font-size: rem(32px);
         display: inline-block;
 
         @media (min-width: 1024px) {
-          width: rem(40px);
+          font-size: rem(40px);
         }
 
         &:not(:last-child) {

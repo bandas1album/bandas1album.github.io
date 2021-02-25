@@ -12,11 +12,15 @@
   justify-content: center;
 
   &__wrapper {
-    width: calc(100% - 144px);
+    width: calc(100% - 80px);
     margin: auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
+
+    @media (min-width: 1024px) {
+      width: calc(100% - 144px);
+    }
   }
 
   &__close {

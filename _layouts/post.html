@@ -34,10 +34,7 @@ layout: compress
                 title="Abrir álbum no {{link.title}}"
                 target="_blank"
               >
-                <img
-                  src="/assets/img/icons/{{link.title | slugify}}.svg"
-                  alt="{{link.title}}"
-                />
+                <i class="fab fa-{{link.title | slugify}}"></i>
               </a>
             </li>
             {%- endif -%} {%- endfor -%}

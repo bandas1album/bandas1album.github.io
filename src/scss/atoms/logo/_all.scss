@@ -6,20 +6,37 @@
   &__image {
     display: block;
     margin-right: rem(16px);
+    width: rem(64px);
+
+    @media (min-width: 768px) {
+      width: rem(80px);
+    }
   }
 
   &__title {
     letter-spacing: -0.8px;
     font-weight: 600;
-    line-height: rem(24px);
+    line-height: rem(16px);
+
+    @media (min-width: 768px) {
+      line-height: rem(24px);
+    }
 
     span {
       display: block;
-      font-size: rem(24px);
+      font-size: rem(16px);
+
+      @media (min-width: 768px) {
+        font-size: rem(24px);
+      }
     }
 
     strong {
-      font-size: rem(32px);
+      font-size: rem(22px);
+
+      @media (min-width: 768px) {
+        font-size: rem(32px);
+      }
     }
   }
 }

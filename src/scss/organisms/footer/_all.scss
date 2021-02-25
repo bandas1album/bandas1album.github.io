@@ -19,14 +19,15 @@
   }
 
   &__wrapper {
-    width: 100%;
+    width: calc(100% - 80px);
     margin: auto;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: column;
     justify-content: space-between;
 
     @media (min-width: 1024px) {
+      align-items: center;
       flex-direction: row;
       width: calc(100% - 144px);
     }
@@ -65,7 +66,11 @@
 
     li {
       display: inline-block;
-      font-size: rem(24px);
+      font-size: rem(16px);
+
+      @media (min-width: 768px) {
+        font-size: rem(24px);
+      }
 
       &:not(:last-child) {
         margin-right: rem(16px);

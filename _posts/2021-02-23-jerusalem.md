@@ -23,6 +23,6 @@ links:
     url: #
   - title: YouTube
     url: #
-  - title: Wikipedia
+  - title: Wikipedia-w
     url: #
 ---
