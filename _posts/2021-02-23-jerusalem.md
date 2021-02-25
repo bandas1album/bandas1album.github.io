@@ -12,7 +12,7 @@ images:
   ]
 
 # Links
-amazon: #
+amazon:
 deezer: #
 lastfm: #
 spotify: #
