@@ -17,12 +17,12 @@ links:
     url: #
   - title: Deezer
     url: #
-  - title: Last.fm
-    url: #
+  - title: Lastfm
+    url: https://www.last.fm/music/Jerusalem/Jerusalem
   - title: Spotify
-    url: #
+    url: https://open.spotify.com/album/6wztkrtvOWrIAQnbHWzSAL?si=KhneuoF-TDmcrFexnB4Igg
   - title: YouTube
-    url: #
+    url: https://www.youtube.com/watch?v=FPIxB-RDanI&list=PLd_jD87UjntuiTcJtDM3qtOVJrrf0NqDk
   - title: Wikipedia-w
     url: #
 ---
