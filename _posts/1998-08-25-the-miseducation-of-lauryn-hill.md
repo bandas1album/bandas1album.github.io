@@ -5,6 +5,7 @@ layout: post
 title: The Miseducation of Lauryn Hill
 artist: Lauryn Hill
 year: 1998
+country: 🇺🇸
 images:
   [
     'https://img.discogs.com/CTg4315jjTtj8m-DrlrenypZDEc=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-227020-1301243535.jpeg.jpg',
