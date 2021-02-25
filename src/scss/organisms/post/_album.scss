@@ -74,8 +74,12 @@
       list-style: none;
 
       li {
-        font-size: rem(32px);
+        font-size: rem(24px);
         display: inline-block;
+
+        @media (min-width: 768px) {
+          font-size: rem(32px);
+        }
 
         @media (min-width: 1024px) {
           font-size: rem(40px);

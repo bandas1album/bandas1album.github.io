@@ -25,7 +25,11 @@
 
   &__close {
     display: block;
-    font-size: rem(56px);
+    font-size: rem(32px);
     pointer-events: all;
+
+    @media (min-width: 768px) {
+      font-size: rem(48px);
+    }
   }
 }
