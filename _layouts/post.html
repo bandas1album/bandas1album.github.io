@@ -33,6 +33,7 @@ layout: compress
                 href="{{ link.url }}"
                 title="Abrir álbum no {{link.title}}"
                 target="_blank"
+                class="post-album__content__links__item {{link.title | slugify}}"
               >
                 <i class="fab fa-{{link.title | slugify}}"></i>
               </a>
