@@ -6,6 +6,7 @@ title: Time To Suck
 artist: Suck
 year: 1970
 country: 🇿🇦
+label: Parlophone
 genres: ['progressive rock', 'hard rock', 'psychedelic rock', 'heavy metal']
 images:
   [

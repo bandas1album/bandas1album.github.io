@@ -6,6 +6,7 @@ title: Días de Blues
 artist: Días de Blues
 year: 1973
 country: 🇺🇾
+label: Discos De La Planta
 genres: ['hard rock', 'blues rock']
 images:
   [

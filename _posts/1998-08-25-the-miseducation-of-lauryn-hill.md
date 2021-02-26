@@ -1,11 +1,13 @@
 ---
 layout: post
+description: Lançado pela Columbia Records em 1998, o álbum
 
 # Infos
 title: The Miseducation of Lauryn Hill
 artist: Lauryn Hill
 year: 1998
 country: 🇺🇸
+label: Columbia Records
 genres: ['soul', 'hip-hop', 'reggae']
 images:
   [

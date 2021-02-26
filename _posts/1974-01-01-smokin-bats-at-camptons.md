@@ -6,6 +6,7 @@ title: Smokin' Bats at Campton's
 artist: Primevil
 year: 1974
 country: 🇺🇸
+label: 700 West
 genres: ['hard rock', 'blues rock']
 images:
   [

@@ -6,6 +6,7 @@ title: Head Over Heels
 artist: Head Over Heels
 year: 1971
 country: 🇺🇸
+label: Capitol Records
 genres: ['hard rock', 'blues rock']
 images:
   [

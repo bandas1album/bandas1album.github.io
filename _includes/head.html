@@ -8,7 +8,17 @@
     content="{% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% else %}
     {{ page.title }} | {{ site.title }} {% endif %}"
   />
-  <meta name="description" content="{{ site.description }}" />
+  <meta
+    name="description"
+    content="
+    {% if page.url == '/'%}
+      {{ site.description }}
+    {% elsif page.layout == 'post' %}
+      {{ page.country }} O álbum {{ page.title }} foi o único álbum lançado por {{ page.artist }}, em {{ page.year }}, pelo selo {{ page.label }}. 
+    {% else %}
+      {{ page.description }}
+    {% endif %}"
+  />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- Open Graph / Facebook -->
@@ -19,7 +29,17 @@
     content="{% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% else %}
     {{ page.title }} | {{ site.title }} {% endif %}"
   />
-  <meta property="og:description" content="{{ site.description }}" />
+  <meta
+    property="og:description"
+    content="
+    {% if page.url == '/'%}
+      {{ site.description }}
+    {% elsif page.layout == 'post' %}
+      {{ page.country }} O álbum {{ page.title }} foi o único álbum lançado por {{ page.artist }}, em {{ page.year }}, pelo selo {{ page.label }}. 
+    {% else %}
+      {{ page.description }}
+    {% endif %}"
+  />
   <meta property="og:image" content="{{ site.shareImage }}" />
 
   <!-- Twitter -->
@@ -30,7 +50,17 @@
     content="{% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% else %}
     {{ page.title }} | {{ site.title }} {% endif %}"
   />
-  <meta property="twitter:description" content="{{ site.description }}" />
+  <meta
+    property="twitter:description"
+    content="
+    {% if page.url == '/'%}
+      {{ site.description }}
+    {% elsif page.layout == 'post' %}
+      {{ page.country }} O álbum {{ page.title }} foi o único álbum lançado por {{ page.artist }}, em {{ page.year }}, pelo selo {{ page.label }}. 
+    {% else %}
+      {{ page.description }}
+    {% endif %}"
+  />
   <meta property="twitter:image" content="{{ site.shareImage }}" />
 
   <!-- Font Awesome Solid + Brands -->

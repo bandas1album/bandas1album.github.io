@@ -6,6 +6,7 @@ title: This Is Bull
 artist: This Is Bull
 year: 1970
 country: 🇺🇸
+label: Paramount Records
 genres: ['psychedelic rock', 'blues rock', 'soul rock']
 images:
   [

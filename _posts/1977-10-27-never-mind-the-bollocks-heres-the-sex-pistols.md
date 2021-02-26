@@ -6,6 +6,7 @@ title: Never Mind the Bollocks, Here's the Sex Pistols
 artist: Sex Pistols
 year: 1977
 country: 🇬🇧
+label: Virgin
 genres: ['punk rock']
 images:
   [

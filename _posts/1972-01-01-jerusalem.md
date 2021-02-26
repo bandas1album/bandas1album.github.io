@@ -6,6 +6,7 @@ title: Jerusalem
 artist: Jerusalem
 year: 1972
 country: 🇬🇧
+label: Deram
 genres: ['hard rock', 'blues rock']
 images:
   [

@@ -6,6 +6,7 @@ title: Pride & Glory
 artist: Pride & Glory
 year: 1994
 country: 🇺🇸
+label: Geffen Records
 genres: ['heavy metal', 'southern rock']
 images:
   [
