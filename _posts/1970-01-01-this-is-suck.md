@@ -9,8 +9,8 @@ country: 🇿🇦
 genres: ['progressive rock', 'hard rock', 'psychedelic rock', 'heavy metal']
 images:
   [
-    'https://img.discogs.com/f1Vlh1mkOo8NnGzHQ7OnpAcyXBM=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3982865-1414510544-2653.jpeg.jpg',
-    'https://img.discogs.com/Jg6qOuOTaTJ8WDnZBmS_lXT9Y3I=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3982865-1414510544-4721.jpeg.jpg',
+    'https://img.discogs.com/wj97IQqBPt6kGU8n38SOtov0fho=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14406865-1573901894-8787.jpeg.jpg',
+    'https://img.discogs.com/is_e8FdAqM0pvsNz1Wxi0CrdEJM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14406865-1573903911-7281.png.jpg',
   ]
 
 # Links
