@@ -1,10 +1,5 @@
-# _plugins/shuffle.rb
-module Jekyll
-  module ShuffleFilter
-    def shuffle(array)
-      array.shuffle
-    end
+def shuffle(array)
+  if array.kind_of?(Array) and array.length > 0
+    array.shuffle
   end
 end
-
-Liquid::Template.register_filter(Jekyll::ShuffleFilter)

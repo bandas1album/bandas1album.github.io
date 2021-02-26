@@ -16,7 +16,7 @@ images:
 # Links
 links:
   - title: Amazon
-    url: https://www.amazon.com/-/pt/dp/B000002KIE/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=sex+pistols&qid=1614314383&sr=8-1
+    url: https://amzn.to/3uzddDk
   - title: Deezer
     url: https://www.deezer.com/br/album/5943684
   - title: Lastfm

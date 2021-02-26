@@ -18,7 +18,7 @@ images:
 # Links
 links:
   - title: Amazon
-    url: https://www.amazon.com/Dias-Blues/dp/B00004XRGH
+    url: https://amzn.to/387rtdd
   - title: Deezer
     url: https://www.deezer.com/es/album/13150846
   - title: Lastfm

@@ -17,7 +17,7 @@ images:
 # Links
 links:
   - title: Amazon
-    url: https://www.amazon.com.br/Pride-Glory-Zakk-Wylde/dp/B00242KCVO
+    url: https://amzn.to/3svrP4O
   - title: Deezer
     url: https://www.deezer.com/album/82527102?autoplay=true
   - title: Lastfm

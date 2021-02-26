@@ -16,7 +16,7 @@ images:
 # Links
 links:
   - title: Amazon
-    url: https://www.amazon.com/-/pt/dp/B008H0OREK/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=this+is+bull&qid=1614311398&sr=8-4
+    url: https://amzn.to/2O4zzfa
   - title: Deezer
     url: https://www.deezer.com/br/album/9193269
   - title: Lastfm

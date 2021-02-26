@@ -16,7 +16,7 @@ images:
 # Links
 links:
   - title: Amazon
-    url: https://www.amazon.com/-/pt/dp/B0757DBXRR/ref=tmm_msc_swatch_0?_encoding=UTF8&qid=&sr=
+    url: https://amzn.to/2Nz7ZHn
   - title: Deezer
     url: https://www.deezer.com/album/1440802?autoplay=true
   - title: Lastfm

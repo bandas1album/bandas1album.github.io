@@ -16,7 +16,7 @@ images:
 # Links
 links:
   - title: Amazon
-    url: https://www.amazon.com.br/Head-Over-Heels-HEAD-HEELS/dp/B004ESM22S/ref=sr_1_18?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3U74SJKM9VQ09&dchild=1&keywords=head+over+heels&qid=1614270798&sprefix=head+over+hee%2Caps%2C173&sr=8-18
+    url: https://amzn.to/3aU6Q5W
   - title: Deezer
     url: #
   - title: Lastfm
