@@ -42,7 +42,7 @@
       {{ page.description }}
     {% endif %}"
   />
-  <meta property="og:image" content="{{ site.shareImage }}" />
+  <meta property="og:image" content="{{ site.shareImage | absolute_url  }}" />
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
@@ -63,7 +63,10 @@
       {{ page.description }}
     {% endif %}"
   />
-  <meta property="twitter:image" content="{{ site.shareImage }}" />
+  <meta
+    property="twitter:image"
+    content="{{ site.shareImage | absolute_url }}"
+  />
 
   <!-- Font Awesome Solid + Brands -->
   <link href="/assets/fontawesome/css/fontawesome.css" rel="stylesheet" />
