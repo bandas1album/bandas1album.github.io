@@ -1,11 +1,12 @@
 <head>
   <title>
-    {% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% else %}
-    {{ page.title }} | {{ site.title }} {% endif %}
+    {% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% elsif
+    page.layout == 'post' %} {{ page.title }} - {{ page.artist }} | {{
+    site.title }} {% else %} {{ page.title }} | {{ site.title }} {% endif %}
   </title>
   <meta
     name="title"
-    content="{% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% else %}
+    content="{% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% elsif page.layout == 'post' %} {{ page.title }} - {{ page.artist }} | {{ site.title }} {% else %}
     {{ page.title }} | {{ site.title }} {% endif %}"
   />
   <meta
@@ -26,7 +27,7 @@
   <meta property="og:url" content="{{ site.url }}" />
   <meta
     property="og:title"
-    content="{% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% else %}
+    content="{% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% elsif page.layout == 'post' %} {{ page.title }} - {{ page.artist }} | {{ site.title }} {% else %}
     {{ page.title }} | {{ site.title }} {% endif %}"
   />
   <meta
@@ -47,7 +48,7 @@
   <meta property="twitter:url" content="{{ site.url }}" />
   <meta
     property="twitter:title"
-    content="{% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% else %}
+    content="{% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% elsif page.layout == 'post' %} {{ page.title }} - {{ page.artist }} | {{ site.title }} {% else %}
     {{ page.title }} | {{ site.title }} {% endif %}"
   />
   <meta
