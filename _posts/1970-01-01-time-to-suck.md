@@ -2,7 +2,7 @@
 layout: post
 
 # Infos
-title: This Is Suck
+title: Time To Suck
 artist: Suck
 year: 1970
 country: 🇿🇦
