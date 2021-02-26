@@ -2,8 +2,8 @@
 layout: post
 
 # Infos
-title: Suck
-artist: This Is Suck
+title: This Is Suck
+artist: Suck
 year: 1970
 country: 🇿🇦
 genres: ['progressive rock', 'hard rock', 'psychedelic rock', 'heavy metal']
