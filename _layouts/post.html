@@ -11,9 +11,17 @@ layout: compress
     <main class="main">
       {% include lists/list-posts.html %}
 
-      <article class="post-album">
+      <article
+        class="post-album"
+        itemscope
+        itemtype="https://schema.org/MusicAlbum"
+      >
         <div class="post-album__cover">
-          <img src="{{ page.images[0] }}" alt="{{ page.title }}" />
+          <img
+            itemprop="image"
+            src="{{ page.images[0] }}"
+            alt="{{ page.title }}"
+          />
           <!-- {%- for image in page.images -%}
           <div>
             <img src="{{ image }}" alt="" />
@@ -22,9 +30,26 @@ layout: compress
         </div>
         <div class="post-album__content">
           <header class="post-album__content__header">
-            <h2 class="post-album__content__artist">{{ page.artist }}</h2>
-            <h1 class="post-album__content__title">{{ page.title }}</h1>
-            <strong class="post-album__content__year">({{ page.year }})</strong>
+            <h2
+              class="post-album__content__artist"
+              itemprop="byArtist"
+              itemscope
+              itemtype="https://schema.org/MusicGroup"
+            >
+              <span itemprop="name">{{ page.artist }}</span>
+            </h2>
+            <h1 class="post-album__content__title" itemprop="name">
+              {{ page.title }}
+            </h1>
+            <strong class="post-album__content__year" itemprop="copyrightYear">
+              ({{ page.year }})
+            </strong>
+            <meta itemprop="copyrightHolder" content="{{ page.label }}" />
+            <meta
+              itemprop="description"
+              content="{{ page.country }} O álbum {{ page.title }} foi o único álbum lançado por {{ page.artist }}, em {{ page.year }}, pelo selo {{ page.label }}. "
+            />
+            <meta content="{{ page.genres[0] }}" itemprop="genre" />
           </header>
           <ul class="post-album__content__links">
             {%- for link in page.links -%} {%- if link.url -%}
