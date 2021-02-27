@@ -1,6 +1,5 @@
-{% assign shuffled_posts = site.posts | shuffle %}
 <ul class="list list-posts accelerated">
-  {%- for post in shuffled_posts -%}
+  {%- for post in site.posts -%}
   <li class="list-posts__item">
     <a
       href="{{ post.url }}"
