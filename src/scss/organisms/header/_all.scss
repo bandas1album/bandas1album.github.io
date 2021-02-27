@@ -3,7 +3,7 @@
   top: 0;
   left: 0;
   width: 100%;
-  height: rem(144px);
+  height: rem(104px);
   z-index: 1;
   background-image: linear-gradient(to bottom, $black, transparent);
   pointer-events: none;
@@ -11,12 +11,20 @@
   align-items: center;
   justify-content: center;
 
+  @media (min-width: 768px) {
+    height: rem(144px);
+  }
+
   &__wrapper {
-    width: calc(100% - 80px);
+    width: calc(100% - 40px);
     margin: auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
+
+    @media (min-width: 768px) {
+      width: calc(100% - 80px);
+    }
 
     @media (min-width: 1024px) {
       width: calc(100% - 144px);

@@ -12,20 +12,17 @@
   text-transform: uppercase;
   letter-spacing: rem(1px);
 
-  @media (min-height: 1024px) {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    height: rem(80px);
-  }
-
   &__wrapper {
-    width: calc(100% - 80px);
+    width: calc(100% - 40px);
     margin: auto;
     display: flex;
     align-items: flex-start;
     flex-direction: column;
     justify-content: space-between;
+
+    @media (min-width: 768px) {
+      width: calc(100% - 80px);
+    }
 
     @media (min-width: 1024px) {
       align-items: center;
