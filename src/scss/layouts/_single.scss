@@ -1,6 +1,6 @@
 .single {
   .list-posts {
-    position: absolute;
+    position: fixed;
     z-index: -1;
     opacity: 0.5;
     pointer-events: none;
