@@ -1,11 +1,6 @@
 .post-navigation {
   display: flex;
   align-items: center;
-  margin: rem(24px) auto;
-
-  @media (min-width: $tablet) {
-    margin: 0;
-  }
 
   &__link {
     position: fixed;

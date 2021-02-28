@@ -1,0 +1,37 @@
+@import '../post/share';
+
+.modal-share {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+
+  @media (min-width: $tablet) {
+    align-items: center;
+  }
+
+  .modal-content {
+    width: 100%;
+    padding: rem(32px) rem(24px);
+    border-radius: rem(16px) rem(16px) 0 0;
+    background-color: $theme;
+    transform: translateY(100%);
+    transition: 0.4s all ease;
+
+    @media (min-width: $tablet) {
+      max-width: 640px;
+      border-radius: rem(16px);
+      transform: translateY(0);
+      opacity: 0;
+    }
+  }
+
+  &.is-active {
+    .modal-content {
+      transform: translateY(0);
+
+      @media (min-width: $tablet) {
+        opacity: 1;
+      }
+    }
+  }
+}

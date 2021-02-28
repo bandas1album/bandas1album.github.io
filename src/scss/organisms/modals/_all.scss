@@ -1,0 +1,51 @@
+@import './share';
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+
+  &.is-active {
+    pointer-events: all;
+
+    .modal-shadow {
+      opacity: 1;
+      background-color: rgba(#000, 0.6);
+    }
+  }
+
+  &-shadow {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    transition: 0.4s background-color ease;
+    opacity: 0;
+    backdrop-filter: blur(2px);
+  }
+
+  &-header {
+    margin-bottom: rem(16px);
+
+    &__title {
+      margin: 0;
+      margin-bottom: rem(4px);
+      font-size: rem(24px);
+
+      @media (min-width: $tablet) {
+        font-size: rem(32px);
+      }
+    }
+
+    &__subtitle {
+      margin: 0;
+    }
+  }
+}

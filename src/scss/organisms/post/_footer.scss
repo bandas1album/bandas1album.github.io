@@ -1,0 +1,25 @@
+.post-footer {
+  margin-top: rem(16px);
+
+  @media (min-width: $desktop) {
+    margin-top: rem(24px);
+  }
+
+  &__share {
+    @extend .reset-button;
+    width: rem(48px);
+    height: rem(48px);
+    border-radius: rem(8px);
+    background-color: $theme;
+    color: $white;
+    transition: 0.2s all ease;
+
+    &:hover {
+      background-color: lighten($theme, 20%);
+    }
+
+    > * {
+      pointer-events: none;
+    }
+  }
+}

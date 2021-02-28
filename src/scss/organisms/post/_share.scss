@@ -1,0 +1,97 @@
+.share {
+  display: flex;
+  align-items: center;
+
+  &-social {
+    margin: 0;
+    padding: 0;
+    margin-right: rem(8px);
+    list-style: none;
+    display: flex;
+
+    li {
+      &:not(:last-child) {
+        margin-right: rem(4px);
+
+        @media (min-width: $phablet) {
+          margin-right: rem(8px);
+        }
+      }
+    }
+
+    a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      width: rem(32px);
+      height: rem(32px);
+      border-radius: rem(8px);
+      font-size: rem(16px);
+      background-color: rgba($white, 0.1);
+      transition: 0.2s all ease;
+
+      @media (min-width: $phablet) {
+        width: rem(48px);
+        height: rem(48px);
+        font-size: rem(24px);
+      }
+
+      &:hover {
+        background-color: rgba($white, 0.2);
+      }
+    }
+  }
+
+  &-url {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+
+    &__input {
+      @extend .reset-input;
+      width: 100%;
+      height: rem(32px);
+      border-radius: rem(8px);
+      background-color: rgba($white, 0.1);
+      color: rgba($white, 0.5);
+      padding: rem(4px) 0 rem(4px) rem(4px);
+
+      @media (min-width: $phablet) {
+        height: rem(48px);
+        padding: rem(8px) 0 rem(8px) rem(8px);
+      }
+    }
+
+    &__button {
+      @extend .reset-button;
+      position: absolute;
+      right: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: rem(32px);
+      height: rem(32px);
+      background-color: lighten($theme, 20%);
+      border-radius: rem(8px);
+      font-size: rem(16px);
+      color: $white;
+      transition: 0.2s all ease;
+
+      @media (min-width: $phablet) {
+        width: rem(48px);
+        height: rem(48px);
+        font-size: rem(24px);
+      }
+
+      &:hover {
+        background-color: lighten($theme, 15%);
+      }
+
+      &:active {
+        background-color: lighten($theme, 10%);
+      }
+    }
+  }
+}

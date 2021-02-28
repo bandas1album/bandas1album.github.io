@@ -66,34 +66,41 @@ layout: compress
             </li>
             {%- endif -%} {%- endfor -%}
           </ul>
+
+          <footer class="post-footer">
+            <nav class="post-navigation">
+              {% if page.previous.url %}
+              <a
+                class="post-navigation__link post-navigation__prev"
+                href="{{page.previous.url}}"
+                rel="prev"
+              >
+                <span>{{page.previous.title}}</span>
+                <i class="fas fa-chevron-left"></i>
+              </a>
+              {% endif %} {% if page.next.url %}
+              <a
+                class="post-navigation__link post-navigation__next"
+                href="{{page.next.url}}"
+                rel="next"
+              >
+                <i class="fas fa-chevron-right"></i>
+                <span>{{page.next.title}}</span>
+              </a>
+              {% endif %}
+            </nav>
+
+            <button data-open="share" class="post-footer__share">
+              <i class="fas fa-share-alt"></i>
+            </button>
+          </footer>
         </div>
       </article>
-
-      <nav class="post-navigation">
-        {% if page.previous.url %}
-        <a
-          class="post-navigation__link post-navigation__prev"
-          href="{{page.previous.url}}"
-          rel="prev"
-        >
-          <span>{{page.previous.title}}</span>
-          <i class="fas fa-chevron-left"></i>
-        </a>
-        {% endif %} {% if page.next.url %}
-        <a
-          class="post-navigation__link post-navigation__next"
-          href="{{page.next.url}}"
-          rel="next"
-        >
-          <i class="fas fa-chevron-right"></i>
-          <span>{{page.next.title}}</span>
-        </a>
-        {% endif %}
-      </nav>
     </main>
 
-    {% include footer.html %}
+    {% include modals/modal-share.html %} {% include footer.html %}
 
     <script src="/assets/js/main.js"></script>
+    <script src="/assets/js/single.js"></script>
   </body>
 </html>

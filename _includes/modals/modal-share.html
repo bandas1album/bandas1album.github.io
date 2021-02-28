@@ -1,0 +1,59 @@
+<section class="modal modal-share" data-modal="share">
+  <div class="modal-shadow" data-open="share"></div>
+
+  <div class="modal-content">
+    <header class="modal-header">
+      <h4 class="modal-header__title">
+        <i class="fas fa-share-alt"></i>
+        Compartilhe
+      </h4>
+    </header>
+
+    <nav class="share">
+      <ul class="share-social">
+        <li>
+          <a
+            href="https://twitter.com/intent/tweet?text={{ page.title }} - {{page.artist}} ({{page.year}}) {{ site.url }}{{ page.url }} via @kvnol"
+            target="_blank"
+            title="Compartilhe no Twitter"
+          >
+            <i class="fab fa-twitter"></i>
+          </a>
+        </li>
+
+        <li>
+          <a
+            href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{ page.url }}"
+            target="_blank"
+            title="Compartilhe no Facebook"
+          >
+            <i class="fab fa-facebook-f"></i>
+          </a>
+        </li>
+
+        <li>
+          <a
+            href="https://api.whatsapp.com/send?text={{ page.title }} - {{page.artist}} ({{page.year}}) {{ site.url }}"
+            target="_blank"
+            title="Compartilhe no WhatsApp"
+          >
+            <i class="fab fa-whatsapp"></i>
+          </a>
+        </li>
+      </ul>
+
+      <div class="share-url">
+        <input
+          id="url"
+          type="text"
+          value="{{ site.url }}{{ page.url }}"
+          readonly
+          class="share-url__input"
+        />
+        <button data-clipboard-target="#url" class="share-url__button">
+          <i class="fas fa-copy"></i>
+        </button>
+      </div>
+    </nav>
+  </div>
+</section>
