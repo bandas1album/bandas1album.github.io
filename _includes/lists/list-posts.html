@@ -1,16 +1,8 @@
 <ul class="list list-posts accelerated">
   {%- for post in site.posts -%}
   <li class="list-posts__item">
-    <a
-      href="{{ post.url }}"
-      class="list-posts__card"
-      title="{{ post.title }} - {{ post.artist }}"
-    >
-      <img
-        class="list-posts__card__image"
-        src="{{ post.images[0] }}"
-        alt="{{ post.title }}"
-      />
+    <a href="{{ post.url }}" class="list-posts__card" title="{{ post.title }} - {{ post.artist }}">
+      <img class="list-posts__card__image" src="{{ post.images[0] }}" alt="{{ post.title }}" />
     </a>
   </li>
   {%- endfor -%}
