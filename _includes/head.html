@@ -42,7 +42,10 @@
       {{ page.description }}
     {% endif %}"
   />
-  <meta property="og:image" content="{{ site.shareImage | absolute_url  }}" />
+  <meta
+    property="og:image"
+    content="{% if page.url == '/'%}{{ site.shareImage | absolute_url }}{% elsif page.layout == 'post' %}{{ page.images[0] }}{% endif %}"
+  />
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
@@ -65,7 +68,7 @@
   />
   <meta
     property="twitter:image"
-    content="{{ site.shareImage | absolute_url }}"
+    content="{% if page.url == '/'%}{{ site.shareImage | absolute_url }}{% elsif page.layout == 'post' %}{{ page.images[0] }}{% endif %}"
   />
 
   <!-- Font Awesome Solid + Brands -->
