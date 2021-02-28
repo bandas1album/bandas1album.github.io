@@ -9,7 +9,9 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
+    eventmachine (1.2.7-x64-mingw32)
     ffi (1.14.2)
+    ffi (1.14.2-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (1.8.9)
@@ -57,6 +59,8 @@ GEM
     nokogiri (1.11.1)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
+    nokogiri (1.11.1-x64-mingw32)
+      racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
@@ -68,6 +72,8 @@ GEM
     rouge (3.26.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
+      ffi (~> 1.9)
+    sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
@@ -81,6 +87,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   jekyll (~> 4.0.1)
