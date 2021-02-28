@@ -68,6 +68,28 @@ layout: compress
           </ul>
         </div>
       </article>
+
+      <nav class="post-navigation">
+        {% if page.previous.url %}
+        <a
+          class="post-navigation__link post-navigation__prev"
+          href="{{page.previous.url}}"
+          rel="prev"
+        >
+          <span>{{page.previous.title}}</span>
+          <i class="fas fa-chevron-left"></i>
+        </a>
+        {% endif %} {% if page.next.url %}
+        <a
+          class="post-navigation__link post-navigation__next"
+          href="{{page.next.url}}"
+          rel="next"
+        >
+          <i class="fas fa-chevron-right"></i>
+          <span>{{page.next.title}}</span>
+        </a>
+        {% endif %}
+      </nav>
     </main>
 
     {% include footer.html %}

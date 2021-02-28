@@ -1,0 +1,106 @@
+.post-navigation {
+  display: flex;
+  align-items: center;
+  margin: rem(24px) auto;
+
+  @media (min-width: $tablet) {
+    margin: 0;
+  }
+
+  &__link {
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba($theme, 0.8);
+    max-width: calc(100% - 56px);
+    padding-top: rem(16px);
+    padding-bottom: rem(16px);
+    transition: 0.4s all ease;
+    backdrop-filter: blur(2px);
+    flex-direction: row-reverse;
+    height: rem(56px);
+
+    @media (min-width: $tablet) {
+      min-width: rem(480px);
+      max-width: rem(480px);
+      height: rem(96px);
+      flex-direction: row;
+    }
+
+    &:not(:last-child) {
+      margin-right: rem(16px);
+
+      @media (min-width: $tablet) {
+        margin-right: 0;
+      }
+    }
+
+    i {
+      width: rem(32px);
+      font-size: rem(24px);
+
+      @media (min-width: $tablet) {
+        width: rem(40px);
+        font-size: rem(48px);
+      }
+    }
+
+    span {
+      display: none;
+      font-weight: 600;
+
+      @media (min-width: $tablet) {
+        display: block;
+        font-size: rem(24px);
+      }
+    }
+  }
+
+  &__prev {
+    left: 0;
+    border-radius: 0 rem(8px) rem(8px) 0;
+
+    @media (min-width: $tablet) {
+      padding-left: rem(24px);
+      transform: translateX(rem(-400px)) translateY(-50%);
+    }
+
+    &:hover {
+      transform: translateX(0) translateY(-50%);
+    }
+
+    i {
+      margin-left: rem(16px);
+
+      @media (min-width: $tablet) {
+        margin-right: rem(16px);
+        margin-left: 0;
+      }
+    }
+  }
+
+  &__next {
+    right: 0;
+    border-radius: rem(8px) 0 0 rem(8px);
+
+    @media (min-width: $tablet) {
+      padding-right: rem(24px);
+      transform: translateX(rem(400px)) translateY(-50%);
+    }
+
+    &:hover {
+      transform: translateX(0) translateY(-50%);
+    }
+
+    i {
+      margin-left: rem(16px);
+
+      @media (min-width: $tablet) {
+        margin-left: rem(24px);
+      }
+    }
+  }
+}
