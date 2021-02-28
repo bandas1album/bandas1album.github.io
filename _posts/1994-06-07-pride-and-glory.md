@@ -2,8 +2,8 @@
 layout: post
 
 # Infos
-title: Pride & Glory
-artist: Pride & Glory
+title: Pride and Glory
+artist: Pride and Glory
 year: 1994
 country: 🇺🇸
 label: Geffen Records

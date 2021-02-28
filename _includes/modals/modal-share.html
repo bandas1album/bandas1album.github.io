@@ -13,7 +13,7 @@
       <ul class="share-social">
         <li>
           <a
-            href="https://twitter.com/intent/tweet?text={{ page.title }} - {{page.artist}} ({{page.year}}) {{ site.url }}{{ page.url }} via @kvnol"
+            href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }} - {{page.artist | uri_escape}} ({{page.year}}) {{ page.url | absolute_url }} via @bandas1album"
             target="_blank"
             title="Compartilhe no Twitter"
           >
@@ -23,7 +23,7 @@
 
         <li>
           <a
-            href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{ page.url }}"
+            href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}"
             target="_blank"
             title="Compartilhe no Facebook"
           >
@@ -33,7 +33,7 @@
 
         <li>
           <a
-            href="https://api.whatsapp.com/send?text={{ page.title }} - {{page.artist}} ({{page.year}}) {{ site.url }}"
+            href="https://api.whatsapp.com/send?text={{ page.title | uri_escape }} - {{ page.artist | uri_escape }} ({{ page.year }}) {{ page.url | absolute_url }}"
             target="_blank"
             title="Compartilhe no WhatsApp"
           >
@@ -46,7 +46,7 @@
         <input
           id="url"
           type="text"
-          value="{{ site.url }}{{ page.url }}"
+          value="{{ page.url | absolute_url }}"
           readonly
           class="share-url__input"
         />
