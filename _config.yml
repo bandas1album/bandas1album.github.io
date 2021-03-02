@@ -14,7 +14,6 @@ permalink: /:title
 # Build settings
 plugins:
   - jekyll-feed
-  - jekyll-loading-lazy
 
 sass:
   load_paths:
