@@ -4,7 +4,7 @@ layout: post
 # Infos
 title: Disco Still Sucks!
 artist: Bob Hocko And The Swamp Rats
-year: 1998
+year: 1966
 country: 🇬🇧
 label: Get Hip Recordings
 genres: ['garage rock', 'punk rock']
