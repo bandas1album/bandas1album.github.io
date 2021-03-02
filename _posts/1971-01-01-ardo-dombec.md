@@ -17,7 +17,7 @@ images:
 # Links
 links:
   - title: Amazon
-    url: https://www.amazon.com/-/pt/dp/B085B6R8YC/ref=sr_1_1?dchild=1&keywords=Ardo+Dombec&qid=1614444646&s=dmusic&search-type=ss&sr=1-1
+    url: https://www.amazon.com/-/pt/dp/B085B6R8YC/ref=sr_1_1?dchild=1&keywords=Ardo+Dombec&qid=1614444646&s=dmusic&search-type=ss&sr=1-1&tag=kvnol08-20
   - title: Deezer
     url: https://www.deezer.com/br/album/134227432
   - title: Lastfm
