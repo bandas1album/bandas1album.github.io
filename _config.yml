@@ -14,6 +14,7 @@ permalink: /:title
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 sass:
   load_paths:
