@@ -1,47 +1,33 @@
 <head>
   <title>
     {% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% elsif
-    page.layout == 'post' %} {{ page.title }} - {{ page.artist }} ({{ page.year
-    }}) | {{ site.title }} {% else %} {{ page.title }} | {{ site.title }} {%
-    endif %}
+    page.layout == 'post' %} {{ page.title }} - {{ page.artist }} ({{
+    page.released | date: "%Y" }}) | {{ site.title }} {% else %} {{ page.title
+    }} | {{ site.title }} {% endif %}
   </title>
-  <meta
-    name="title"
-    content="{% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% elsif page.layout == 'post' %} {{ page.title }} - {{ page.artist }} ({{ page.year }}) | {{ site.title }} {% else %}
-    {{ page.title }} | {{ site.title }} {% endif %}"
-  />
-  <meta
-    name="description"
-    content="
-    {% if page.url == '/'%}
-      {{ site.description }}
-    {% elsif page.layout == 'post' %}
-      {{ page.country }} O álbum {{ page.title }} foi o único disco de estúdio lançado por {{ page.artist }}, em {{ page.year }}, pelo selo {{ page.label }}. Ouça agora!
-    {% else %}
-      {{ page.description }}
-    {% endif %}"
-  />
+  <meta name="title" content="{% if page.url == '/' %} {{ site.title }} | {{
+  site.subtitle }} {% elsif page.layout == 'post' %} {{ page.title }} - {{
+  page.artist }} ({{ page.released | date: "%Y" }}) | {{ site.title }} {% else
+  %} {{ page.title }} | {{ site.title }} {% endif %}" /> <meta
+  name="description" content=" {% if page.url == '/'%} {{ site.description }} {%
+  elsif page.layout == 'post' %} {{ page.country }} O álbum {{ page.title }} foi
+  o único disco de estúdio lançado por {{ page.artist }}, em {{ page.released |
+  date: "%Y" }}, pelo selo {{ page.label }}. Ouça agora! {% else %} {{
+  page.description }} {% endif %}" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ site.url }}" />
-  <meta
-    property="og:title"
-    content="{% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% elsif page.layout == 'post' %} {{ page.title }} - {{ page.artist }} ({{ page.year }}) | {{ site.title }} {% else %}
-    {{ page.title }} | {{ site.title }} {% endif %}"
-  />
-  <meta
-    property="og:description"
-    content="
-    {% if page.url == '/'%}
-      {{ site.description }}
-    {% elsif page.layout == 'post' %}
-      {{ page.country }} O álbum {{ page.title }} foi o único disco de estúdio lançado por {{ page.artist }}, em {{ page.year }}, pelo selo {{ page.label }}. Ouça agora!
-    {% else %}
-      {{ page.description }}
-    {% endif %}"
-  />
+  <meta property="og:title" content="{% if page.url == '/' %} {{ site.title }} |
+  {{ site.subtitle }} {% elsif page.layout == 'post' %} {{ page.title }} - {{
+  page.artist }} ({{ page.released | date: "%Y" }}) | {{ site.title }} {% else
+  %} {{ page.title }} | {{ site.title }} {% endif %}" /> <meta
+  property="og:description" content=" {% if page.url == '/'%} {{
+  site.description }} {% elsif page.layout == 'post' %} {{ page.country }} O
+  álbum {{ page.title }} foi o único disco de estúdio lançado por {{ page.artist
+  }}, em {{ page.released | date: "%Y" }}, pelo selo {{ page.label }}. Ouça
+  agora! {% else %} {{ page.description }} {% endif %}" />
   <meta
     property="og:image"
     content="{% if page.url == '/'%}{{ site.shareImage | absolute_url }}{% elsif page.layout == 'post' %}{{ page.images[0] }}{% endif %}"
@@ -50,22 +36,15 @@
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
   <meta property="twitter:url" content="{{ site.url }}" />
-  <meta
-    property="twitter:title"
-    content="{% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% elsif page.layout == 'post' %} {{ page.title }} - {{ page.artist }} ({{ page.year }}) | {{ site.title }} {% else %}
-    {{ page.title }} | {{ site.title }} {% endif %}"
-  />
-  <meta
-    property="twitter:description"
-    content="
-    {% if page.url == '/'%}
-      {{ site.description }}
-    {% elsif page.layout == 'post' %}
-      {{ page.country }} O álbum {{ page.title }} foi o único disco de estúdio lançado por {{ page.artist }}, em {{ page.year }}, pelo selo {{ page.label }}. Ouça agora!
-    {% else %}
-      {{ page.description }}
-    {% endif %}"
-  />
+  <meta property="twitter:title" content="{% if page.url == '/' %} {{ site.title
+  }} | {{ site.subtitle }} {% elsif page.layout == 'post' %} {{ page.title }} -
+  {{ page.artist }} ({{ page.released | date: "%Y" }}) | {{ site.title }} {%
+  else %} {{ page.title }} | {{ site.title }} {% endif %}" /> <meta
+  property="twitter:description" content=" {% if page.url == '/'%} {{
+  site.description }} {% elsif page.layout == 'post' %} {{ page.country }} O
+  álbum {{ page.title }} foi o único disco de estúdio lançado por {{ page.artist
+  }}, em {{ page.released | date: "%Y" }}, pelo selo {{ page.label }}. Ouça
+  agora! {% else %} {{ page.description }} {% endif %}" />
   <meta
     property="twitter:image"
     content="{% if page.url == '/'%}{{ site.shareImage | absolute_url }}{% elsif page.layout == 'post' %}{{ page.images[0] }}{% endif %}"
