@@ -7,7 +7,7 @@ artist: Apple
 released: 1969-09-22
 country: 🇬🇧
 label: Page One
-genres: ['Psychedelic Rock', 'Pop Rock']
+categories: ['Psychedelic Rock', 'Pop Rock']
 images:
   [
     'https://img.discogs.com/4YCHs8NppnooLJnxtdciWKkxi8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3347774-1326797914.jpeg.jpg',

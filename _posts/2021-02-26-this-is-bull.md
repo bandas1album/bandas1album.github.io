@@ -7,7 +7,7 @@ artist: This Is Bull
 released: 1970-01-01
 country: 🇺🇸
 label: Paramount Records
-genres: ['psychedelic rock', 'blues rock', 'soul rock']
+categories: ['Psychedelic Rock', 'Blues Rock', 'Soul Rock']
 images:
   [
     'https://img.discogs.com/f1Vlh1mkOo8NnGzHQ7OnpAcyXBM=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3982865-1414510544-2653.jpeg.jpg',

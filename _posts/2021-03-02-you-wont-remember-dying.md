@@ -7,7 +7,7 @@ artist: Bulbous Creation
 released: 1970-01-01
 country: 🇬🇧
 label: Get Hip Recordings
-genres: ['Acid Rock', 'Hard Rock']
+categories: ['Acid Rock', 'Hard Rock']
 images:
   [
     'https://img.discogs.com/K1Df88Nb6rn-pInlD75WIiV55rM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3482605-1502864676-1047.mpo.jpg',

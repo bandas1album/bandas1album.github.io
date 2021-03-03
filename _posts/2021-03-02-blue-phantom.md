@@ -7,7 +7,7 @@ artist: Blue Phantom
 released: 1971-01-01
 country: 🇮🇹
 label: Kaleidoscope
-genres: ['psychedelic rock', 'progressive rock']
+categories: ['Psychedelic Rock', 'Progressive Rock']
 images:
   [
     'https://img.discogs.com/OOyVllg6dRNKsKZJta2uIdxZJk8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1718480-1420059078-9183.jpeg.jpg',

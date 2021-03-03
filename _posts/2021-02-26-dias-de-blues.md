@@ -7,7 +7,7 @@ artist: Días de Blues
 released: 1973-01-01
 country: 🇺🇾
 label: Discos De La Planta
-genres: ['hard rock', 'blues rock']
+categories: ['Hard Rock', 'Blues Rock']
 images:
   [
     'https://img.discogs.com/6raK1X5N-YaNo7kW2OK23XmWHEo=/fit-in/600x641/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9328968-1478710310-9709.jpeg.jpg',

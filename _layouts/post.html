@@ -49,7 +49,7 @@ layout: compress
             <meta itemprop="description" content="{{ page.country }} O álbum {{
             page.title }} foi o único álbum lançado por {{ page.artist }}, em {{
             page.released | date: "%Y" }}, pelo selo {{ page.label }}. " />
-            <meta content="{{ page.genres[0] }}" itemprop="genre" />
+            <meta content="{{ page.categories[0] }}" itemprop="genre" />
           </header>
           <ul class="post-album__content__links">
             {%- for link in page.links -%} {%- if link.url -%}

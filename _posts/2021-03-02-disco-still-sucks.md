@@ -7,7 +7,7 @@ artist: Bob Hocko And The Swamp Rats
 released: 1969-01-01
 country: 🇬🇧
 label: Get Hip Recordings
-genres: ['garage rock', 'punk rock']
+categories: ['Garage Rock', 'Punk Rock']
 images:
   [
     'https://img.discogs.com/47fxtmZpPRYn81CF0lefHsBX_Tk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3700081-1490703833-1419.jpeg.jpg',

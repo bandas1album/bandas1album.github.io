@@ -7,7 +7,7 @@ artist: Blast Furnace
 released: 1971-01-01
 country: 🇩🇰
 label: Polydor
-genres: ['progressive rock']
+categories: ['Progressive Rock']
 images:
   [
     'https://img.discogs.com/nMOfoSQnGTCZ1F0pL_PaPnkuwqY=/fit-in/385x385/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4059104-1374497996-3242.jpeg.jpg',

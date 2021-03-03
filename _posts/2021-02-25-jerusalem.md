@@ -7,7 +7,7 @@ artist: Jerusalem
 released: 1972-01-01
 country: 🇬🇧
 label: Deram
-genres: ['hard rock', 'blues rock']
+categories: ['Hard Rock', 'Blues Rock']
 images:
   [
     'https://img.discogs.com/9mejL-Ewu5adAN3lCexB5hGBkas=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2501404-1287472563.jpeg.jpg',

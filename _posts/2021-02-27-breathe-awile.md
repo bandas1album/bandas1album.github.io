@@ -7,7 +7,7 @@ artist: Arcadium
 released: 1969-11-01
 country: 🇬🇧
 label: Middle Earth
-genres: ['Psychedelic Rock']
+categories: ['Psychedelic Rock']
 images:
   [
     'https://img.discogs.com/oc7IhZ0QTUOVazaV75cHcPErmNI=/fit-in/441x433/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1091880-1401642246-2112.jpeg.jpg',

@@ -7,7 +7,7 @@ artist: Anakdota
 released: 2016-11-04
 country: 🇮🇱
 label: Fading Records
-genres: ['Progressive Rock']
+categories: ['Progressive Rock']
 images:
   [
     'https://img.discogs.com/H6tr1sriIiDuRM74GH6hiSh6IRE=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9579351-1519721731-4649.jpeg.jpg',

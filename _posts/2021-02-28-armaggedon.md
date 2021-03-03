@@ -7,7 +7,7 @@ artist: Armaggedon
 released: 1970-08-25
 country: 🇩🇪
 label: Kuckuck
-genres: ['hard rock']
+categories: ['Hard Rock']
 images:
   [
     'https://img.discogs.com/2jLq1pM0ZRR24Rku6LPu-uAdMV0=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376379-1414252468-6531.jpeg.jpg',

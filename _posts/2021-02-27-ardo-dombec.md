@@ -7,7 +7,7 @@ artist: Ardo Dombec
 released: 1971-01-01
 country: 🇩🇪
 label: Pilz
-genres: ['progressive rock', 'krautrock']
+categories: ['Progressive Rock', 'Krautrock']
 images:
   [
     'https://img.discogs.com/acDLAup7S1WlOAC8Jy3_mqcb7vo=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-646211-1253428180.jpeg.jpg',

@@ -7,7 +7,7 @@ artist: Andromeda
 released: 1969-07-01
 country: 🇬🇧
 label: RCA
-genres: ['Blues Rock', 'Psychedelic Rock']
+categories: ['Blues Rock', 'Psychedelic Rock']
 images:
   [
     'https://img.discogs.com/L6obXE-dX5K1CzVVlngQUjZjxSs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1212335-1583553669-2310.jpeg.jpg',

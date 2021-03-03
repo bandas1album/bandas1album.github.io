@@ -7,7 +7,7 @@ artist: Ancient Grease
 released: 1970-01-01
 country: 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 label: Mercury
-genres: ['Hard Rock', 'Psychedelic Rock']
+categories: ['Hard Rock', 'Psychedelic Rock']
 images:
   [
     'https://img.discogs.com/XXb099_NfrvtQSASYDaPRsqXLVE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4738107-1456880040-3664.jpeg.jpg',

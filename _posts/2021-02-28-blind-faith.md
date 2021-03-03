@@ -7,7 +7,7 @@ artist: Blind Faith
 released: 1969-08-01
 country: 🇬🇧
 label: Polydor
-genres: ['blues rock']
+categories: ['Blues Rock']
 images:
   [
     'https://img.discogs.com/zYAO2mIY5iD6MAAV8HgdRn5Wl1k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-391938-1394741346-1051.jpeg.jpg',

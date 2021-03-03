@@ -7,7 +7,7 @@ artist: Sex Pistols
 released: 1977-10-27
 country: 🇬🇧
 label: Virgin
-genres: ['punk rock']
+categories: ['Punk Rock']
 images:
   [
     'https://img.discogs.com/G2g5GSt2YBgBOZhQjGuSplrIR7A=/fit-in/600x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2558425-1377106336-4419.jpeg.jpg',

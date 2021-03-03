@@ -7,7 +7,7 @@ artist: Peso
 released: 1975-01-01
 country: 🇧🇷
 label: Polydor
-genres: ['hard rock', 'blues rock']
+categories: ['Hard Rock', 'Blues Rock']
 images:
   [
     'https://img.discogs.com/V-cXOI-zZUFksY82QcL9Wm7t0VY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4943400-1380141429-2127.jpeg.jpg',

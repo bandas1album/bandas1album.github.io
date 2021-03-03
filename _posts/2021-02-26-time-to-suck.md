@@ -7,7 +7,7 @@ artist: Suck
 released: 1970-01-01
 country: 🇿🇦
 label: Parlophone
-genres: ['progressive rock', 'hard rock', 'psychedelic rock', 'heavy metal']
+categories: ['Progressive Rock', 'Hard Rock', 'Psychedelic Rock', 'Heavy Metal']
 images:
   [
     'https://img.discogs.com/wj97IQqBPt6kGU8n38SOtov0fho=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14406865-1573901894-8787.jpeg.jpg',
