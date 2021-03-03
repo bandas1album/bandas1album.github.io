@@ -25,7 +25,6 @@
     }
 
     @media (min-width: 1024px) {
-      align-items: center;
       flex-direction: row;
       width: calc(100% - 144px);
     }
@@ -40,7 +39,23 @@
   }
 
   &__copy {
+    display: flex;
     margin-bottom: rem(16px);
+
+    @media (min-width: 1024px) {
+      margin-bottom: 0;
+    }
+
+    img {
+      display: block;
+      width: rem(40px);
+      height: rem(40px);
+      margin-right: rem(16px);
+    }
+
+    p {
+      margin: 0;
+    }
 
     small {
       font-size: rem(14px);
@@ -70,11 +85,7 @@
 
     li {
       display: inline-block;
-      font-size: rem(16px);
-
-      @media (min-width: 768px) {
-        font-size: rem(24px);
-      }
+      font-size: rem(24px);
 
       &:not(:last-child) {
         margin-right: rem(16px);
