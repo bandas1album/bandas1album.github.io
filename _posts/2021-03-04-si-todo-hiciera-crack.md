@@ -7,7 +7,7 @@ artist: Crack
 released: 1979-09-01
 country: 🇪🇸
 label: Chapa Discos
-categories: ['Prog Rock', 'Symphonic Rock']
+categories: ['Progressive Rock', 'Symphonic Rock']
 images:
   [
     'https://img.discogs.com/FD20p_f7JdHByID_LNVKysx4Gdo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7746391-1560159799-9602.jpeg.jpg',
