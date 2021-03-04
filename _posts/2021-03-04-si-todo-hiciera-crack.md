@@ -4,7 +4,7 @@ layout: post
 # Infos
 title: Si Todo Hiciera Crack
 artist: Crack
-released: 1979-01-01
+released: 1979-09-01
 country: 🇪🇸
 label: Chapa Discos
 categories: ['Prog Rock', 'Symphonic Rock']
