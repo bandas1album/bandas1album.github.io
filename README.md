@@ -17,13 +17,12 @@ Eternizando bandas que nos deixaram apenas uma pérola.
 ```md
 ---
 layout: post
-
-\# Infos
-title: __Álbum__
-artist: __Artista__
+# Infos
+title: Álbum
+artist: Artista
 released: YYYY-MM-DD
-country: __Emoji Flag__
-label: __Gravadora__
+country: Emoji Flag
+label: Gravadora
 categories: ['Hard Rock', 'Blues Rock']
 images:
   [
@@ -31,7 +30,7 @@ images:
     'https://img.discogs.com/FVTsLcJLMcBrneReAH0uP5tRMxU=/fit-in/579x571/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2501404-1363027602-6076.jpeg.jpg',
   ]
 
-\# Links
+# Links
 links:
   - title: Amazon
     url: #
