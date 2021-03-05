@@ -25,6 +25,7 @@
     }
 
     @media (min-width: 1024px) {
+      align-items: center;
       flex-direction: row;
       width: calc(100% - 144px);
     }
