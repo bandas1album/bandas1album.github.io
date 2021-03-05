@@ -4,7 +4,7 @@ Eternizando bandas que nos deixaram apenas uma pérola.
 
 ## Sumário
 
-- [Instalação](#instalacao)
+- [Instalação](#instala%C3%A7%C3%A3o)
 - [Como contribuir?](#como-contribuir)
 
 ### Instalação
