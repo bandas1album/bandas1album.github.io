@@ -2,6 +2,11 @@
 
 Eternizando bandas que nos deixaram apenas uma pérola.
 
+## Sumário
+
+- [Instalação](#instalacao)
+- [Como contribuir?](#como-contribuir)
+
 ### Instalação
 
 1. Clone o repositório: `git@github.com:bandas1album/bandas1album.github.io.git`
