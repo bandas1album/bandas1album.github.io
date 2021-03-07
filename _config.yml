@@ -15,7 +15,6 @@ permalink: /:title
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-redirect-from
 
 sass:
   load_paths:
