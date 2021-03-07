@@ -5,7 +5,7 @@ layout: post
 title: Pride and Glory
 artist: Pride and Glory
 released: 1994-06-07
-country: 🇺🇸
+country: Estados Unidos
 label: Geffen Records
 categories: ['Heavy Metal', 'Southern Rock']
 images:

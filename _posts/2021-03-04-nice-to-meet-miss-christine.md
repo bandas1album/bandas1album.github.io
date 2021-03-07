@@ -5,7 +5,7 @@ layout: post
 title: Nice To Meet Miss Christine
 artist: Chris Harwood
 released: 1970-01-01
-country: 🇬🇧
+country: Inglaterra
 label: Birth Records
 categories: ['Folk', 'Jazz', 'World & Country']
 images:

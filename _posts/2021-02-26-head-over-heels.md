@@ -5,7 +5,7 @@ layout: post
 title: Head Over Heels
 artist: Head Over Heels
 released: 1971-01-01
-country: 🇺🇸
+country: Estados Unidos
 label: Capitol Records
 categories: ['Hard Rock', 'Blues Rock']
 images:

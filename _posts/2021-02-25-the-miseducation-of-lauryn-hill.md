@@ -5,7 +5,7 @@ layout: post
 title: The Miseducation of Lauryn Hill
 artist: Lauryn Hill
 released: 1998-08-25
-country: 🇺🇸
+country: Estados Unidos
 label: Columbia Records
 categories: ['Soul', 'Hip-Hop', 'Reggae']
 images:

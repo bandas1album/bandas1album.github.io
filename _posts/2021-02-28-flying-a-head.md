@@ -5,7 +5,7 @@ layout: post
 title: Flying A Head
 artist: Atlee
 released: 1970-01-01
-country: 🇺🇸
+country: Estados Unidos
 label: Dunhill Records
 categories: ['Hard Rock', 'Blues Rock']
 images:

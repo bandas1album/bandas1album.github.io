@@ -5,7 +5,7 @@ layout: post
 title: Electric Sandwich
 artist: Electric Sandwich
 released: 1972-01-01
-country: 🇩🇪
+country: Alemanha
 label: Brain
 categories: ['Krautrock', 'Jazz Rock', 'Progressive Rock']
 images:

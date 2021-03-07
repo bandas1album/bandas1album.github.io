@@ -5,7 +5,7 @@ layout: post
 title: Breathe Awile
 artist: Arcadium
 released: 1969-11-01
-country: 🇬🇧
+country: Inglaterra
 label: Middle Earth
 categories: ['Psychedelic Rock']
 images:

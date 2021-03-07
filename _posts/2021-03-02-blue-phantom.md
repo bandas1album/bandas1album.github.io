@@ -5,7 +5,7 @@ layout: post
 title: Distortions
 artist: Blue Phantom
 released: 1971-01-01
-country: 🇮🇹
+country: Itália
 label: Kaleidoscope
 categories: ['Psychedelic Rock', 'Progressive Rock']
 images:

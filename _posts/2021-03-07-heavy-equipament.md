@@ -5,7 +5,7 @@ layout: post
 title: Heavy Equipment
 artist: Euclid
 released: 1970-01-01
-country: 🇺🇸
+country: Estados Unidos
 label: Amsterdam
 categories: ['Psychedelic Rock', 'Hard Rock']
 images:

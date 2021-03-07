@@ -5,7 +5,7 @@ layout: post
 title: Em Busca do Tempo Perdido
 artist: Peso
 released: 1975-01-01
-country: 🇧🇷
+country: Brasil
 label: Polydor
 categories: ['Hard Rock', 'Blues Rock']
 images:

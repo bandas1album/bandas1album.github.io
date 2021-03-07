@@ -5,7 +5,7 @@ layout: post
 title: Ardo Dombec
 artist: Ardo Dombec
 released: 1971-01-01
-country: 🇩🇪
+country: Alemanha
 label: Pilz
 categories: ['Progressive Rock', 'Krautrock']
 images:

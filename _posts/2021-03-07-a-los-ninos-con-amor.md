@@ -5,7 +5,7 @@ layout: post
 title: A Los Niños Con Amor
 artist: Estrella De Marzo
 released: 1974-01-01
-country: 🇧🇴
+country: Bolívia
 label: Discos Heriba
 categories: ['Psychedelic Rock', 'Prog Rock', 'Hard Rock']
 images:

@@ -5,7 +5,7 @@ layout: post
 title: Andromeda
 artist: Andromeda
 released: 1969-07-01
-country: 🇬🇧
+country: Inglaterra
 label: RCA
 categories: ['Blues Rock', 'Psychedelic Rock']
 images:

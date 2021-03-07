@@ -5,7 +5,7 @@ layout: post
 title: Armageddon
 artist: Armageddon
 released: 1975-01-01
-country: 🇬🇧
+country: Inglaterra
 label: A&M Records
 categories: ['Hard Rock', 'Progressive Rock']
 images:

@@ -5,7 +5,7 @@ layout: post
 title: Women And Children First
 artist: Ancient Grease
 released: 1970-01-01
-country: 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+country: País de Gales
 label: Mercury
 categories: ['Hard Rock', 'Psychedelic Rock']
 images:

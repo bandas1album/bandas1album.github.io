@@ -5,7 +5,7 @@ layout: post
 title: Días de Blues
 artist: Días de Blues
 released: 1973-01-01
-country: 🇺🇾
+country: Uruguai
 label: Discos De La Planta
 categories: ['Hard Rock', 'Blues Rock']
 images:

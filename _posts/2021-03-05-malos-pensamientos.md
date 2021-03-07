@@ -5,7 +5,7 @@ layout: post
 title: Malos Pensamientos
 artist: El Alamo
 released: 1971-01-01
-country: 🇵🇪
+country: Peru
 label: Decibel
 categories: ['Psychedelic Rock']
 images:

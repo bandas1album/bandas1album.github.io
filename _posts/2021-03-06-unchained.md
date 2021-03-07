@@ -5,7 +5,7 @@ layout: post
 title: Unchained
 artist: Elias Hulk
 released: 1970-01-01
-country: 🇬🇧
+country: Inglaterra
 label: Young Blood
 categories: ['Progressive Rock', 'Psychedelic Rock']
 images:

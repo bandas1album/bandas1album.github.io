@@ -5,7 +5,7 @@ layout: post
 title: Blind Faith
 artist: Blind Faith
 released: 1969-08-01
-country: 🇬🇧
+country: Inglaterra
 label: Polydor
 categories: ['Blues Rock']
 images:

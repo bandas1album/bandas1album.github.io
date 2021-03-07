@@ -5,7 +5,7 @@ layout: post
 title: Bigger, Better, Faster, More!
 artist: 4 Non Blondes
 released: 1992-09-01
-country: 🇺🇸
+country: Estados Unidos
 label: Interscope Records
 categories: ['Alternative Rock', 'Folk Rock', 'Psychedelic Rock']
 images:

@@ -5,7 +5,7 @@ layout: post
 title: An Apple A Day
 artist: Apple
 released: 1969-09-22
-country: 🇬🇧
+country: Inglaterra
 label: Page One
 categories: ['Psychedelic Rock', 'Pop Rock']
 images:

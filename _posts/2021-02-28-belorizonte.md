@@ -5,7 +5,7 @@ layout: post
 title: Belorizonte
 artist: Aum
 released: 1984-01-01
-country: 🇧🇷
+country: Brasil
 label: Bemol
 categories: ['MPB', 'Psychedelic Rock', 'Jazz-Rock']
 images:

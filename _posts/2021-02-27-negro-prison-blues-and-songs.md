@@ -5,7 +5,7 @@ layout: post
 title: Negro Prison Blues And Songs
 artist: Alan Lomax
 released: 1958-01-01
-country: 🇺🇸
+country: Estados Unidos
 label: Tradition Records
 categories: ['Blues']
 images:

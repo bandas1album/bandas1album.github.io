@@ -5,7 +5,7 @@ layout: post
 title: You Won't Remember Dying
 artist: Bulbous Creation
 released: 1970-01-01
-country: 🇬🇧
+country: Inglaterra
 label: Get Hip Recordings
 categories: ['Acid Rock', 'Hard Rock']
 images:

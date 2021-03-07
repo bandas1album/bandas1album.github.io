@@ -5,7 +5,7 @@ layout: post
 title: Disco Still Sucks!
 artist: Bob Hocko And The Swamp Rats
 released: 1969-01-01
-country: 🇬🇧
+country: Inglaterra
 label: Get Hip Recordings
 categories: ['Garage Rock', 'Punk Rock']
 images:

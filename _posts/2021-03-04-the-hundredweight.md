@@ -5,7 +5,7 @@ layout: post
 title: The Hundredweight
 artist: CWT
 released: 1973-01-01
-country: 🇩🇪
+country: Alemanha
 label: Kuckuck
 categories: ['Blues Rock']
 images:

@@ -5,7 +5,7 @@ layout: post
 title: Never Mind the Bollocks, Here's the Sex Pistols
 artist: Sex Pistols
 released: 1977-10-27
-country: 🇬🇧
+country: Inglaterra
 label: Virgin
 categories: ['Punk Rock']
 images:

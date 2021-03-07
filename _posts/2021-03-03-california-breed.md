@@ -5,7 +5,7 @@ layout: post
 title: California Breed
 artist: California Breed
 released: 2014-05-16
-country: 🇺🇸
+country: Estados Unidos
 label: Frontiers Records
 categories: ['Hard Rock', 'Blues Rock', 'Pop Rock']
 images:

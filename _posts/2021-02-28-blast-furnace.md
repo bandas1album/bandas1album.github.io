@@ -5,7 +5,7 @@ layout: post
 title: Blast Furnace
 artist: Blast Furnace
 released: 1971-01-01
-country: 🇩🇰
+country: Polônia
 label: Polydor
 categories: ['Progressive Rock']
 images:

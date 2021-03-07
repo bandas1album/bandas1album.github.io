@@ -5,7 +5,7 @@ layout: post
 title: Cozmic Corridors
 artist: Cozmic Corridors
 released: 1973-01-01
-country: 🇩🇪
+country: Alemanha
 label: Psi-Fi
 categories: ['Krautrock', 'Ambient']
 images:

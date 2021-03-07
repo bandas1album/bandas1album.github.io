@@ -5,7 +5,7 @@ layout: post
 title: Oh! What A Lovely War
 artist: Colonel Bagshot
 released: 1971-01-01
-country: 🇬🇧
+country: Inglaterra
 label: Cadet Concept
 categories: ['Psychedelic Rock']
 images:

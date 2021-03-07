@@ -5,7 +5,7 @@ layout: post
 title: Buon Vecchio Charlie
 artist: Buon Vecchio Charlie
 released: 1971-01-01
-country: 🇮🇹
+country: Itália
 label: Melos
 categories: ['Progressive Rock']
 images:

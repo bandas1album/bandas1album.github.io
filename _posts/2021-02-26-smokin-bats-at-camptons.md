@@ -5,7 +5,7 @@ layout: post
 title: Smokin' Bats at Campton's
 artist: Primevil
 released: 1974-01-01
-country: 🇺🇸
+country: Estados Unidos
 label: 700 West
 categories: ['Hard Rock', 'Blues Rock']
 images:

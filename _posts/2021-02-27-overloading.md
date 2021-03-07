@@ -5,7 +5,7 @@ layout: post
 title: Overloading
 artist: Anakdota
 released: 2016-11-04
-country: 🇮🇱
+country: Israel
 label: Fading Records
 categories: ['Progressive Rock']
 images:

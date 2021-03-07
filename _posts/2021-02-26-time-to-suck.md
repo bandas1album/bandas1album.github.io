@@ -5,7 +5,7 @@ layout: post
 title: Time To Suck
 artist: Suck
 released: 1970-01-01
-country: 🇿🇦
+country: África do Sul
 label: Parlophone
 categories: ['Progressive Rock', 'Hard Rock', 'Psychedelic Rock', 'Heavy Metal']
 images:

@@ -5,7 +5,7 @@ layout: post
 title: Jerusalem
 artist: Jerusalem
 released: 1972-01-01
-country: 🇬🇧
+country: Inglaterra
 label: Deram
 categories: ['Hard Rock', 'Blues Rock']
 images:

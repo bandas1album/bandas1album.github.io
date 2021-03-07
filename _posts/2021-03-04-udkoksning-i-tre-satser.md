@@ -5,7 +5,7 @@ layout: post
 title: Udkoksning I Tre Satser
 artist: Cinderella
 released: 1970-01-01
-country: 🇩🇰
+country: Dinamarca
 label: Birth Records
 categories: ['Blues Rock', 'Hard Rock', 'Psychedelic Rock', 'Progressive Rock']
 images:

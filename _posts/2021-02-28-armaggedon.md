@@ -5,7 +5,7 @@ layout: post
 title: Armaggedon
 artist: Armaggedon
 released: 1970-08-25
-country: 🇩🇪
+country: Alemanha
 label: Kuckuck
 categories: ['Hard Rock']
 images:

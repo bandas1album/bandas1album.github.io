@@ -5,7 +5,7 @@ layout: post
 title: Io Non So Da Dove Vengo E Non So Dove Mai Andrò, Uomo È Il Nome Che Mi Han Dato
 artist: De De Lind
 released: 1972-01-01
-country: 🇮🇹
+country: Itália
 label: Mercury
 categories: ['Progressive Rock', 'Art Rock']
 images:

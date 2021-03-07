@@ -5,7 +5,7 @@ layout: post
 title: Supernatural Fairy Tales
 artist: Art
 released: 1967-11-01
-country: 🇬🇧
+country: Inglaterra
 label: Island Records
 categories: ['Psychedelic Rock', 'Progressive Rock']
 images:
