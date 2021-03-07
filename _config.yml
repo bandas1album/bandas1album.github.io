@@ -35,3 +35,9 @@ exclude:
   - vendor/ruby/
   - src/
   - LICENSE
+  - package.lock.json
+  - package.json
+  - webpack.config.babel.js
+  - .editorconfig
+  - .eslintignore
+  - .eslintrc.js

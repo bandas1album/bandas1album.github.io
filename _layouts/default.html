@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: none
 ---
 
 <!DOCTYPE html>
@@ -7,12 +7,7 @@ layout: compress
   {% include head.html %}
 
   <body class="default">
-    {% include header.html %}
-
-    <main class="main">{% include lists/list-posts.html %}</main>
-
-    {% include footer.html %}
-
-    <script src="/assets/js/main.js"></script>
+    <div id="#app">{{ content }}</div>
+    {% include scripts.html %}
   </body>
 </html>
