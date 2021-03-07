@@ -46,9 +46,10 @@ layout: compress
               ({{ page.released | date: "%Y" }})
             </strong>
             <meta itemprop="copyrightHolder" content="{{ page.label }}" />
-            <meta itemprop="description" content="{{ page.country }} O álbum {{
-            page.title }} foi o único álbum lançado por {{ page.artist }}, em {{
-            page.released | date: "%Y" }}, pelo selo {{ page.label }}. " />
+            <meta itemprop="description" content="O álbum {{ page.title }} foi o
+            único disco de estúdio lançado por {{ page.artist }} ({{
+            page.country }}), em {{ page.released | date: "%Y" }}, pelo selo {{
+            page.label }}." />
             <meta content="{{ page.categories[0] }}" itemprop="genre" />
           </header>
           <ul class="post-album__content__links">
