@@ -16,8 +16,8 @@
   name="description" content=" {% if page.url == '/'%} {{ site.description }} {%
   elsif page.layout == 'post' %} {{ page.country }} O álbum {{ page.title }} foi
   o único disco de estúdio lançado por {{ page.artist }}, em {{ page.released |
-  date: "%Y" }}, pelo selo {{ page.label }}. Ouça agora! {% else %} {{
-  page.description }} {% endif %}" />
+  date: "%Y" }}, pelo selo {{ page.label }}. Ouça agora essa pérola da {{
+  page.country }}! {% else %} {{ page.description }} {% endif %}" />
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
@@ -30,7 +30,8 @@
   site.description }} {% elsif page.layout == 'post' %} {{ page.country }} O
   álbum {{ page.title }} foi o único disco de estúdio lançado por {{ page.artist
   }}, em {{ page.released | date: "%Y" }}, pelo selo {{ page.label }}. Ouça
-  agora! {% else %} {{ page.description }} {% endif %}" />
+  agora essa pérola da {{ page.country }}! {% else %} {{ page.description }} {%
+  endif %}" />
   <meta
     property="og:image"
     content="{% if page.url == '/'%}{{ site.shareImage | absolute_url }}{% elsif page.layout == 'post' %}{{ page.images[0] }}{% endif %}"
@@ -47,7 +48,8 @@
   site.description }} {% elsif page.layout == 'post' %} {{ page.country }} O
   álbum {{ page.title }} foi o único disco de estúdio lançado por {{ page.artist
   }}, em {{ page.released | date: "%Y" }}, pelo selo {{ page.label }}. Ouça
-  agora! {% else %} {{ page.description }} {% endif %}" />
+  agora essa pérola da {{ page.country }}! {% else %} {{ page.description }} {%
+  endif %}" />
   <meta
     property="twitter:image"
     content="{% if page.url == '/'%}{{ site.shareImage | absolute_url }}{% elsif page.layout == 'post' %}{{ page.images[0] }}{% endif %}"
