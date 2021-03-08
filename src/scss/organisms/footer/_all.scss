@@ -2,7 +2,6 @@
   width: 100%;
   z-index: 1;
   background-image: linear-gradient(to top, $black, transparent);
-  pointer-events: none;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -57,12 +56,14 @@
     h1 {
       margin: 0;
       font-size: rem(16px);
+    }
 
-      span {
-        display: block;
-        font-size: rem(12px);
-        font-weight: 300;
-      }
+    h2 {
+      margin: 0;
+      margin-bottom: rem(4px);
+      display: block;
+      font-size: rem(10px);
+      font-weight: 400;
     }
 
     p {

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/.bin/webpack --watch | bundle exec jekyll serve --incremental",
+    "start": "./node_modules/.bin/webpack --watch | bundle exec jekyll serve --incremental -l",
     "build": "./node_modules/.bin/webpack --build | bundle exec jekyll build"
   },
   "engines": {
