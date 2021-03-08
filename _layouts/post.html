@@ -31,17 +31,19 @@ layout: compress
         <div class="post-album__content">
           {% include lists/list-breadcrumb.html %}
           <header class="post-album__content__header">
-            <h2
-              class="post-album__content__artist"
-              itemprop="byArtist"
-              itemscope
-              itemtype="https://schema.org/MusicGroup"
-            >
-              <span itemprop="name">{{ page.artist }}</span>
-            </h2>
-            <h1 class="post-album__content__title" itemprop="name">
-              {{ page.title }}
-            </h1>
+            <hgroup>
+              <h1 class="post-album__content__title" itemprop="name">
+                {{ page.title }}
+              </h1>
+              <h2
+                class="post-album__content__artist"
+                itemprop="byArtist"
+                itemscope
+                itemtype="https://schema.org/MusicGroup"
+              >
+                <span itemprop="name">{{ page.artist }}</span>
+              </h2>
+            </hgroup>
             <strong class="post-album__content__year" itemprop="copyrightYear">
               ({{ page.released | date: "%Y" }})
             </strong>

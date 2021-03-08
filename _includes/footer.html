@@ -5,8 +5,17 @@
         <img src="/assets/img/logo.png" alt="Bandas de 1 Álbum" />
       </a>
       <div>
-        <h1>Bandas de 1 Álbum</h1>
-        <h2>Eternizando bandas que lançaram só 1 disco.</h2>
+        {% if page.url == '/' %}
+        <h1 class="footer__copy__title">Bandas de 1 Álbum</h1>
+        <h2 class="footer__copy__subtitle">
+          Eternizando bandas que lançaram só 1 disco.
+        </h2>
+        {% else %}
+        <h2 class="footer__copy__title">Bandas de 1 Álbum</h1>
+        <h3 class="footer__copy__subtitle">
+          Eternizando bandas que lançaram só 1 disco.
+        </h2>
+        {% endif %}
         <p>
           <small>
             2021 &copy; Feito por
