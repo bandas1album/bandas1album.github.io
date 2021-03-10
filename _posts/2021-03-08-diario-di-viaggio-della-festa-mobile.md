@@ -10,7 +10,7 @@ label: RCA
 categories: ['Progressive Rock']
 images:
   [
-    'https://i.discogs.com/R-3272626-1323363569.jpeg?bucket=discogs-images&expiry=1615247237102.277&fit=contain&format=auto&height=600&quality=90&width=600&signature=954P8PzMxfvVG88L3/wSkBKpbEWW%2Bvh8J6x4DnOE118%3D',
+    'https://i.discogs.com/R-3272626-1323363569.jpeg?bucket=discogs-images&expiry=1615256734042.116&fit=contain&format=auto&height=600&quality=90&width=600&signature=dB1PzoZJMEDiMsQvcaAektxP%2BOkWWZf4AZMdmYP4eaw%3D',
   ]
 
 # Links
