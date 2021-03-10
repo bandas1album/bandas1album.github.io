@@ -11,12 +11,17 @@
           srcset="/assets/img/albums{{post.url}}.webp"
           type="image/webp"
         />
-        <source srcset="/assets/img/albums{{post.url}}.jpg" type="image/jpeg" />
+        <source
+          srcset="/assets/img/albums{{post.url}}_thumb.jpg"
+          type="image/jpeg"
+        />
         <img
           class="list-posts__card__image"
           loading="lazy"
-          src="/assets/img/albums{{post.url}}.jpg"
+          src="/assets/img/albums{{post.url}}_thumb.jpg"
           alt="Capa do álbum {{ post.title }} - {{ post.artist }}"
+          width="160"
+          height="160"
         />
       </picture>
     </a>
