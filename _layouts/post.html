@@ -17,11 +17,22 @@ layout: compress
         itemtype="https://schema.org/MusicAlbum"
       >
         <div class="post-album__cover">
-          <img
-            itemprop="image"
-            src="{{ page.images[0] }}"
-            alt="{{ page.title }}"
-          />
+          <picture>
+            <source
+              srcset="/assets/img/albums{{page.url}}.webp"
+              type="image/webp"
+            />
+            <source
+              srcset="/assets/img/albums{{page.url}}.jpg"
+              type="image/jpeg"
+            />
+            <img
+              itemprop="image"
+              loading="lazy"
+              src="/assets/img/albums{{page.url}}.jpg"
+              alt="Capa do álbum {{ page.title }} - {{ page.artist }}"
+            />
+          </picture>
           <!-- {%- for image in page.images -%}
           <div>
             <img src="{{ image }}" alt="" />

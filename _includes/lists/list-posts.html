@@ -6,12 +6,19 @@
       class="list-posts__card"
       title="{{ post.title }} - {{ post.artist }}"
     >
-      <img
-        class="list-posts__card__image"
-        src="{{ post.images[0] }}"
-        alt="{{ post.title }}"
-        loading="lazy"
-      />
+      <picture>
+        <source
+          srcset="/assets/img/albums{{post.url}}.webp"
+          type="image/webp"
+        />
+        <source srcset="/assets/img/albums{{post.url}}.jpg" type="image/jpeg" />
+        <img
+          class="list-posts__card__image"
+          loading="lazy"
+          src="/assets/img/albums{{post.url}}.jpg"
+          alt="Capa do álbum {{ post.title }} - {{ post.artist }}"
+        />
+      </picture>
     </a>
   </li>
   {%- endfor -%}
