@@ -2,7 +2,7 @@ title: Bandas de 1 Álbum
 subtitle: Eternizando bandas que lançaram só 1 disco
 email: bandasde1album@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  O Bandas de 1 Álbum tem por propósito eternizar as "One Album Wonders", aquelas bandas que lançaram apenas um disco de estúdio na carreira.
+  O Bandas de 1 Álbum tem por propósito eternizar as 'One Album Wonders', aquelas bandas que lançaram apenas um disco de estúdio na carreira.
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://bandas1album.com.br' # the base hostname & protocol for your site, e.g. http://example.com
 shareImage: '/assets/img/share.png'
