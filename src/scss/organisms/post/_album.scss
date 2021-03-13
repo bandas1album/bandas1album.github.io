@@ -79,6 +79,16 @@
       }
     }
 
+    &__year:before {
+      content: '(';
+      display: inline-block;
+    }
+
+    &__year:after {
+      content: ')';
+      display: inline-block;
+    }
+
     &__links {
       margin: 0;
       padding: 0;

@@ -55,9 +55,9 @@ layout: compress
                 <span itemprop="name">{{ page.artist }}</span>
               </h2>
             </hgroup>
-            <strong class="post-album__content__year" itemprop="copyrightYear">
-              ({{ page.released | date: "%Y" }})
-            </strong>
+            <strong class="post-album__content__year" itemprop="copyrightYear"
+              >{{ page.released | date: "%Y" }}</strong
+            >
             <meta itemprop="copyrightHolder" content="{{ page.label }}" />
             <meta itemprop="description" content="O álbum {{ page.title }} foi o
             único disco de estúdio lançado por {{ page.artist }} ({{
