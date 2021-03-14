@@ -8,11 +8,6 @@ released: 2016-11-04
 country: Israel
 label: Fading Records
 categories: ['Progressive Rock']
-images:
-  [
-    'https://img.discogs.com/H6tr1sriIiDuRM74GH6hiSh6IRE=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9579351-1519721731-4649.jpeg.jpg',
-    'https://img.discogs.com/Pj7Gy7cEXmzd3PEjkXtomvotof8=/fit-in/600x485/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9579351-1519721734-9123.jpeg.jpg',
-  ]
 
 # Links
 links:

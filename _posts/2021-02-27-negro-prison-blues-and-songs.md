@@ -8,11 +8,6 @@ released: 1958-01-01
 country: Estados Unidos
 label: Tradition Records
 categories: ['Blues']
-images:
-  [
-    'https://img.discogs.com/67RhJbS7E3ivgplUrxo3pJAqZtc=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5473120-1394266479-2598.jpeg.jpg',
-    'https://img.discogs.com/394Xv2L8cr-5IASafhnwUC6lJgs=/fit-in/600x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5473120-1394266493-4704.jpeg.jpg',
-  ]
 
 # Links
 links:

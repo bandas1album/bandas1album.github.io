@@ -8,11 +8,6 @@ released: 1971-01-01
 country: Itália
 label: Kaleidoscope
 categories: ['Psychedelic Rock', 'Progressive Rock']
-images:
-  [
-    'https://img.discogs.com/OOyVllg6dRNKsKZJta2uIdxZJk8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1718480-1420059078-9183.jpeg.jpg',
-    'https://img.discogs.com/NNCbBMIU11avj0U5WcPMVgei3MU=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1718480-1420059098-4038.jpeg.jpg',
-  ]
 
 # Links
 links:

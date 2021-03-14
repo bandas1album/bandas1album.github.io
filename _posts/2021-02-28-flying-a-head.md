@@ -8,11 +8,6 @@ released: 1970-01-01
 country: Estados Unidos
 label: Dunhill Records
 categories: ['Hard Rock', 'Blues Rock']
-images:
-  [
-    'https://img.discogs.com/_VCD5ZXJuYgMAd2bp-78_luolZM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1535668-1352369583-1230.jpeg.jpg',
-    'https://img.discogs.com/zihXOpoK_CSQWtOVRjHumuKA5fA=/fit-in/600x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1212335-1583553668-4623.jpeg.jpg',
-  ]
 
 # Links
 links:

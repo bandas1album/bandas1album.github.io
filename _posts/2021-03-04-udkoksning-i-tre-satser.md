@@ -8,11 +8,6 @@ released: 1970-01-01
 country: Dinamarca
 label: Birth Records
 categories: ['Blues Rock', 'Hard Rock', 'Psychedelic Rock', 'Progressive Rock']
-images:
-  [
-    'https://img.discogs.com/6fyl8976pf6cAOqYAGG5Gspf91A=/fit-in/594x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1097587-1357643920-2618.jpeg.jpg',
-    'https://img.discogs.com/BT2YvNz5YfY5RWbSt8ktMrn2iO8=/fit-in/584x482/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1097587-1357643926-3605.jpeg.jpg',
-  ]
 
 # Links
 links:

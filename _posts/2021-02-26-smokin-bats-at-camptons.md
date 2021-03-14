@@ -8,11 +8,6 @@ released: 1974-01-01
 country: Estados Unidos
 label: 700 West
 categories: ['Hard Rock', 'Blues Rock']
-images:
-  [
-    'https://img.discogs.com/VQvrmflvv_mH44BU9sgWhJ_Vz-g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6253357-1558446111-1137.jpeg.jpg',
-    'https://img.discogs.com/XMB48LjXKN99YIiJJmO7vCintL4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6253357-1558446111-4582.jpeg.jpg',
-  ]
 
 # Links
 links:

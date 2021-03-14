@@ -8,11 +8,6 @@ released: 1992-09-01
 country: Estados Unidos
 label: Interscope Records
 categories: ['Alternative Rock', 'Folk Rock', 'Psychedelic Rock']
-images:
-  [
-    'https://img.discogs.com/QojK_KGeQ32iYxRcumVehgJmKkY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-415348-1316278489.jpeg.jpg',
-    'https://img.discogs.com/5En_k_lb0RZcT9XhML3XKq6qhao=/fit-in/600x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-415348-1517876525-5847.jpeg.jpg',
-  ]
 
 # Links
 links:

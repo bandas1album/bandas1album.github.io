@@ -8,12 +8,6 @@ released: 1994-06-07
 country: Estados Unidos
 label: Geffen Records
 categories: ['Heavy Metal', 'Southern Rock']
-images:
-  [
-    'https://img.discogs.com/77hgLEDroYucbv_8AfVMnGzpI8I=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9885470-1487955064-8175.jpeg.jpg',
-    'https://img.discogs.com/QX6owo70gfzvh8wxQThSj3jU2rI=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9885470-1487955064-6853.jpeg.jpg',
-    'https://img.discogs.com/QX6owo70gfzvh8wxQThSj3jU2rI=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9885470-1487955064-6853.jpeg.jpg',
-  ]
 
 # Links
 links:

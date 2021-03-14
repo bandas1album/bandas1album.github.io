@@ -8,11 +8,6 @@ released: 2014-05-16
 country: Estados Unidos
 label: Frontiers Records
 categories: ['Hard Rock', 'Blues Rock', 'Pop Rock']
-images:
-  [
-    'https://img.discogs.com/qhd-HOBjqqxVVtZGkEJbh7Q45_o=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5711830-1480315156-6239.jpeg.jpg',
-    'https://img.discogs.com/OP0O3DzI7IvHXkmtUt7iZhktbMo=/fit-in/600x464/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5711830-1480318054-3329.jpeg.jpg',
-  ]
 
 # Links
 links:

@@ -8,11 +8,6 @@ released: 1967-11-01
 country: Inglaterra
 label: Island Records
 categories: ['Psychedelic Rock', 'Progressive Rock']
-images:
-  [
-    'https://img.discogs.com/A2XRdoAWS_Qv7mAMkyeTIXh10Ss=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1380897-1388699693-7737.jpeg.jpg',
-    'https://img.discogs.com/F06S3cFFmL9TwTLmkOyeIYwxUlE=/fit-in/600x630/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1380897-1598392910-1404.jpeg.jpg',
-  ]
 
 # Links
 links:

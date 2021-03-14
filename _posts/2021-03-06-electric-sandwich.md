@@ -8,11 +8,6 @@ released: 1972-01-01
 country: Alemanha
 label: Brain
 categories: ['Krautrock', 'Jazz Rock', 'Progressive Rock']
-images:
-  [
-    'https://img.discogs.com/HNCP3hcBsLQQO48iBy9vfh7Sxoc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2682333-1419760188-5671.jpeg.jpg',
-    'https://img.discogs.com/m-gck09vHLNgroR9_xLmOu88T_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2682333-1419760201-6766.jpeg.jpg',
-  ]
 
 # Links
 links:

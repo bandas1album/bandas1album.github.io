@@ -8,11 +8,6 @@ released: 1971-01-01
 country: Polônia
 label: Polydor
 categories: ['Progressive Rock']
-images:
-  [
-    'https://img.discogs.com/nMOfoSQnGTCZ1F0pL_PaPnkuwqY=/fit-in/385x385/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4059104-1374497996-3242.jpeg.jpg',
-    'https://img.discogs.com/Ng4GJujNEFBE4JEWmrqaz9UPJRs=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4059104-1451316067-3975.jpeg.jpg',
-  ]
 
 # Links
 links:

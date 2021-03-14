@@ -8,11 +8,6 @@ released: 1971-01-01
 country: Inglaterra
 label: Cadet Concept
 categories: ['Psychedelic Rock']
-images:
-  [
-    'https://img.discogs.com/18kjMnoc5-kZR00luzDSW8fG1DM=/fit-in/500x505/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-805540-1197321429.jpeg.jpg',
-    'https://img.discogs.com/x4mGPV8f411qGHbOzZPdfganJJk=/fit-in/500x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-805540-1197321456.jpeg.jpg',
-  ]
 
 # Links
 links:

@@ -8,11 +8,6 @@ released: 1970-01-01
 country: Inglaterra
 label: Birth Records
 categories: ['Folk', 'Jazz', 'World & Country']
-images:
-  [
-    'https://img.discogs.com/JmHgKbZcb-QyQlB_50dYUYYZleE=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4721409-1402775874-2279.jpeg.jpg',
-    'https://img.discogs.com/FqTOkCkuZNR_SJr4y4H3EMyO9V0=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4721409-1579522199-9409.jpeg.jpg',
-  ]
 
 # Links
 links:

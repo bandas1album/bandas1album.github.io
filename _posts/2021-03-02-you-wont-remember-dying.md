@@ -8,11 +8,6 @@ released: 1970-01-01
 country: Inglaterra
 label: Get Hip Recordings
 categories: ['Acid Rock', 'Hard Rock']
-images:
-  [
-    'https://img.discogs.com/K1Df88Nb6rn-pInlD75WIiV55rM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3482605-1502864676-1047.mpo.jpg',
-    'https://img.discogs.com/H-lp2oL1VGbwkDR_PoYCLsEHThU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3482605-1502864671-9516.mpo.jpg',
-  ]
 
 # Links
 links:

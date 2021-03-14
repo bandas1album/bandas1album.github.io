@@ -8,11 +8,6 @@ released: 1977-10-27
 country: Inglaterra
 label: Virgin
 categories: ['Punk Rock']
-images:
-  [
-    'https://img.discogs.com/G2g5GSt2YBgBOZhQjGuSplrIR7A=/fit-in/600x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2558425-1377106336-4419.jpeg.jpg',
-    'https://img.discogs.com/-ZrcgY4_7TjHM6GKrRY14cVJN4o=/fit-in/600x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2558425-1377106376-3291.jpeg.jpg',
-  ]
 
 # Links
 links:

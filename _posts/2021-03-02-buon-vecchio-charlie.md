@@ -8,11 +8,6 @@ released: 1971-01-01
 country: Itália
 label: Melos
 categories: ['Progressive Rock']
-images:
-  [
-    'https://img.discogs.com/ghIAgKJ2QZ3JWIHe33afHXVA-5k=/fit-in/475x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11298845-1538730298-7889.jpeg.jpg',
-    'https://img.discogs.com/pzW628Sy2tL1Hq2xzFM4SEIvE4Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11298845-1538730300-3920.jpeg.jpg',
-  ]
 
 # Links
 links:

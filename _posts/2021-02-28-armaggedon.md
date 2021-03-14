@@ -8,11 +8,6 @@ released: 1970-08-25
 country: Alemanha
 label: Kuckuck
 categories: ['Hard Rock']
-images:
-  [
-    'https://img.discogs.com/2jLq1pM0ZRR24Rku6LPu-uAdMV0=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376379-1414252468-6531.jpeg.jpg',
-    'https://img.discogs.com/GwGf9gzcfDj1v9zbt2WN4VoPfoA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376379-1546556161-6713.jpeg.jpg',
-  ]
 
 # Links
 links:

@@ -8,11 +8,6 @@ released: 1979-09-01
 country: Espanha
 label: Chapa Discos
 categories: ['Progressive Rock', 'Symphonic Rock']
-images:
-  [
-    'https://img.discogs.com/FD20p_f7JdHByID_LNVKysx4Gdo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7746391-1560159799-9602.jpeg.jpg',
-    'https://img.discogs.com/dacDKEoPvVAv2qDmUwKIo36BiC4=/fit-in/600x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8475979-1462377108-8805.jpeg.jpg',
-  ]
 
 # Links
 links:

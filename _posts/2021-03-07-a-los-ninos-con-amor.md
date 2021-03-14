@@ -8,11 +8,6 @@ released: 1974-01-01
 country: Bolívia
 label: Discos Heriba
 categories: ['Psychedelic Rock', 'Prog Rock', 'Hard Rock']
-images:
-  [
-    'https://img.discogs.com/6y0-ExI7z0cBbFxv8jD51Mz1NY4=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5049689-1434908553-3170.jpeg.jpg',
-    'https://img.discogs.com/Q8wbZiYAapK4bGNjc4zXP4CWUHY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5049689-1434908555-8749.jpeg.jpg',
-  ]
 
 # Links
 links:

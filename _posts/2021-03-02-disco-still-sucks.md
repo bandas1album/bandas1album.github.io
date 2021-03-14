@@ -8,11 +8,6 @@ released: 1969-01-01
 country: Inglaterra
 label: Get Hip Recordings
 categories: ['Garage Rock', 'Punk Rock']
-images:
-  [
-    'https://img.discogs.com/47fxtmZpPRYn81CF0lefHsBX_Tk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3700081-1490703833-1419.jpeg.jpg',
-    'https://img.discogs.com/15s55LAcr5mSbb3Re0JxWxlmPD4=/fit-in/600x473/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3700081-1490703872-6644.jpeg.jpg',
-  ]
 
 # Links
 links:

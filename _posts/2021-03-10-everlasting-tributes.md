@@ -8,11 +8,6 @@ released: 1972-10-01
 country: Estados Unidos
 label: Golden Voice Music
 categories: ['Blues Rock', 'Psychedelic Rock']
-images:
-  [
-    'https://img.discogs.com/oIwFe-2HT-IgcrJ1LpokzXWe9P8=/fit-in/583x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3121330-1316781558.jpeg.jpg',
-    'https://img.discogs.com/2XxmuBCjiuTQQ40_N2wJdsozWBM=/fit-in/579x574/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3121330-1316781565.jpeg.jpg',
-  ]
 
 # Links
 links:

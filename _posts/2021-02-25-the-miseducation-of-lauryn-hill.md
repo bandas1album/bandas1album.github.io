@@ -8,11 +8,6 @@ released: 1998-08-25
 country: Estados Unidos
 label: Columbia Records
 categories: ['Soul', 'Hip-Hop', 'Reggae']
-images:
-  [
-    'https://img.discogs.com/CTg4315jjTtj8m-DrlrenypZDEc=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-227020-1301243535.jpeg.jpg',
-    'https://img.discogs.com/M4X_9oYM7gxNxdFrLIZ3POxTDis=/fit-in/594x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-227020-1314476480.jpeg.jpg',
-  ]
 
 # Links
 links:

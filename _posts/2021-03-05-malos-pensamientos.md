@@ -8,11 +8,6 @@ released: 1971-01-01
 country: Peru
 label: Decibel
 categories: ['Psychedelic Rock']
-images:
-  [
-    'https://img.discogs.com/i0rX5syca4OpW61XXLimLWfGNv8=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3905231-1428216027-6159.jpeg.jpg',
-    'https://img.discogs.com/kcDE64iSyrx688LylgOBAO6-38A=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3905231-1428216037-6548.jpeg.jpg',
-  ]
 
 # Links
 links:

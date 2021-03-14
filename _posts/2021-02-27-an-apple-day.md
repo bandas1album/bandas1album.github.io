@@ -8,11 +8,6 @@ released: 1969-09-22
 country: Inglaterra
 label: Page One
 categories: ['Psychedelic Rock', 'Pop Rock']
-images:
-  [
-    'https://img.discogs.com/4YCHs8NppnooLJnxtdciWKkxi8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3347774-1326797914.jpeg.jpg',
-    'https://img.discogs.com/zihXOpoK_CSQWtOVRjHumuKA5fA=/fit-in/600x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1212335-1583553668-4623.jpeg.jpg',
-  ]
 
 # Links
 links:

@@ -8,11 +8,6 @@ released: 1975-01-01
 country: Inglaterra
 label: A&M Records
 categories: ['Hard Rock', 'Progressive Rock']
-images:
-  [
-    'https://img.discogs.com/bEQj_F4QNrpC-t2-AXHJPzkyQGY=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2971463-1495383912-1206.jpeg.jpg',
-    'https://img.discogs.com/81HdRFznpi36_tCXXI-5Iw80ego=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2971463-1495383913-8753.jpeg.jpg',
-  ]
 
 # Links
 links:

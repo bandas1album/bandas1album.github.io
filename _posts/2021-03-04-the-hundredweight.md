@@ -8,11 +8,6 @@ released: 1973-01-01
 country: Alemanha
 label: Kuckuck
 categories: ['Blues Rock']
-images:
-  [
-    'https://img.discogs.com/5daqx1bhsFFgtz7IKL7PGVKD81I=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2181880-1419348034-5841.jpeg.jpg',
-    'https://img.discogs.com/b0Zsz6ukZcJO3J5yLxjfXusVJak=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2181880-1419348037-5833.jpeg.jpg',
-  ]
 
 # Links
 links:

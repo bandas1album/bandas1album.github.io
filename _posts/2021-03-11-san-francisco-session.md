@@ -8,11 +8,6 @@ released: 1970-01-01
 country: Estados Unidos
 label: RD Records
 categories: ['Classic Rock']
-images:
-  [
-    'https://img.discogs.com/MHR1u99UNMIo0092lwSiYJIzzwU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3691849-1615433609-1305.jpeg.jpg',
-    'https://img.discogs.com/ayUQ5EtxEhZctV1raldQ2qrmLJQ=/fit-in/500x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3691849-1442446240-1735.jpeg.jpg',
-  ]
 
 # Links
 links:

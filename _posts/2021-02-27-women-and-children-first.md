@@ -8,11 +8,6 @@ released: 1970-01-01
 country: País de Gales
 label: Mercury
 categories: ['Hard Rock', 'Psychedelic Rock']
-images:
-  [
-    'https://img.discogs.com/XXb099_NfrvtQSASYDaPRsqXLVE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4738107-1456880040-3664.jpeg.jpg',
-    'https://img.discogs.com/xvisP7I9xwGhwoYhUF9J4gp6P44=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4738107-1456880026-8817.jpeg.jpg',
-  ]
 
 # Links
 links:

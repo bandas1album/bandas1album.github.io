@@ -8,11 +8,6 @@ released: 1972-01-01
 country: Itália
 label: Mercury
 categories: ['Progressive Rock', 'Art Rock']
-images:
-  [
-    'https://img.discogs.com/2vIzXJi1JyhAlS3QjC4KMhNhz30=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4074538-1354379638-2911.jpeg.jpg',
-    'https://img.discogs.com/1dJ6jRK_8HQU547aP-_R4T3k5v8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4074538-1434536248-4591.jpeg.jpg',
-  ]
 
 # Links
 links:

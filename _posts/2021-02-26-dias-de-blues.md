@@ -8,13 +8,6 @@ released: 1973-01-01
 country: Uruguai
 label: Discos De La Planta
 categories: ['Hard Rock', 'Blues Rock']
-images:
-  [
-    'https://img.discogs.com/6raK1X5N-YaNo7kW2OK23XmWHEo=/fit-in/600x641/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9328968-1478710310-9709.jpeg.jpg',
-    'https://img.discogs.com/gymNjUSkrfO5VlzT9jSs8N1tJco=/fit-in/600x638/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9328968-1478710315-7401.jpeg.jpg',
-    'https://img.discogs.com/T3ZSxY_DwG_7UE3m8O4v1ttTOc8=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9328968-1478710320-5985.jpeg.jpg',
-    'https://img.discogs.com/tP9rCAN4E1N3M4ktgkhwOk53U8c=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9328968-1478710328-8208.jpeg.jpg',
-  ]
 
 # Links
 links:

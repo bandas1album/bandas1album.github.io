@@ -8,11 +8,6 @@ released: 1971-01-01
 country: Alemanha
 label: Pilz
 categories: ['Progressive Rock', 'Krautrock']
-images:
-  [
-    'https://img.discogs.com/acDLAup7S1WlOAC8Jy3_mqcb7vo=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-646211-1253428180.jpeg.jpg',
-    'https://img.discogs.com/e-0S5mGWCddkHVtWyqUUkk27sIk=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-646211-1253428194.jpeg.jpg',
-  ]
 
 # Links
 links:

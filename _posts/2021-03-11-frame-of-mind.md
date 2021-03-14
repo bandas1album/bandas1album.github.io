@@ -8,11 +8,6 @@ released: 1972-01-01
 country: Alemanha
 label: Bacillus Records
 categories: ['Hard Rock', 'Progressive Rock']
-images:
-  [
-    'https://img.discogs.com/DR-8rKnk0kTjrRHHjwBl9RYxolY=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3871987-1504279916-7127.jpeg.jpg',
-    'https://img.discogs.com/pZDAKCxJdJTHV9DXtrBvW7lbqnM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3871987-1504279946-6079.jpeg.jpg',
-  ]
 
 # Links
 links:

@@ -8,11 +8,6 @@ released: 1969-11-01
 country: Inglaterra
 label: Middle Earth
 categories: ['Psychedelic Rock']
-images:
-  [
-    'https://img.discogs.com/oc7IhZ0QTUOVazaV75cHcPErmNI=/fit-in/441x433/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1091880-1401642246-2112.jpeg.jpg',
-    'https://img.discogs.com/TcTGU2T5P1kHRrvGu3SmPElCe8E=/fit-in/445x434/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1091880-1401642256-7182.jpeg.jpg',
-  ]
 
 # Links
 links:

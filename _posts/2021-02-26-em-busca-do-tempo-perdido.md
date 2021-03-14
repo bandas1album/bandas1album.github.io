@@ -8,13 +8,6 @@ released: 1975-01-01
 country: Brasil
 label: Polydor
 categories: ['Hard Rock', 'Blues Rock']
-images:
-  [
-    'https://img.discogs.com/V-cXOI-zZUFksY82QcL9Wm7t0VY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4943400-1380141429-2127.jpeg.jpg',
-    'https://img.discogs.com/TDZt8obJh9wSwHJZqxAAbva4YVM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4943400-1380141437-6538.jpeg.jpg',
-    'https://img.discogs.com/dEWRo9ycKXZe330gdwTSJMPhmEU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4943400-1380141564-5053.jpeg.jpg',
-    'https://img.discogs.com/-MGSDkxhrJSm7EyXlZP-NGcIsv4=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4943400-1380141571-8684.jpeg.jpg',
-  ]
 
 # Links
 links:
