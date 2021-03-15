@@ -1,0 +1,145 @@
+<div class="cookie-modal" data-cookies="modal">
+  <div class="cookie-modal__bg"></div>
+  <div class="cookie-modal__wrapper">
+    <div class="cookie-modal__header">
+      <h3 class="cookie-modal__title">Configuração de Cookies:</h3>
+      <p class="cookie-modal__description">
+        O Carrefour Brasil utiliza cookies para facilitar o uso do site,
+        melhorar o seu desempenho e segurança, personalizar o conteúdo proposto.
+        Para saber mais sobre como tratamos seus dados, acesse a nossa
+        <a
+          href="https://www.carrefour.com.br/central-de-privacidade"
+          target="_blank"
+          title="Acesse a página com informações de privacidade"
+          >Política de Privacidade</a
+        >
+        para maiores informações.
+      </p>
+      <div class="cookie-modal__actions">
+        <!-- <button
+          class="cookie-modal__button__config cookie-modal__button cookie-modal__button--outlined"
+          data-cookies="settings"
+        >
+          <span>Configurar cookies</span>
+        </button>
+        <span class="cookie-modal__actions__message">
+          Levará apenas poucos segundos
+        </span> -->
+        <button
+          class="dd-a-button filled positive medium rectangle"
+          data-cookies="accept"
+        >
+          <span>Aceitar todos os cookies</span>
+        </button>
+      </div>
+    </div>
+    <div class="cookie-modal__body">
+      <p class="cookie-modal__body__preferences">
+        Gerenciar preferencias de cookies
+      </p>
+      <ul class="cookie-modal__apps">
+        <li class="cookie-modal__apps__item">
+          <div>
+            <input
+              class="cookie-modal__apps__input"
+              disabled
+              type="checkbox"
+              checked
+              id="cookies-essentials"
+              aria-describedby="cookie-modal__apps__description"
+            />
+            <label class="cookie-modal__apps__label" for="cookies-essentials">
+              <strong>Essentials</strong>
+              <span>(obrigatório)</span>
+              <span class="switch"></span>
+            </label>
+            <div class="cookie-modal__apps__description">
+              <p>
+                São os cookies estritamente necessários para fornecer nossos
+                serviços e para que o nosso site funcione corretamente.
+              </p>
+              <p>Propósito: Essenciais</p>
+            </div>
+          </div>
+        </li>
+        <li class="cookie-modal__apps__item">
+          <div>
+            <input
+              class="cookie-modal__apps__input"
+              type="checkbox"
+              checked
+              id="cookies-marketing"
+              aria-describedby="cookie-modal__apps__description"
+            />
+            <label class="cookie-modal__apps__label" for="cookies-marketing">
+              <strong>Marketing</strong>
+              <span>(carregado por padrão)</span>
+              <span class="switch"></span>
+            </label>
+            <div class="cookie-modal__apps__description">
+              <p>
+                Usados para direcionamento de conteúdos e publicidade, nossos e
+                de nossos parceiros, conforme o seu perfil e preferências.
+              </p>
+              <p>Propósito: Marketing</p>
+            </div>
+          </div>
+        </li>
+        <li class="cookie-modal__apps__item">
+          <div>
+            <input
+              class="cookie-modal__apps__input"
+              type="checkbox"
+              checked
+              id="cookies-analytics"
+              aria-describedby="cookie-modal__apps__description"
+            />
+            <label class="cookie-modal__apps__label" for="cookies-analytics">
+              <strong>Analytics</strong>
+              <span>(carregado por padrão)</span>
+              <span class="switch"></span>
+            </label>
+            <div class="cookie-modal__apps__description">
+              <p>
+                Fornecem informações sobre seu comportamento de navegação e como
+                o site está sendo usado, para melhorar sua experiência como
+                usuário. Os dados coletados são agregados e anonimizados.
+              </p>
+              <p>Propósito: Analíticos</p>
+            </div>
+          </div>
+        </li>
+        <li class="cookie-modal__apps__item cookie-modal__apps__all">
+          <div>
+            <input
+              class="cookie-modal__apps__input"
+              type="checkbox"
+              checked
+              id="cookies-all"
+              data-cookies="selectAll"
+              aria-describedby="cookie-modal__apps__description"
+            />
+            <label class="cookie-modal__apps__label" for="cookies-all">
+              <strong>Todas as aplicações</strong>
+              <span class="switch"></span>
+            </label>
+            <div class="cookie-modal__apps__description">
+              <p>
+                Use este seletor para habilitar/desabilitar todas as aplicações
+                de uma vez.
+              </p>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="cookie-modal__footer">
+      <button
+        class="cookie-modal__button__save cookie-modal__button cookie-modal__button--outlined"
+        data-cookies="save"
+      >
+        <span>Salvar preferências</span>
+      </button>
+    </div>
+  </div>
+</div>
