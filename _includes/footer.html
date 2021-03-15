@@ -2,18 +2,18 @@
   <div class="footer__wrapper">
     <div class="footer__copy">
       <a href="/">
-        <img src="/assets/img/logo.png" alt="Bandas de 1 Álbum" />
+        <img src="/assets/img/logo.png" alt="{{ site.title }}" />
       </a>
       <div>
         {% if page.url == '/' %}
-        <h1 class="footer__copy__title">Bandas de 1 Álbum</h1>
+        <h1 class="footer__copy__title">{{ site.title }}</h1>
         <h2 class="footer__copy__subtitle">
-          Eternizando bandas que lançaram só 1 disco.
+          {{site.subtitle}}
         </h2>
         {% else %}
-        <h2 class="footer__copy__title">Bandas de 1 Álbum</h1>
+        <h2 class="footer__copy__title">{{ site.title }}</h1>
         <h3 class="footer__copy__subtitle">
-          Eternizando bandas que lançaram só 1 disco.
+          {{site.subtitle}}
         </h2>
         {% endif %}
         <p>
