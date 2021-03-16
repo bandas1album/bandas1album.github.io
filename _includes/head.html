@@ -2,7 +2,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
 
   <title>
     {% if page.url == '/' %} {{ site.title }} | {{ site.subtitle }} {% elsif
@@ -22,7 +22,7 @@
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="{{ site.url }}" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}" />
   <meta property="og:title" content="{% if page.url == '/' %} {{ site.title }} |
   {{ site.subtitle }} {% elsif page.layout == 'post' %} {{ page.title }} - {{
   page.artist }} ({{ page.released | date: "%Y" }}) | {{ site.title }} {% else
@@ -39,7 +39,7 @@
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="twitter:url" content="{{ site.url }}" />
+  <meta property="twitter:url" content="{{ page.url | absolute_url }}" />
   <meta property="twitter:title" content="{% if page.url == '/' %} {{ site.title
   }} | {{ site.subtitle }} {% elsif page.layout == 'post' %} {{ page.title }} -
   {{ page.artist }} ({{ page.released | date: "%Y" }}) | {{ site.title }} {%
