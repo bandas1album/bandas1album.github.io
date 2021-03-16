@@ -1,9 +1,9 @@
+{%- if page.layout == 'post' -%}
 <header class="header" role="banner">
   <div class="header__wrapper">
-    {%- if page.url != '/' -%}
     <a href="{{ site.url }}" class="header__close">
       <i class="fas fa-times"></i>
     </a>
-    {%- endif -%}
   </div>
 </header>
+{%- endif -%}

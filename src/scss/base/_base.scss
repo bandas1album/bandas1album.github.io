@@ -42,6 +42,35 @@ h6 {
 }
 
 h1 {
+  font-size: rem(32px);
+
+  @media (min-width: $tablet) {
+    font-size: rem(48px);
+  }
+}
+
+h2 {
+  font-size: rem(24px);
+
+  @media (min-width: $tablet) {
+    font-size: rem(40px);
+  }
+}
+
+h3 {
+  font-size: rem(16px);
+
+  @media (min-width: $tablet) {
+    font-size: rem(32px);
+  }
+}
+
+h4 {
+  font-size: rem(16px);
+
+  @media (min-width: $tablet) {
+    font-size: rem(24px);
+  }
 }
 
 p {
