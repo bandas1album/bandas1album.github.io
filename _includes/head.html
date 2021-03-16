@@ -32,10 +32,7 @@
   foi o único disco de estúdio lançado por {{ page.artist }} ({{ page.country
   }}), em {{ page.released | date: "%Y" }}, pelo selo {{ page.label }}. Ouça
   agora! {% else %} {{ page.description }} {% endif %}" />
-  <meta
-    property="og:image"
-    content="{% if page.url == '/'%}{{ site.shareImage | absolute_url }}{% elsif page.layout == 'post' %}{{ page.images[0] }}{% endif %}"
-  />
+  <meta property="og:image" content="/assets/img/albums{{page.url}}.jpg" />
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
@@ -49,10 +46,7 @@
   foi o único disco de estúdio lançado por {{ page.artist }} ({{ page.country
   }}), em {{ page.released | date: "%Y" }}, pelo selo {{ page.label }}. Ouça
   agora! {% else %} {{ page.description }} {% endif %}" />
-  <meta
-    property="twitter:image"
-    content="{% if page.url == '/'%}{{ site.shareImage | absolute_url }}{% elsif page.layout == 'post' %}{{ page.images[0] }}{% endif %}"
-  />
+  <meta property="twitter:image" content="/assets/img/albums{{page.url}}.jpg" />
 
   <!-- Font Awesome Solid + Brands -->
   <link href="/assets/fontawesome/css/fontawesome.css" rel="stylesheet" />
