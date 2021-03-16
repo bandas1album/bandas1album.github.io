@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sobre o Bandas de 1 Álbum
+description: O Bandas de 1 Álbum tem por propósito eternizar as 'One Album Wonders', aquelas bandas que lançaram apenas um disco de estúdio na carreira.
 ---
 [<img src="/assets/img/logo.png" alt="Bandas de 1 Álbum">](/)
 
