@@ -11,16 +11,11 @@ categories: ['Garage Rock', 'Punk Rock']
 
 # Links
 links:
-  - title: Amazon
-    url: https://amzn.to/2MAFSqu
-  - title: Deezer
-    url: https://www.deezer.com/br/album/6065616
-  - title: Lastfm
-    url: https://www.last.fm/music/Bob+Hocko+&+The+Swamp+Rats/Disco+Still+Sucks!
-  - title: Spotify
-    url: https://open.spotify.com/album/6Y9F8bzl3Pe9PJ7EATyZzK?si=joq7D-gTSN2mmLLuYR1CQw
-  - title: YouTube
-    url: https://music.youtube.com/playlist?list=OLAK5uy_lpfb5FRiISgLKgonpNVZjlHJ_UbeeVN3U
-  - title: Wikipedia-w
-    url: https://en.wikipedia.org/wiki/The_Swamp_Rats
+  amazon: https://amzn.to/2MAFSqu
+  deezer: https://www.deezer.com/br/album/6065616
+  lastfm: https://www.last.fm/music/Bob+Hocko+&+The+Swamp+Rats/Disco+Still+Sucks!
+  spotify: https://open.spotify.com/album/6Y9F8bzl3Pe9PJ7EATyZzK?si=joq7D-gTSN2mmLLuYR1CQw
+  youtube: https://music.youtube.com/playlist?list=OLAK5uy_lpfb5FRiISgLKgonpNVZjlHJ_UbeeVN3U
+  wikipedia: https://en.wikipedia.org/wiki/The_Swamp_Rats
+  download: http://murodoclassicrock4.blogspot.com.br/2016/04/bob-hocko-and-swamp-rats-disco-still.html
 ---

@@ -65,20 +65,7 @@ layout: compress
             page.label }}." />
             <meta content="{{ page.categories[0] }}" itemprop="genre" />
           </header>
-          <ul class="post-album__content__links">
-            {%- for link in page.links -%} {%- if link.url -%}
-            <li>
-              <a
-                href="{{ link.url }}"
-                title="Abrir álbum no {{link.title}}"
-                target="_blank"
-                class="post-album__content__links__item {{link.title | slugify}}"
-              >
-                <i class="fab fa-{{link.title | slugify}}"></i>
-              </a>
-            </li>
-            {%- endif -%} {%- endfor -%}
-          </ul>
+          {% include lists/list-links.html %}
 
           <footer class="post-footer">
             <nav class="post-navigation">

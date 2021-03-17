@@ -11,16 +11,11 @@ categories: ['Hard Rock', 'Psychedelic Rock']
 
 # Links
 links:
-  - title: Amazon
-    url: https://amzn.to/3uF1Vxp
-  - title: Deezer
-    url: https://www.deezer.com/br/album/6137537
-  - title: Lastfm
-    url: https://www.last.fm/music/Ancient+Grease/Women+and+Children+First
-  - title: Spotify
-    url: https://open.spotify.com/album/6nhmKfHRd9RUD9ExFyxrbG?si=6rTg3VfaS8a0DfE8hJ5p5g
-  - title: YouTube
-    url: https://music.youtube.com/playlist?list=OLAK5uy_k3ZVFzZh1-tDB0Pfd9PVZ9iRR17vAxuIg
-  - title: Wikipedia-w
-    url: #
+  amazon: https://amzn.to/3uF1Vxp
+  deezer: https://www.deezer.com/br/album/6137537
+  lastfm: https://www.last.fm/music/Ancient+Grease/Women+and+Children+First
+  spotify: https://open.spotify.com/album/6nhmKfHRd9RUD9ExFyxrbG?si=6rTg3VfaS8a0DfE8hJ5p5g
+  youtube: https://music.youtube.com/playlist?list=OLAK5uy_k3ZVFzZh1-tDB0Pfd9PVZ9iRR17vAxuIg
+  wikipedia:
+  download: http://murodoclassicrock4.blogspot.com.br/2017/10/ancient-grease-women-and-children-first.html
 ---

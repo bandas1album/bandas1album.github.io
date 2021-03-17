@@ -1,0 +1,80 @@
+<ul class="post-album__content__links">
+  {%- if page.links.amazon -%}
+  <li>
+    <a
+      href="{{ page.links.amazon }}"
+      target="_blank"
+      class="post-album__content__links__item"
+      title='Comprar o álbum "{{page.title}}" na Amazon'
+    >
+      <i class="fab fa-amazon"></i>
+    </a>
+  </li>
+  {%- endif -%} {%- if page.links.deezer -%}
+  <li>
+    <a
+      href="{{ page.links.deezer }}"
+      target="_blank"
+      class="post-album__content__links__item"
+      title='Ouvir o álbum "{{page.title}}" no Deezer'
+    >
+      <i class="fab fa-deezer"></i>
+    </a>
+  </li>
+  {%- endif -%} {%- if page.links.lastfm -%}
+  <li>
+    <a
+      href="{{ page.links.lastfm }}"
+      target="_blank"
+      class="post-album__content__links__item"
+      title='Ouvir o álbum "{{page.title}}" no Last.fm'
+    >
+      <i class="fab fa-lastfm"></i>
+    </a>
+  </li>
+  {%- endif -%} {%- if page.links.spotify -%}
+  <li>
+    <a
+      href="{{ page.links.spotify }}"
+      target="_blank"
+      class="post-album__content__links__item"
+      title='Ouvir o álbum "{{page.title}}" no Spotify'
+    >
+      <i class="fab fa-spotify"></i>
+    </a>
+  </li>
+  {%- endif -%} {%- if page.links.youtube -%}
+  <li>
+    <a
+      href="{{ page.links.youtube }}"
+      target="_blank"
+      class="post-album__content__links__item"
+      title='Ouvir o álbum "{{page.title}}" no YouTube'
+    >
+      <i class="fab fa-youtube"></i>
+    </a>
+  </li>
+  {%- endif -%} {%- if page.links.wikipedia -%}
+  <li>
+    <a
+      href="{{ page.links.wikipedia }}"
+      target="_blank"
+      class="post-album__content__links__item"
+      title='Ler sobre o álbum "{{page.title}}" na Wikipedia'
+    >
+      <i class="fab fa-wikipedia-w"></i>
+    </a>
+  </li>
+  {%- endif -%} {%- if page.links.download -%}
+  <li>
+    <a
+      href="{{ page.links.download }}"
+      target="_blank"
+      class="post-album__content__links__item"
+      title='Fazer download do álbum "{{page.title}}"'
+    >
+      <i class="fas fa-download"></i>
+    </a>
+  </li>
+  {%- endif -%}
+</ul>

@@ -11,16 +11,11 @@ categories: ['Hard Rock', 'Blues Rock']
 
 # Links
 links:
-  - title: Amazon
-    url: #
-  - title: Deezer
-    url: #
-  - title: Lastfm
-    url: https://www.last.fm/music/Jerusalem/Jerusalem
-  - title: Spotify
-    url: https://open.spotify.com/album/6wztkrtvOWrIAQnbHWzSAL?si=KhneuoF-TDmcrFexnB4Igg
-  - title: YouTube
-    url: https://www.youtube.com/watch?v=FPIxB-RDanI&list=PLd_jD87UjntuiTcJtDM3qtOVJrrf0NqDk
-  - title: Wikipedia-w
-    url: #
+  amazon:
+  deezer:
+  lastfm: https://www.last.fm/music/Jerusalem/Jerusalem
+  spotify: https://open.spotify.com/album/6wztkrtvOWrIAQnbHWzSAL?si=KhneuoF-TDmcrFexnB4Igg
+  youtube: https://www.youtube.com/watch?v=FPIxB-RDanI&list=PLd_jD87UjntuiTcJtDM3qtOVJrrf0NqDk
+  wikipedia:
+  download: http://murodoclassicrock4.blogspot.com.br/2015/03/jerusalem-1972.html
 ---

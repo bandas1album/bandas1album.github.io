@@ -11,16 +11,11 @@ categories: ['Krautrock', 'Jazz Rock', 'Progressive Rock']
 
 # Links
 links:
-  - title: Amazon
-    url: https://amzn.to/3uZgCeX
-  - title: Deezer
-    url: https://www.deezer.com/br/album/226489
-  - title: Lastfm
-    url: https://www.last.fm/pt/music/Electric+Sandwich/Electric+Sandwich
-  - title: Spotify
-    url: https://open.spotify.com/album/5Hs4rrjtD53kFRIMiQObiz?si=xSRuskeVRgKskesD_yoD7wVGQ
-  - title: YouTube
-    url: https://music.youtube.com/playlist?list=OLAK5uy_mHcr3MPWNarOyfQwsPxvdw5vRELHyvcuI
-  - title: Wikipedia-w
-    url: #
+  amazon: https://amzn.to/3uZgCeX
+  deezer: https://www.deezer.com/br/album/226489
+  lastfm: https://www.last.fm/pt/music/Electric+Sandwich/Electric+Sandwich
+  spotify: https://open.spotify.com/album/5Hs4rrjtD53kFRIMiQObiz?si=xSRuskeVRgKskesD_yoD7wVGQ
+  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mHcr3MPWNarOyfQwsPxvdw5vRELHyvcuI
+  wikipedia:
+  download: http://murodoclassicrock4.blogspot.com.br/2012/01/electric-sandwich-1971.html
 ---

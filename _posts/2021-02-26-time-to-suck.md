@@ -11,16 +11,11 @@ categories: ['Progressive Rock', 'Hard Rock', 'Psychedelic Rock', 'Heavy Metal']
 
 # Links
 links:
-  - title: Amazon
-    url: #
-  - title: Deezer
-    url: #
-  - title: Lastfm
-    url: https://www.last.fm/music/Suck/Time+To+Suck
-  - title: Spotify
-    url: https://open.spotify.com/album/31Z45pMSS7rpMrejLC6Qoo?si=DzW-1m3rQMKIo7TJ66USFg
-  - title: YouTube
-    url: https://www.youtube.com/watch?v=6bG8P-tsFVw
-  - title: Wikipedia-w
-    url: https://en.wikipedia.org/wiki/Time_to_Suck
+  amazon:
+  deezer:
+  lastfm: https://www.last.fm/music/Suck/Time+To+Suck
+  spotify: https://open.spotify.com/album/31Z45pMSS7rpMrejLC6Qoo?si=DzW-1m3rQMKIo7TJ66USFg
+  youtube: https://www.youtube.com/watch?v=6bG8P-tsFVw
+  wikipedia: https://en.wikipedia.org/wiki/Time_to_Suck
+  download: http://murodoclassicrock4.blogspot.com.br/2016/12/suck-time-to-suck-1970.html
 ---

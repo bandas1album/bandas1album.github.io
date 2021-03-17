@@ -11,16 +11,11 @@ categories: ['Hard Rock']
 
 # Links
 links:
-  - title: Amazon
-    url: https://amzn.to/2NK37z2
-  - title: Deezer
-    url: https://www.deezer.com/br/album/1002874
-  - title: Lastfm
-    url: https://www.last.fm/music/Armaggedon/Armaggedon
-  - title: Spotify
-    url: https://open.spotify.com/album/2iOx0uAcbCiFMEP597qWUf?si=TIjyZvh0SPiWbFJiQZu0GQ
-  - title: YouTube
-    url: https://music.youtube.com/playlist?list=OLAK5uy_kVPWxWTrPBTMyicn74ViNq8PaB-lKEkwU
-  - title: Wikipedia-w
-    url: #
+  amazon: https://amzn.to/2NK37z2
+  deezer: https://www.deezer.com/br/album/1002874
+  lastfm: https://www.last.fm/music/Armaggedon/Armaggedon
+  spotify: https://open.spotify.com/album/2iOx0uAcbCiFMEP597qWUf?si=TIjyZvh0SPiWbFJiQZu0GQ
+  youtube: https://music.youtube.com/playlist?list=OLAK5uy_kVPWxWTrPBTMyicn74ViNq8PaB-lKEkwU
+  wikipedia:
+  download: http://murodoclassicrock4.blogspot.com.br/2012/01/armaggedon-1970-ger.html
 ---

@@ -11,16 +11,11 @@ categories: ['Psychedelic Rock', 'Hard Rock']
 
 # Links
 links:
-  - title: Amazon
-    url: https://amzn.to/30iqAKb
-  - title: Deezer
-    url: https://www.deezer.com/br/album/13489469
-  - title: Lastfm
-    url: https://www.last.fm/pt/music/Euclid/Heavy+Equipment
-  - title: Spotify
-    url: https://open.spotify.com/album/7igoWFzsML3vVablI4GBKJ?si=jrJ91bRKQZG2pPO_9QHu1A
-  - title: YouTube
-    url: https://music.youtube.com/playlist?list=OLAK5uy_nh8WNv3Nbq-IqlZB5TC_zhT0-OJJKRmHc
-  - title: Wikipedia-w
-    url: #
+  amazon: https://amzn.to/30iqAKb
+  deezer: https://www.deezer.com/br/album/13489469
+  lastfm: https://www.last.fm/pt/music/Euclid/Heavy+Equipment
+  spotify: https://open.spotify.com/album/7igoWFzsML3vVablI4GBKJ?si=jrJ91bRKQZG2pPO_9QHu1A
+  youtube: https://music.youtube.com/playlist?list=OLAK5uy_nh8WNv3Nbq-IqlZB5TC_zhT0-OJJKRmHc
+  wikipedia:
+  download: http://murodoclassicrock4.blogspot.com.br/2012/04/euclid-heavy-equipment-1970.html
 ---
