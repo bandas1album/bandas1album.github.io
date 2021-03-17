@@ -22,33 +22,24 @@ Eternizando bandas que nos deixaram apenas uma pérola.
 ```md
 ---
 layout: post
+
 # Infos
-title: Álbum
-artist: Artista
+title:
+artist:
 released: YYYY-MM-DD
-country: Emoji Flag
-label: Gravadora
-categories: ['Hard Rock', 'Blues Rock']
-images:
-  [
-    'https://img.discogs.com/9mejL-Ewu5adAN3lCexB5hGBkas=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2501404-1287472563.jpeg.jpg',
-    'https://img.discogs.com/FVTsLcJLMcBrneReAH0uP5tRMxU=/fit-in/579x571/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2501404-1363027602-6076.jpeg.jpg',
-  ]
+country:
+label:
+categories: []
 
 # Links
 links:
-  - title: Amazon
-    url: #
-  - title: Deezer
-    url: #
-  - title: Lastfm
-    url: #
-  - title: Spotify
-    url: #
-  - title: YouTube
-    url: #
-  - title: Wikipedia-w
-    url: #
+  amazon: #
+  deezer: #
+  lastfm: #
+  spotify: #
+  youtube: #
+  wikipedia: #
+  download: #
 ---
 ```
 
