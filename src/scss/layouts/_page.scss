@@ -25,6 +25,24 @@
       }
     }
 
+    ul,
+    ol {
+      font-size: rem(16px);
+      line-height: 1.5;
+
+      @media (min-width: $tablet) {
+        font-size: rem(20px);
+      }
+
+      li:not(:last-child) {
+        margin-bottom: rem(8px);
+
+        @media (min-width: $tablet) {
+          margin-bottom: rem(10px);
+        }
+      }
+    }
+
     p {
       font-size: rem(18px);
       line-height: 1.5;
