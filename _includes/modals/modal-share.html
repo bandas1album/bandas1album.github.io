@@ -13,7 +13,7 @@
       <ul class="share-social">
         <li>
           <a
-            href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }} - {{page.artist | uri_escape}} ({{page.year}}) {{ page.url | absolute_url }} via @bandas1album"
+            href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }} - {{page.artist | uri_escape}} ({{page.released | date: "%Y"}}) {{ page.url | absolute_url }} via @bandas1album"
             target="_blank"
             title="Compartilhe no Twitter"
           >
@@ -33,7 +33,7 @@
 
         <li>
           <a
-            href="https://api.whatsapp.com/send?text={{ page.title | uri_escape }} - {{ page.artist | uri_escape }} ({{ page.year }}) {{ page.url | absolute_url }}"
+            href="https://api.whatsapp.com/send?text={{ page.title | uri_escape }} - {{ page.artist | uri_escape }} ({{ page.released | date: "%Y" }}) {{ page.url | absolute_url }}"
             target="_blank"
             title="Compartilhe no WhatsApp"
           >

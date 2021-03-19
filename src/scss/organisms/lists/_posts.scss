@@ -5,36 +5,28 @@
   &__item {
     width: 100%;
 
-    @media (min-width: 320px) {
+    @media (min-width: $mobile) {
       width: 50%;
     }
 
-    @media (min-width: 400px) {
-      width: 33.33333%;
-    }
-
-    @media (min-width: 560px) {
+    @media (min-width: $phablet) {
       width: 25%;
     }
 
-    @media (min-width: 768px) {
-      width: 20%;
-    }
-
-    @media (min-width: 880px) {
+    @media (min-width: $tablet) {
       width: 16.6666666667%;
     }
 
-    @media (min-width: 1280px) {
+    @media (min-width: $tablet-pro) {
       width: 12.5%;
     }
 
-    @media (min-width: 1440px) {
+    @media (min-width: $desktop) {
       width: 10%;
     }
 
-    @media (min-width: 1640px) {
-      width: 8.3333333333%;
+    @media (min-width: $desktop-hd) {
+      width: 8.333333333%;
     }
   }
 
