@@ -58,12 +58,16 @@ layout: compress
             <strong class="post-album__content__year" itemprop="copyrightYear"
               >{{ page.released | date: "%Y" }}</strong
             >
+            <ul class="post-album__content__genres">
+              {%- for genre in page.categories -%}
+              <li><span itemprop="genre">{{ genre }}</span></li>
+              {%- endfor -%}
+            </ul>
             <meta itemprop="copyrightHolder" content="{{ page.label }}" />
             <meta itemprop="description" content="O álbum {{ page.title }} foi o
             único disco de estúdio lançado por {{ page.artist }} ({{
             page.country }}), em {{ page.released | date: "%Y" }}, pelo selo {{
             page.label }}." />
-            <meta content="{{ page.categories[0] }}" itemprop="genre" />
           </header>
           {% include lists/list-links.html %}
 

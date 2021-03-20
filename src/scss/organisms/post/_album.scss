@@ -89,6 +89,25 @@
       display: inline-block;
     }
 
+    &__genres {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      margin: rem(16px) 0;
+      padding: 0;
+      list-style: none;
+
+      li {
+        display: inline-block;
+        margin: rem(4px);
+        padding: rem(2px) rem(6px);
+        font-size: rem(14px);
+        background-color: $theme;
+        color: $white;
+        border-radius: rem(2px);
+      }
+    }
+
     &__links {
       margin: 0;
       padding: 0;
