@@ -7,7 +7,7 @@ artist: Estrella De Marzo
 released: 1974-01-01
 country: Bolívia
 label: Discos Heriba
-categories: ['Psychedelic Rock', 'Prog Rock', 'Hard Rock']
+categories: ['Psychedelic Rock', 'Progressive Rock', 'Hard Rock']
 
 # Links
 links:

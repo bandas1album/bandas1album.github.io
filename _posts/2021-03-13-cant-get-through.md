@@ -7,7 +7,7 @@ artist: Hairy Chapter
 released: 1971-01-01
 country: Alemanha
 label: Bacillus Records
-categories: ['Hard Rock', 'Psychedelic Rock', 'Prog Rock', 'Krautrock']
+categories: ['Hard Rock', 'Psychedelic Rock', 'Progressive Rock', 'Krautrock']
 
 # Links
 links:

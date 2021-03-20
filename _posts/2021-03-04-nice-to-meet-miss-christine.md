@@ -7,7 +7,7 @@ artist: Chris Harwood
 released: 1970-01-01
 country: Inglaterra
 label: Birth Records
-categories: ['Folk', 'Jazz', 'World & Country']
+categories: ['Folk', 'Jazz', 'Country']
 
 # Links
 links:

@@ -15,14 +15,6 @@ permalink: /:title
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-archives
-
-jekyll-archives:
-  enabled:
-    - categories
-  layout: category
-  permalinks:
-    category: '/genero/:name/'
 
 sass:
   load_paths:

@@ -7,7 +7,7 @@ artist: Aum
 released: 1984-01-01
 country: Brasil
 label: Bemol
-categories: ['MPB', 'Psychedelic Rock', 'Jazz-Rock']
+categories: ['MPB', 'Psychedelic Rock', 'Jazz Rock']
 
 # Links
 links:
