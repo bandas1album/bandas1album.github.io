@@ -2,6 +2,21 @@
   display: flex;
   flex-wrap: wrap;
 
+  &-by-category {
+    li:first-child {
+      margin-right: auto;
+      padding-left: rem(32px);
+
+      h1 {
+        span {
+          display: block;
+          font-size: rem(14px);
+          font-weight: 400;
+        }
+      }
+    }
+  }
+
   &__item {
     width: 100%;
 

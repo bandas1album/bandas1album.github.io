@@ -60,7 +60,11 @@ layout: compress
             >
             <ul class="post-album__content__genres">
               {%- for genre in page.categories -%}
-              <li><span itemprop="genre">{{ genre }}</span></li>
+              <li>
+                <a href="/genero/{{ genre | slugify }}"
+                  ><span itemprop="genre">{{ genre }}</span></a
+                >
+              </li>
               {%- endfor -%}
             </ul>
             <meta itemprop="copyrightHolder" content="{{ page.label }}" />

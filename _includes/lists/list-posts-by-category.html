@@ -1,0 +1,34 @@
+<ul class="list list-posts list-posts-by-category accelerated">
+  <li>
+    <h1><span>Mostrando todos os posts de</span> {{ page.title }}</h1>
+  </li>
+
+  {% for post in site.categories[{{page.title}}] %}
+  <li class="list-posts__item">
+    <a
+      href="{{ post.url }}"
+      class="list-posts__card"
+      title="{{ post.title }} - {{ post.artist }}"
+    >
+      <picture>
+        <source
+          srcset="/assets/img/albums{{post.url}}_thumb.webp"
+          type="image/webp"
+        />
+        <source
+          srcset="/assets/img/albums{{post.url}}_thumb.jpg"
+          type="image/jpeg"
+        />
+        <img
+          class="list-posts__card__image"
+          loading="lazy"
+          src="/assets/img/albums{{post.url}}_thumb.jpg"
+          alt="Capa do álbum {{ post.title }} - {{ post.artist }}"
+          width="160"
+          height="160"
+        />
+      </picture>
+    </a>
+  </li>
+  {%- endfor -%}
+</ul>
