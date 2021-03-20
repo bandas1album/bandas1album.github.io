@@ -1,5 +1,5 @@
 <ul class="list list-posts accelerated">
-  {%- for post in site.posts -%}
+  {%- for post in site.posts | limit: 96 -%}
   <li class="list-posts__item">
     <a
       href="{{ post.url }}"
