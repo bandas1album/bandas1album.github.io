@@ -4,10 +4,15 @@
 
   &-by-category {
     li:first-child {
+      display: flex;
+      align-items: center;
+      justify-content: center;
       margin-right: auto;
       padding-left: rem(32px);
 
       h1 {
+        margin: 0;
+
         span {
           display: block;
           font-size: rem(14px);
