@@ -6,14 +6,14 @@
       </a>
       <div>
         {% if page.url == '/' %}
-        <h1 class="footer__copy__title">{{ site.title }}</h1>
-        <h2 class="footer__copy__subtitle">
-          {{site.subtitle}}
-        </h2>
+        <h1 class="footer__copy__title">
+          <strong>{{ site.title }}</strong>
+          <span>{{site.subtitle}}</span>
+        </h1>
         {% else %}
-        <h2 class="footer__copy__title">{{ site.title }}</h1>
-        <h3 class="footer__copy__subtitle">
-          {{site.subtitle}}
+        <h2 class="footer__copy__title">
+          <strong>{{ site.title }}</strong>
+          <span>{{site.subtitle}}</span>
         </h2>
         {% endif %}
         <p>
@@ -42,6 +42,7 @@
           class="footer_social__item discord"
           target="_blank"
           aria-label="Discord"
+          title="Entre em nosso servidor do Discord"
         >
           <i aria-hidden="true" class="fab fa-discord"></i>
         </a>
@@ -52,6 +53,7 @@
           class="footer_social__item instagram"
           target="_blank"
           aria-label="Instagram"
+          title="Siga-nos no Instagram"
         >
           <i aria-hidden="true" class="fab fa-instagram"></i>
         </a>
@@ -62,6 +64,7 @@
           class="footer_social__item facebook"
           target="_blank"
           aria-label="Facebook"
+          title="Curta nossa página no Facebook"
         >
           <i aria-hidden="Facebook" class="fab fa-facebook-square"></i>
         </a>
@@ -72,16 +75,18 @@
           target="_blank"
           class="footer_social__item spotify"
           aria-label="Spotify"
+          title="Ouça nossas playlists no Spotify"
         >
           <i aria-hidden="true" class="fab fa-spotify"></i>
         </a>
       </li>
       <li>
         <a
-          aria-label="RSS Feed"
           href="/feed.xml"
           target="_blank"
           class="footer_social__item rss"
+          aria-label="RSS Feed"
+          title="Assine nosso RSS Feed"
         >
           <i aria-hidden="true" class="fas fa-rss"></i>
         </a>

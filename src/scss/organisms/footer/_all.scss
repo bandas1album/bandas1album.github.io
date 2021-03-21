@@ -55,15 +55,19 @@
 
     &__title {
       margin: 0;
-      font-size: rem(16px);
-    }
 
-    &__subtitle {
-      margin: 0;
-      margin-bottom: rem(4px);
-      display: block;
-      font-size: rem(10px);
-      font-weight: 400;
+      strong {
+        display: block;
+        font-size: rem(16px);
+      }
+
+      span {
+        display: block;
+        margin: 0;
+        margin-bottom: rem(4px);
+        font-size: rem(10px);
+        font-weight: 400;
+      }
     }
 
     p {
