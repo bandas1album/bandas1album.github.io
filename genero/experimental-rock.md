@@ -1,4 +1,4 @@
 ---
 layout: category
-title: Experimental
+title: Experimental Rock
 ---
