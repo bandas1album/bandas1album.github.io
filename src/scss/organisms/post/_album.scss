@@ -102,9 +102,14 @@
         margin: rem(4px);
         padding: rem(2px) rem(6px);
         font-size: rem(14px);
-        background-color: $theme;
+        background-color: $color-primary;
         color: $white;
         border-radius: rem(2px);
+        transition: 0.2s all ease;
+
+        &:hover {
+          background-color: $color-primary-tint;
+        }
       }
     }
 

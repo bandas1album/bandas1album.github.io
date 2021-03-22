@@ -73,7 +73,7 @@
       justify-content: center;
       width: rem(32px);
       height: rem(32px);
-      background-color: lighten($theme, 20%);
+      background-color: $color-primary;
       border-radius: rem(8px);
       font-size: rem(16px);
       color: $white;
@@ -86,11 +86,7 @@
       }
 
       &:hover {
-        background-color: lighten($theme, 15%);
-      }
-
-      &:active {
-        background-color: lighten($theme, 10%);
+        background-color: $color-primary-tint;
       }
     }
   }

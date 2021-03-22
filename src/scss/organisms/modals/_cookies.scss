@@ -84,7 +84,7 @@
 .cookie-modal__title {
   font-size: rem(24px);
   text-transform: uppercase;
-  color: $theme;
+  color: $color-primary;
 }
 
 .cookie-modal__description {
@@ -101,11 +101,11 @@
 }
 
 .cookie-modal__description a {
-  color: $theme;
-}
+  color: $color-primary;
 
-.cookie-modal__description a:hover {
-  text-decoration: none;
+  &:hover {
+    color: $color-primary-tint;
+  }
 }
 
 .cookie-modal__button {
@@ -148,8 +148,8 @@
 }
 
 .cookie-modal__button--outlined {
-  border: 1px solid $theme;
-  color: $theme;
+  border: 1px solid $color-primary;
+  color: $color-primary;
 }
 
 .cookie-modal__button--outlined:hover {
@@ -157,7 +157,7 @@
 }
 
 .cookie-modal__button--filled {
-  background-color: $theme;
+  background-color: $color-primary;
   color: $white;
 }
 
