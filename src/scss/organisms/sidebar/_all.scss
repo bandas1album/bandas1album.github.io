@@ -2,7 +2,6 @@
   position: relative;
   display: flex;
   min-height: 100%;
-  background-color: $color-primary-shade;
 
   &__wrapper {
     position: sticky;
@@ -15,8 +14,10 @@
   }
 
   &-nav {
+    position: relative;
     z-index: 2;
     width: rem(64px);
+    background-color: $color-primary;
 
     &__logo {
       display: block;
@@ -43,9 +44,11 @@
         height: rem(64px);
         font-size: rem(24px);
         color: $white;
+        transition: 0.2s all ease;
 
-        &:hover {
-          background-color: $color-primary;
+        &:hover,
+        &.active {
+          background-color: $color-primary-shade;
         }
       }
     }
@@ -74,16 +77,16 @@
     flex-direction: column;
     z-index: 1;
     height: 100%;
-    background-color: $color-primary;
-    // transform: translateX(-100%);
-    transform: translateX(64px);
+    background-color: $color-primary-shade;
     box-shadow: rem(8px) 0 rem(16px) rgba($black, 0.2);
     width: calc(100vw - 64px);
     max-width: rem(306px);
+    transform: translateX(-100%);
+    transition: 0.2s all ease;
 
-    // &.active {
-    //   transform: translateX(64px);
-    // }
+    &.active {
+      transform: translateX(64px);
+    }
 
     &__lists {
       flex: 1;
@@ -118,7 +121,7 @@
           padding: rem(8px) rem(24px);
 
           &:hover {
-            background-color: $color-primary-shade;
+            background-color: $color-primary;
           }
         }
 
