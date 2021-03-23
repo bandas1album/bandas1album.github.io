@@ -156,11 +156,15 @@ layout: compress
   </head>
 
   <body class="default">
-    {% include header.html %}
+    <div class="wrapper">
+      {% include sidebar.html %}
 
-    <main class="main">{% include lists/list-posts.html %}</main>
+      <div>
+        {% include header.html %}
 
-    {% include footer.html %}
+        <main class="main">{% include lists/list-posts.html %}</main>
+      </div>
+    </div>
 
     <script src="/assets/js/main.js"></script>
   </body>

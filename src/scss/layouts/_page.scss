@@ -10,10 +10,8 @@
     width: 100%;
     max-width: rem(800px);
     padding-right: rem(32px);
-    margin-bottom: rem(48px);
 
     @media (min-width: $tablet) {
-      margin-bottom: rem(64px);
       padding-right: rem(64px);
     }
 

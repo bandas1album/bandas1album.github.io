@@ -25,6 +25,10 @@ body {
   flex: 1;
 }
 
+.wrapper {
+  display: flex;
+}
+
 a {
   position: relative;
   color: $white;

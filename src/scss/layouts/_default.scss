@@ -3,14 +3,6 @@
     display: none;
   }
 
-  .main {
-    margin-bottom: rem(160px);
-
-    @media (min-width: $tablet) {
-      margin-bottom: rem(120px);
-    }
-  }
-
   .footer {
     position: fixed;
     bottom: 0;

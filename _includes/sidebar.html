@@ -1,0 +1,176 @@
+<aside class="sidebar">
+  <nav class="sidebar-nav">
+    <div class="sidebar__wrapper">
+      <a href="/" class="sidebar-nav__logo" title="Bandas de 1 Álbum">
+        <img src="/assets/img/logo.png" loading="lazy" alt="{{ site.title }}" />
+      </a>
+
+      <ul class="sidebar-nav__menu">
+        <li>
+          <button
+            class="sidebar-nav__menu__item"
+            data-sidebar="albums"
+            aria-title="Álbuns"
+            title="Álbuns"
+          >
+            <i class="fas fa-compact-disc" aria-hidden="true"></i>
+          </button>
+        </li>
+        <li>
+          <button
+            class="sidebar-nav__menu__item"
+            data-sidebar="genres"
+            aria-title="Gêneros"
+            title="Gêneros"
+          >
+            <i class="fas fa-book" aria-hidden="true"></i>
+          </button>
+        </li>
+        <li>
+          <button
+            class="sidebar-nav__menu__item"
+            data-sidebar="year"
+            aria-title="Ano de lançamento"
+            title="Ano de lançamento"
+          >
+            <i class="fas fa-calendar-check" aria-hidden="true"></i>
+          </button>
+        </li>
+      </ul>
+
+      <ul class="sidebar-nav__social">
+        <li>
+          <a
+            href="https://discord.gg/NCmM5Rk3bd"
+            class="sidebar-nav__social__item discord"
+            target="_blank"
+            aria-label="Discord"
+            title="Entre em nosso servidor do Discord"
+          >
+            <i aria-hidden="true" class="fab fa-discord"></i>
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://instagram.com/bandas1album"
+            class="sidebar-nav__social__item instagram"
+            target="_blank"
+            aria-label="Instagram"
+            title="Siga-nos no Instagram"
+          >
+            <i aria-hidden="true" class="fab fa-instagram"></i>
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://facebook.com/bandas1album"
+            class="sidebar-nav__social__item facebook"
+            target="_blank"
+            aria-label="Facebook"
+            title="Curta nossa página no Facebook"
+          >
+            <i aria-hidden="Facebook" class="fab fa-facebook-square"></i>
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://open.spotify.com/user/ryyq8vjpuf4vgfgll9zoecplr?si=09LFT22HQaaRIgfIkIatEw"
+            target="_blank"
+            class="sidebar-nav__social__item spotify"
+            aria-label="Spotify"
+            title="Ouça nossas playlists no Spotify"
+          >
+            <i aria-hidden="true" class="fab fa-spotify"></i>
+          </a>
+        </li>
+        <li>
+          <a
+            href="/feed.xml"
+            target="_blank"
+            class="sidebar-nav__social__item rss"
+            aria-label="RSS Feed"
+            title="Assine nosso RSS Feed"
+          >
+            <i aria-hidden="true" class="fas fa-rss"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="sidebar-content">
+    <div class="sidebar__wrapper">
+      <div class="sidebar-content__lists">
+        <div class="sidebar-content__list" data-menu="albums">
+          <h3 class="sidebar-content__list__title">Álbuns de A a Z</h3>
+          {% assign sortedPosts = site.posts | sort: 'title' %}
+
+          {% for post in sortedPosts %}
+            {% assign next = forloop.index + 1 %}
+            {% capture this_letter %}{{ post.title | slice: 0 }}{% endcapture %}
+            {% capture next_letter %}{{ sortedPosts[next].title | slice: 0 }}{% endcapture %}
+
+            {% if forloop.first %}
+              <h4 class="sidebar-content__list__subtitle" id="{{ this_letter }}-ref">{{this_letter}}</h4>
+              <ol>
+            {% endif %}
+
+            <li>
+              <a href="{{ post.url }}">
+                <strong>{{ post.title }}</strong>
+                <span>{{ post.artist }}</span>
+              </a>
+            </li>
+
+            {% if forloop.last %}
+              </ol>
+            {% else %}
+              {% if this_letter != next_letter %}
+                </ol>
+
+                <h2 class="sidebar-content__list__subtitle" id="{{ next_letter }}-ref">{{next_letter}}</h2>
+                <ol>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </div>
+
+        <div class="sidebar-content__list" data-menu="genres">
+          <h3 class="sidebar-content__list__title">Gêneros</h3>
+          <ol></ol>
+        </div>
+
+        <div class="sidebar-content__list" data-menu="year">
+          <h3 class="sidebar-content__list__title">Ano de lançamento</h3>
+          <ol></ol>
+        </div>
+      </div>
+
+      <footer class="sidebar-footer">
+        <div class="sidebar-footer__copy">
+          <div>
+            {% if page.url == '/' %}
+            <h1 class="sidebar-footer__copy__title">
+              <strong>{{ site.title }}</strong>
+              <span>{{site.subtitle}}</span>
+            </h1>
+            {% else %}
+            <h2 class="sidebar-footer__copy__title">
+              <strong>{{ site.title }}</strong>
+              <span>{{site.subtitle}}</span>
+            </h2>
+            {% endif %}
+            <p>
+              <small>
+                2021 &copy; Feito por
+                <a href="https://kevinoliveira.com.br/" target="_blank"
+                  >Kevin Oliveira</a
+                >
+              </small>
+            </p>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </div>
+</aside>
