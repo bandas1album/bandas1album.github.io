@@ -17,9 +17,11 @@
     cursor: pointer;
     opacity: 0;
     transition: 0.2s all ease;
+    pointer-events: none;
 
     &.active {
       opacity: 1;
+      pointer-events: all;
     }
   }
 
