@@ -266,7 +266,7 @@ layout: compress
 
     {% include modals/modal-share.html %} {% include footer.html %}
 
-    <script src="/assets/js/main.js"></script>
-    <script src="/assets/js/single.js"></script>
+    <script src="/assets/js/main.js?{{site.time | date: '%s%N'}}"></script>
+    <script src="/assets/js/single.js?{{site.time | date: '%s%N'}}"></script>
   </body>
 </html>
