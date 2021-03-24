@@ -7,7 +7,7 @@ artist: Life
 released: 1974-01-01
 country: Inglaterra
 label: Polydor
-categories: ['Hard Rock', 'Prog Rock']
+categories: ['Hard Rock', 'Progressive Rock']
 
 # Links
 links:
