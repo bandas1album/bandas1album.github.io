@@ -18,7 +18,6 @@ const sidebar = () => {
       });
 
       $selected.style.display = 'block';
-
       $btn.classList.add('active');
       $content.classList.remove('active');
 

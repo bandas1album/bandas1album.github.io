@@ -24,6 +24,7 @@
 
   &__item {
     width: 100%;
+    min-width: rem(140px);
 
     @media (min-width: $mobile) {
       width: 50%;
