@@ -33,13 +33,9 @@ const sidebar = () => {
 
       $selected.style.display = 'block';
       $btn.classList.add('active');
-      $content.classList.remove('active');
+      $content.classList.add('active');
       $body.classList.add('overflow');
       $backdrop.classList.add('active');
-
-      setTimeout(() => {
-        $content.classList.add('active');
-      }, 300);
     });
   });
 };
