@@ -18,6 +18,7 @@
     z-index: 2;
     width: rem(64px);
     background-color: $color-primary;
+    box-shadow: rem(4px) 0 rem(8px) rgba(0, 0, 0, 0.05);
 
     &__logo {
       display: block;
@@ -90,6 +91,7 @@
 
     &__lists {
       flex: 1;
+      margin-bottom: rem(32px);
     }
 
     &__list {
@@ -121,7 +123,7 @@
           padding: rem(8px) rem(24px);
 
           &:hover {
-            background-color: $color-primary;
+            background-color: darken($color-primary-shade, 5%);
           }
         }
 
@@ -133,7 +135,7 @@
       &__title {
         margin: 0;
         padding: 0 rem(24px);
-        margin-bottom: rem(8px);
+        margin-bottom: rem(24px);
         font-size: rem(22px);
       }
 

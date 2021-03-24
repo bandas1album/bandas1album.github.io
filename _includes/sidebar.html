@@ -101,7 +101,7 @@
   <div class="sidebar-content">
     <div class="sidebar__wrapper">
       <div class="sidebar-content__lists">
-        <div class="sidebar-content__list" data-menu="albums">
+        <div class="sidebar-content__list" style="display: none;" data-menu="albums">
           <h3 class="sidebar-content__list__title">Álbuns de A a Z</h3>
           {% assign sortedPosts = site.posts | sort: 'title' %}
 
@@ -128,21 +128,56 @@
               {% if this_letter != next_letter %}
                 </ol>
 
-                <h2 class="sidebar-content__list__subtitle" id="{{ next_letter }}-ref">{{next_letter}}</h2>
+                <h4 class="sidebar-content__list__subtitle" id="{{ next_letter }}-ref">{{next_letter}}</h4>
                 <ol>
               {% endif %}
             {% endif %}
           {% endfor %}
         </div>
 
-        <div class="sidebar-content__list" data-menu="genres">
+        <div class="sidebar-content__list" style="display: none;" data-menu="genres">
           <h3 class="sidebar-content__list__title">Gêneros</h3>
-          <ol></ol>
+          <ol>
+            {% assign categories_list = site.categories %}
+            {% if categories_list.first[0] == null %}
+              {% for category in categories_list %}
+                <li>
+                  <a href="/genero/{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">
+                    <strong>{{ category | camelcase }}</strong>
+                    <span>{{ site.tags[category].size }} {% if site.tags[category].size == 1 %}álbum{% else %}álbuns{% endif %}</span>
+                  </a>
+                </li>
+              {% endfor %}
+            {% else %}
+              {% for category in categories_list %}
+                <li>
+                  <a href="/genero/{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">
+                    <strong>{{ category[0] | camelcase }}</strong>
+                    <span>{{ category[1].size }} {% if category[1].size == 1 %}álbum{% else %}álbuns{% endif %}</span>
+                  </a>
+                </li>
+              {% endfor %}
+            {% endif %}
+          {% assign categories_list = nil %}
+          </ol>
         </div>
 
-        <div class="sidebar-content__list" data-menu="year">
+        <div class="sidebar-content__list" style="display: none;" data-menu="year">
           <h3 class="sidebar-content__list__title">Ano de lançamento</h3>
-          <ol></ol>
+          {% assign sortedByYear = site.posts | sort: 'released' | group_by_exp: "item", "item.released | date: '%Y'" | reverse %}
+          {% for list in sortedByYear %}
+            <h4 class="sidebar-content__list__subtitle" id="{{list.name}}-ref">{{list.name}}</h4>
+            <ol>
+              {% for item in list.items %}
+                <li>
+                  <a href="{{ item.url }}">
+                    <strong>{{ item.title }}</strong>
+                    <span>{{ item.artist }}</span>
+                  </a>
+                </li>
+              {% endfor %}
+            </ol>
+          {% endfor %}
         </div>
       </div>
 
