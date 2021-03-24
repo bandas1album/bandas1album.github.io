@@ -34,7 +34,7 @@ const sidebar = () => {
       $selected.style.display = 'block';
       $btn.classList.add('active');
       $content.classList.remove('active');
-      $body.classList.toggle('overflow');
+      $body.classList.add('overflow');
       $backdrop.classList.add('active');
 
       setTimeout(() => {
