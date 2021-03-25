@@ -162,7 +162,9 @@ layout: compress
       <div>
         {% include header.html %}
 
-        <main class="main">{% include lists/list-posts.html %}</main>
+        <main class="main" data-scrollbar>
+          {% include lists/list-posts.html %}
+        </main>
       </div>
     </div>
 
