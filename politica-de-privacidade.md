@@ -4,8 +4,6 @@ title: Política de privacidade
 description: É política do Bandas de 1 Álbum respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site Bandas de 1 Álbum.
 ---
 
-[<img src="/assets/img/logo.png" alt="Bandas de 1 Álbum">](/)
-
 # Política de privacidade
 
 A sua privacidade é importante para nós. É política do Bandas de 1 Álbum respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site Bandas de 1 Álbum, e outros sites que possuímos e operamos.

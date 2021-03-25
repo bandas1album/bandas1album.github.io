@@ -153,13 +153,16 @@ layout: compress
   </head>
 
   <body class="page">
-    {% include header.html %}
+    <div class="wrapper">
+      {%- include sidebar.html -%}
+      <div>
+        {% include header.html %}
 
-    <main class="main">
-      <article>{{content}}</article>
-    </main>
-
-    {% include footer.html %}
+        <main class="main">
+          <article>{{content}}</article>
+        </main>
+      </div>
+    </div>
 
     <script src="/assets/js/main.js?{{site.time | date: '%s%N'}}"></script>
   </body>

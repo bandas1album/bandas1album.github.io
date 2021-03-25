@@ -1,10 +1,5 @@
 .page {
-  background-color: $black;
-  margin-top: rem(16px);
-
-  @media (min-width: $tablet) {
-    margin-top: rem(24px);
-  }
+  background-color: $color-primary-shade;
 
   .main {
     width: 100%;
