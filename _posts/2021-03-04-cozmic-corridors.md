@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/cozmic-corridors.jpg'
+
 # Infos
 title: Cozmic Corridors
 artist: Cozmic Corridors

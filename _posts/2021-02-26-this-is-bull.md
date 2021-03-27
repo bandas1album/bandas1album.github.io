@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/this-is-bull.jpg'
+
 # Infos
 title: This Is Bull
 artist: This Is Bull

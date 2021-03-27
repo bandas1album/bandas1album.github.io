@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/hazecolor-dia.jpg'
+
 # Infos
 title: Hazecolor-Dia
 artist: Haze

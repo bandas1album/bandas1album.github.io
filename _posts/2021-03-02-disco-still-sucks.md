@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/disco-still-sucks.jpg'
+
 # Infos
 title: Disco Still Sucks!
 artist: Bob Hocko And The Swamp Rats

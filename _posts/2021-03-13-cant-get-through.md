@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/cant-get-through.jpg'
+
 # Infos
 title: Can't Get Through
 artist: Hairy Chapter

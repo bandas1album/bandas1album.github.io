@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/il-mucchio.jpg'
+
 # Infos
 title: Il Mucchio
 artist: Il Mucchio

@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/california-breed.jpg'
+
 # Infos
 title: California Breed
 artist: California Breed

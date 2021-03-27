@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/lirio-de-vidro.jpg'
+
 # Infos
 title: Lírio de Vidro
 artist: Lírio de Vidro

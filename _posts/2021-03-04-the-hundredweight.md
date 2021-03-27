@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/the-hundredweight.jpg'
+
 # Infos
 title: The Hundredweight
 artist: CWT

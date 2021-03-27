@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/fuzzy-duck.jpg'
+
 # Infos
 title: Fuzzy Duck
 artist: Fuzzy Duck

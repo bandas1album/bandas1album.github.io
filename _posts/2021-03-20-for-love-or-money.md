@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/for-love-or-money.jpg'
+
 # Infos
 title: For Love or Money
 artist: Highway Robbery

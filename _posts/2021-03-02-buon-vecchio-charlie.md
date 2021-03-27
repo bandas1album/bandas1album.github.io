@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/buon-vecchio-charlie.jpg'
+
 # Infos
 title: Buon Vecchio Charlie
 artist: Buon Vecchio Charlie

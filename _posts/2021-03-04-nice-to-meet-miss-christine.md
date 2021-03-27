@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/nice-to-meet-miss-christine.jpg'
+
 # Infos
 title: Nice To Meet Miss Christine
 artist: Chris Harwood

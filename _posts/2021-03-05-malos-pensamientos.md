@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/malos-pensamientos.jpg'
+
 # Infos
 title: Malos Pensamientos
 artist: El Alamo

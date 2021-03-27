@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/everlasting-tributes.jpg'
+
 # Infos
 title: Everlasting Tributes
 artist: Finchley Boys

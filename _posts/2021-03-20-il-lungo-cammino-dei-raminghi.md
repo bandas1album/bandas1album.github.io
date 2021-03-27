@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/il-lungo-cammino-dei-raminghi.jpg'
+
 # Infos
 title: ...Il Lungo Cammino Dei Raminghi
 artist: Raminghi

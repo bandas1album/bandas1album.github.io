@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/supernatural-fairy-tales.jpg'
+
 # Infos
 title: Supernatural Fairy Tales
 artist: Art

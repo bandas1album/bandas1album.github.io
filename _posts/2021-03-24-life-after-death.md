@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/life-after-death.jpg'
+
 # Infos
 title: Life After Death
 artist: Life

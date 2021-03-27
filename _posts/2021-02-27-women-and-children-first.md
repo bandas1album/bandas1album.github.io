@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/women-and-children-first.jpg'
+
 # Infos
 title: Women And Children First
 artist: Ancient Grease

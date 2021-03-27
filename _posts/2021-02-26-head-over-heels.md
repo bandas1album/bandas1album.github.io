@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/head-over-heels.jpg'
+
 # Infos
 title: Head Over Heels
 artist: Head Over Heels

@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/the-story-of-moses.jpg'
+
 # Infos
 title: The Story Of Moses
 artist: Light

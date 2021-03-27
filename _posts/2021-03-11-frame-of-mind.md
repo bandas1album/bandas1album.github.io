@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/frame-of-mind.jpg'
+
 # Infos
 title: Frame Of Mind
 artist: Frame

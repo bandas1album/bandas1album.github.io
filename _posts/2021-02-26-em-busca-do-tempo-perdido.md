@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/em-busca-do-tempo-perdido.jpg'
+
 # Infos
 title: Em Busca do Tempo Perdido
 artist: Peso

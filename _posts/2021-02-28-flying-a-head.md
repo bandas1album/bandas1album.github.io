@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/flying-a-head.jpg'
+
 # Infos
 title: Flying A Head
 artist: Atlee

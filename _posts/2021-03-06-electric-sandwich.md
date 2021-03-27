@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/electric-sandwich.jpg'
+
 # Infos
 title: Electric Sandwich
 artist: Electric Sandwich

@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/le-bal-du-rat-mort.jpg'
+
 # Infos
 title: Le Bal Du Rat Mort
 artist: Komintern

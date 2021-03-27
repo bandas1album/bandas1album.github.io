@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/paradise-lost.jpg'
+
 # Infos
 title: Paradise Lost
 artist: Lost Nation

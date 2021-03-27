@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/san-francisco-session.jpg'
+
 # Infos
 title: San Francisco Session
 artist: Fox

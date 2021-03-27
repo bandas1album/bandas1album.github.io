@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/udkoksning-i-tre-satser.jpg'
+
 # Infos
 title: Udkoksning I Tre Satser
 artist: Cinderella

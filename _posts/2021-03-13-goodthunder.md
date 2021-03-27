@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/goodthunder.jpg'
+
 # Infos
 title: Goodthunder
 artist: Goodthunder

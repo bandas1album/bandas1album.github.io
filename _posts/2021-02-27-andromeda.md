@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/andromeda.jpg'
+
 # Infos
 title: Andromeda
 artist: Andromeda

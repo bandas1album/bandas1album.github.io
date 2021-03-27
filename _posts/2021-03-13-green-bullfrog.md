@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/green-bullfrog.jpg'
+
 # Infos
 title: Green Bullfrog
 artist: Ritchie Blackmore

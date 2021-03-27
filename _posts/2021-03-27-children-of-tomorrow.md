@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/children-of-tomorrow.jpg'
+
 # Infos
 title: Children Of Tomorrow
 artist: Mike Stuart Span

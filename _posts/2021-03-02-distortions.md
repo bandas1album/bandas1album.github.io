@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/distortions.jpg'
+
 # Infos
 title: Distortions
 artist: Blue Phantom

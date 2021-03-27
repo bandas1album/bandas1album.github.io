@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/of-what-a-lovely-war.jpg'
+
 # Infos
 title: Oh! What A Lovely War
 artist: Colonel Bagshot

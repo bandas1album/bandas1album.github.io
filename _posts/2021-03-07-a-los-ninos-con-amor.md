@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/a-los-ninos-con-amor.jpg'
+
 # Infos
 title: A Los Niños Con Amor
 artist: Estrella De Marzo

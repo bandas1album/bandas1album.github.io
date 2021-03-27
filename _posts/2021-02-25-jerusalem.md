@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/jerusalem.jpg'
+
 # Infos
 title: Jerusalem
 artist: Jerusalem

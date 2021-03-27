@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/maiden-voyage.jpg'
+
 # Infos
 title: Maiden Voyage
 artist: The Iron Maiden

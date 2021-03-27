@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/diario-di-viaggio-della-festa-mobile.jpg'
+
 # Infos
 title: Diario Di Viaggio Della Festa Mobile
 artist: Festa Mobile

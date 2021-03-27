@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/breathe-awile.jpg'
+
 # Infos
 title: Breathe Awile
 artist: Arcadium

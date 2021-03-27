@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/an-apple-day.jpg'
+
 # Infos
 title: An Apple A Day
 artist: Apple

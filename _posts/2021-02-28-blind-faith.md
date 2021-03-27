@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/blind-faith.jpg'
+
 # Infos
 title: Blind Faith
 artist: Blind Faith

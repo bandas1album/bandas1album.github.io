@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/never-mind-the-bollocks-heres-the-sex-pistols.jpg'
+
 # Infos
 title: Never Mind the Bollocks, Here's the Sex Pistols
 artist: Sex Pistols

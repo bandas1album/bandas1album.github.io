@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/mamonas-assassinas.jpg'
+
 # Infos
 title: Mamonas Assassinas
 artist: Mamonas Assassinas

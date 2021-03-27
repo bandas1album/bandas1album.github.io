@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/the-miseducation-of-lauryn-hill.jpg'
+
 # Infos
 title: The Miseducation of Lauryn Hill
 artist: Lauryn Hill

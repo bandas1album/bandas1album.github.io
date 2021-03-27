@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/you-wont-remember-dying.jpg'
+
 # Infos
 title: You Won't Remember Dying
 artist: Bulbous Creation

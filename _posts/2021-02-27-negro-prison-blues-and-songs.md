@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/negro-prison-blues-and-songs.jpg'
+
 # Infos
 title: Negro Prison Blues And Songs
 artist: Alan Lomax

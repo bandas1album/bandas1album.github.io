@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/for-twisted-minds-only.jpg'
+
 # Infos
 title: For Twisted Minds Only
 artist: Horse

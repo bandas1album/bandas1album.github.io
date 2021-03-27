@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/stoned-age-man.jpg'
+
 # Infos
 title: Stoned Age Man
 artist: Joseph Longeria

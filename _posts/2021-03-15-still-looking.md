@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/still-looking.jpg'
+
 # Infos
 title: Still Looking
 artist: Headstone

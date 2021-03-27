@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/mainhorse.jpg'
+
 # Infos
 title: Mainhorse
 artist: Mainhorse

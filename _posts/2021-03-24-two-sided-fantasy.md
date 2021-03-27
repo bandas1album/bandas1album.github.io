@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/two-sided-fantasy.jpg'
+
 # Infos
 title: Two Sided Fantasy
 artist: Landslide

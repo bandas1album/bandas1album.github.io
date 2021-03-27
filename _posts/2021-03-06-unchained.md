@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/unchained.jpg'
+
 # Infos
 title: Unchained
 artist: Elias Hulk

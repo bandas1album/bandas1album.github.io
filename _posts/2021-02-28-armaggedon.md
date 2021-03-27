@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/armaggedon.jpg'
+
 # Infos
 title: Armaggedon
 artist: Armaggedon

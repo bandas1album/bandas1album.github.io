@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/dias-de-blues.jpg'
+
 # Infos
 title: Días de Blues
 artist: Días de Blues

@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/smokin-bats-at-camptons.jpg'
+
 # Infos
 title: Smokin' Bats at Campton's
 artist: Primevil

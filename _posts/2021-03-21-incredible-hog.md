@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/incredible-hog.jpg'
+
 # Infos
 title: Incredible Hog
 artist: Incredible Hog

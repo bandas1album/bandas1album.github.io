@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/pride-and-glory.jpg'
+
 # Infos
 title: Pride and Glory
 artist: Pride and Glory

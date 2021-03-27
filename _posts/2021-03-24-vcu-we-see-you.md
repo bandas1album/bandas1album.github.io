@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/vcu-we-see-you.jpg'
+
 # Infos
 title: V.C.U. (We See You)
 artist: Lily

@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/heavy-equipment.jpg'
+
 # Infos
 title: Heavy Equipment
 artist: Euclid

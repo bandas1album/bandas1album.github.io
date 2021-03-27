@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/si-todo-hiciera-crack.jpg'
+
 # Infos
 title: Si Todo Hiciera Crack
 artist: Crack

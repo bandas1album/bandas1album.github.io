@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/time-to-suck.jpg'
+
 # Infos
 title: Time To Suck
 artist: Suck

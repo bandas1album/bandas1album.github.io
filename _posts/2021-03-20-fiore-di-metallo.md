@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/fiore-di-metallo.jpg'
+
 # Infos
 title: Fiore Di Metallo
 artist: I Califfi

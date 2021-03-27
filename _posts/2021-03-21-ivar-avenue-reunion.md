@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/ivar-avenue-reunion.jpg'
+
 # Infos
 title: Ivar Avenue Reunion
 artist: Ivar Avenue Reunion

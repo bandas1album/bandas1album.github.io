@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/perpetuum-mobile.jpg'
+
 # Infos
 title: Perpetuum Mobile
 artist: Mariani

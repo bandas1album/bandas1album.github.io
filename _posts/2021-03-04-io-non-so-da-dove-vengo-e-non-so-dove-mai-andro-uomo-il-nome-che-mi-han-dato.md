@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/io-non-so-da-dove-vengo-e-non-so-dove-mai-andro-uomo-il-nome-che-mi-han-dato.jpg'
+
 # Infos
 title: Io Non So Da Dove Vengo E Non So Dove Mai Andrò, Uomo È Il Nome Che Mi Han Dato
 artist: De De Lind

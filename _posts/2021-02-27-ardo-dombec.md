@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/ardo-dombec.jpg'
+
 # Infos
 title: Ardo Dombec
 artist: Ardo Dombec

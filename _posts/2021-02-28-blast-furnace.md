@@ -1,6 +1,10 @@
 ---
 layout: post
 
+# Feed
+author: kvnol
+image: '/assets/img/albums/blast-furnace.jpg'
+
 # Infos
 title: Blast Furnace
 artist: Blast Furnace
