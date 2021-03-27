@@ -11,7 +11,7 @@ artist: Mushroom
 released: 1973-01-01
 country: Irlanda
 label: Hawk
-categories: ['Folk Rock', 'Psychedelic Rock', 'World & Country']
+categories: ['Folk Rock', 'Psychedelic Rock', 'World and Country']
 
 # Links
 links:
