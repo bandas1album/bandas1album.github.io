@@ -18,8 +18,9 @@ layout: compress
     page.released | date: "%Y" }}) | {{ site.title }}" /> <meta
     name="description" content="O álbum {{ page.title }} foi o único disco de
     estúdio lançado por {{ page.artist }} ({{ page.country }}), em {{
-    page.released | date: "%Y" }}, pelo selo {{ page.label }}. Ouça agora este
-    One Album Wonder!" />
+    page.released | date: "%Y" }}, {% if page.label %}pelo selo {{ page.label
+    }}{% else %}gravado indepentemente{% endif %}. Ouça agora este One Album
+    Wonder!" />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
