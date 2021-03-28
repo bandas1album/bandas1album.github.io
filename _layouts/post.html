@@ -171,97 +171,95 @@ layout: compress
     <main class="main">
       {% include lists/list-posts.html %}
 
-      <article
-        class="post-album"
-        itemscope
-        itemtype="https://schema.org/MusicAlbum"
-      >
-        <div class="post-album__cover">
-          <picture>
-            <source
-              srcset="/assets/img/albums{{page.url}}.webp"
-              type="image/webp"
-            />
-            <source
-              srcset="/assets/img/albums{{page.url}}.jpg"
-              type="image/jpeg"
-            />
-            <img
-              itemprop="image"
-              loading="lazy"
-              src="/assets/img/albums{{page.url}}.jpg"
-              alt="Capa do álbum {{ page.title }} - {{ page.artist }}"
-            />
-          </picture>
-          <!-- {%- for image in page.images -%}
+      <article itemscope itemtype="https://schema.org/MusicAlbum">
+        <div class="post-album">
+          <div class="post-album__cover">
+            <picture>
+              <source
+                srcset="/assets/img/albums{{page.url}}.webp"
+                type="image/webp"
+              />
+              <source
+                srcset="/assets/img/albums{{page.url}}.jpg"
+                type="image/jpeg"
+              />
+              <img
+                itemprop="image"
+                loading="lazy"
+                src="/assets/img/albums{{page.url}}.jpg"
+                alt="Capa do álbum {{ page.title }} - {{ page.artist }}"
+              />
+            </picture>
+            <!-- {%- for image in page.images -%}
           <div>
             <img src="{{ image }}" alt="" />
           </div>
           {%- endfor -%} -->
-        </div>
-        <div class="post-album__content">
-          {% include lists/list-breadcrumb.html %}
-          <header class="post-album__content__header">
-            <hgroup>
-              <h1 class="post-album__content__title" itemprop="name">
-                {{ page.title }}
-              </h1>
-              <h2
-                class="post-album__content__artist"
-                itemprop="byArtist"
-                itemscope
-                itemtype="https://schema.org/MusicGroup"
-              >
-                <span itemprop="name">{{ page.artist }}</span>
-              </h2>
-            </hgroup>
-            <strong class="post-album__content__year" itemprop="copyrightYear"
-              >{{ page.released | date: "%Y" }}</strong
-            >
-            <ul class="post-album__content__genres">
-              {%- for genre in page.categories -%}
-              <li>
-                <a href="/genero/{{ genre | slugify }}"
-                  ><span itemprop="genre">{{ genre }}</span></a
+          </div>
+          <div class="post-album__content">
+            {% include lists/list-breadcrumb.html %}
+            <header class="post-album__content__header">
+              <hgroup>
+                <h1 class="post-album__content__title" itemprop="name">
+                  {{ page.title }}
+                </h1>
+                <h2
+                  class="post-album__content__artist"
+                  itemprop="byArtist"
+                  itemscope
+                  itemtype="https://schema.org/MusicGroup"
                 >
-              </li>
-              {%- endfor -%}
-            </ul>
-            <meta itemprop="copyrightHolder" content="{{ page.label }}" />
-            <meta itemprop="description" content="O álbum {{ page.title }} foi o
-            único disco de estúdio lançado por {{ page.artist }} ({{
-            page.country }}), em {{ page.released | date: "%Y" }}, pelo selo {{
-            page.label }}." />
-          </header>
-          {% include lists/list-links.html %}
-
-          <footer class="post-footer">
-            <nav class="post-navigation">
-              {% if page.previous.url %}
-              <a
-                class="post-navigation__link post-navigation__prev"
-                href="{{page.previous.url}}"
-                rel="prev"
+                  <span itemprop="name">{{ page.artist }}</span>
+                </h2>
+              </hgroup>
+              <strong class="post-album__content__year" itemprop="copyrightYear"
+                >{{ page.released | date: "%Y" }}</strong
               >
-                <span>{{page.previous.title}}</span>
-                <i class="fas fa-chevron-left"></i>
-              </a>
-              {% endif %} {% if page.next.url %}
-              <a
-                class="post-navigation__link post-navigation__next"
-                href="{{page.next.url}}"
-                rel="next"
-              >
-                <i class="fas fa-chevron-right"></i>
-                <span>{{page.next.title}}</span>
-              </a>
-              {% endif %}
-            </nav>
+              <ul class="post-album__content__genres">
+                {%- for genre in page.categories -%}
+                <li>
+                  <a href="/genero/{{ genre | slugify }}"
+                    ><span itemprop="genre">{{ genre }}</span></a
+                  >
+                </li>
+                {%- endfor -%}
+              </ul>
+              <meta itemprop="copyrightHolder" content="{{ page.label }}" />
+              <meta itemprop="description" content="O álbum {{ page.title }} foi
+              o único disco de estúdio lançado por {{ page.artist }} ({{
+              page.country }}), em {{ page.released | date: "%Y" }}, pelo selo
+              {{ page.label }}." />
+            </header>
+            {% include lists/list-links.html %}
 
-            <button data-open="share" class="post-footer__share">
-              <i class="fas fa-share-alt"></i>
-            </button>
-          </footer>
+            <footer class="post-footer">
+              <nav class="post-navigation">
+                {% if page.previous.url %}
+                <a
+                  class="post-navigation__link post-navigation__prev"
+                  href="{{page.previous.url}}"
+                  rel="prev"
+                >
+                  <span>{{page.previous.title}}</span>
+                  <i class="fas fa-chevron-left"></i>
+                </a>
+                {% endif %} {% if page.next.url %}
+                <a
+                  class="post-navigation__link post-navigation__next"
+                  href="{{page.next.url}}"
+                  rel="next"
+                >
+                  <i class="fas fa-chevron-right"></i>
+                  <span>{{page.next.title}}</span>
+                </a>
+                {% endif %}
+              </nav>
+
+              <button data-open="share" class="post-footer__share">
+                <i class="fas fa-share-alt"></i>
+              </button>
+            </footer>
+          </div>
         </div>
       </article>
     </main>
