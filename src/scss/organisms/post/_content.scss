@@ -1,0 +1,21 @@
+.post-content {
+  min-height: 100vh;
+  margin-top: rem(48px);
+  padding: rem(24px) rem(64px);
+  background-color: $black;
+  color: $white;
+
+  @media (min-width: $tablet) {
+    padding: rem(48px) rem(104px);
+    margin-top: rem(96px);
+  }
+
+  p {
+    font-size: rem(24px);
+    line-height: 1.5;
+  }
+
+  .post-comments {
+    margin-top: rem(48px);
+  }
+}

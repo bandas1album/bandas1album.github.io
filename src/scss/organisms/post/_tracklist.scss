@@ -1,0 +1,23 @@
+.post-tracklist {
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: rem(24px);
+  }
+
+  tr {
+    width: 100%;
+
+    &:not(:last-child) {
+      border-bottom: rem(1px) solid $white;
+    }
+  }
+
+  td {
+    padding: rem(8px) 0;
+
+    &:last-child {
+      text-align: right;
+    }
+  }
+}

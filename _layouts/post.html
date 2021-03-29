@@ -172,7 +172,10 @@ layout: compress
     {% endif %}
   </head>
 
-  <body class="single">
+  {% assign content = page.content | strip_newlines %}
+  <body
+    class="single {% if content != '' or page.tracklist %} has-content {% endif %}"
+  >
     {% include header.html %}
     <main class="main">
       {% include lists/list-posts.html %}
@@ -263,8 +266,31 @@ layout: compress
           </div>
         </div>
 
-        {% if content %}
+        {% if content != '' or page.tracklist %}
         <div class="post-content">
+          <div class="post-tracklist">
+            <h3>Lista de faixas</h3>
+            <table>
+              {% for track in page.tracklist %}
+              <tr
+                itemprop="track"
+                itemscope
+                itemtype="https://schema.org/MusicRecording"
+              >
+                <td itemprop="name">{{ track.name }}</td>
+                <td>
+                  {% assign duration = track.duration | split: ':' %}
+                  <meta
+                    content="PT{{duration[0]}}M{{duration[1]}}S"
+                    itemprop="duration"
+                  />
+                  {{ track.duration }}
+                </td>
+              </tr>
+              {% endfor %}
+            </table>
+          </div>
+
           {{content}}
 
           <div class="post-comments">
