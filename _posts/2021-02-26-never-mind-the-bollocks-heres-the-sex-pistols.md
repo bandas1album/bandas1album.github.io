@@ -22,4 +22,29 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_kZQHhUFhIMVvjv7WaBcI3jxW7E-dtesN4
   wikipedia: https://pt.wikipedia.org/wiki/Never_Mind_the_Bollocks,_Here%27s_the_Sex_Pistols
   download: http://murodoclassicrock4.blogspot.com.br/2010/12/sex-pistols-discografia.html
+
+# Tracklist
+tracklist:
+  - name: Holidays In The Sun
+    duration: '3:10'
+  - name: Liar
+    duration: '2:39'
+  - name: No Feelings
+    duration: '2:48'
+  - name: God Save The Queen
+    duration: '3:17'
+  - name: Problems
+    duration: '4:10'
+  - name: Seventeen
+    duration: '2:00'
+  - name: Anarchy In The UK
+    duration: '3:30'
+  - name: Bodies
+    duration: '3:00'
+  - name: Pretty Vacant
+    duration: '3:14'
+  - name: New York
+    duration: '3:03'
+  - name: E.M.I.
+    duration: '3:06'
 ---
