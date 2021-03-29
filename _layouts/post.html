@@ -12,27 +12,27 @@ layout: compress
     <meta name="author" content="{{ site.authors }}" />
 
     <title>
-      {%- if page.artist == page.title -%} {{ page.artist }} ({{ page.released |
-      date: "%Y" }}) | {{ site.title }} {%- else -%} {{ page.artist }} - {{
-      page.title }} ({{ page.released | date: "%Y" }}) | {{ site.title }} {%-
+      {%- if page.artist == page.title -%} {{ site.title }}: {{ page.artist }}
+      ({{ page.released | date: "%Y" }}) {%- else -%} {{ site.title }}: {{
+      page.artist }} - {{ page.title }} ({{ page.released | date: "%Y" }}) {%-
       endif -%}
     </title>
     <meta name="title" content="{%- if page.artist == page.title -%} {{
-    page.artist }} ({{ page.released | date: "%Y" }}) | {{ site.title }} {%-
-    else -%} {{ page.artist }} - {{ page.title }} ({{ page.released | date: "%Y"
-    }}) | {{ site.title }} {%- endif -%}" /> <meta name="description" content="O
-    álbum {{ page.title }} foi o único disco de estúdio lançado por {{
-    page.artist }} ({{ page.country }}), em {{ page.released | date: "%Y" }}, {%
-    if page.label %}pelo selo {{ page.label }}{% else %}gravado indepentemente{%
-    endif %}. Ouça agora este One Album Wonder!" />
+    site.title }}: {{ page.artist }} ({{ page.released | date: "%Y" }}) {%- else
+    -%} {{ site.title }}: {{ page.artist }} - {{ page.title }} ({{ page.released
+    | date: "%Y" }}) {%- endif -%}" /> <meta name="description" content="O álbum
+    {{ page.title }} foi o único disco de estúdio lançado por {{ page.artist }}
+    ({{ page.country }}), em {{ page.released | date: "%Y" }}, {% if page.label
+    %}pelo selo {{ page.label }}{% else %}gravado indepentemente{% endif %}.
+    Ouça agora este One Album Wonder!" />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ page.url | absolute_url }}" />
     <meta property="og:title" content="{%- if page.artist == page.title -%} {{
-    page.artist }} ({{ page.released | date: "%Y" }}) | {{ site.title }} {%-
-    else -%} {{ page.artist }} - {{ page.title }} ({{ page.released | date: "%Y"
-    }}) | {{ site.title }} {%- endif -%}" /> <meta property="og:description"
+    site.title }}: {{ page.artist }} ({{ page.released | date: "%Y" }}) {%- else
+    -%} {{ site.title }}: {{ page.artist }} - {{ page.title }} ({{ page.released
+    | date: "%Y" }}) {%- endif -%}" /> <meta property="og:description"
     content="O álbum {{ page.title }} foi o único disco de estúdio lançado por
     {{ page.artist }} ({{ page.country }}), em {{ page.released | date: "%Y" }},
     pelo selo {{ page.label }}. Ouça agora este One Album Wonder!" />
@@ -42,9 +42,9 @@ layout: compress
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="{{ page.url | absolute_url }}" />
     <meta property="twitter:title" content="{%- if page.artist == page.title -%}
-    {{ page.artist }} ({{ page.released | date: "%Y" }}) | {{ site.title }} {%-
-    else -%} {{ page.artist }} - {{ page.title }} ({{ page.released | date: "%Y"
-    }}) | {{ site.title }} {%- endif -%}" /> <meta
+    {{ site.title }}: {{ page.artist }} ({{ page.released | date: "%Y" }}) {%-
+    else -%} {{ site.title }}: {{ page.artist }} - {{ page.title }} ({{
+    page.released | date: "%Y" }}) {%- endif -%}" /> <meta
     property="twitter:description" content="O álbum {{ page.title }} foi o único
     disco de estúdio lançado por {{ page.artist }} ({{ page.country }}), em {{
     page.released | date: "%Y" }}, pelo selo {{ page.label }}. Ouça agora este
