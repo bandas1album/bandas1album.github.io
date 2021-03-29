@@ -193,18 +193,9 @@ layout: compress
                 itemprop="image"
                 loading="lazy"
                 src="/assets/img/albums{{page.url}}.jpg"
-                alt="Capa do álbum {{ page.artist }}"
-                -
-                {{
-                page.title
-                }}
+                alt="Capa do álbum {{ page.artist }} da banda {{ page.title }}"
               />
             </picture>
-            <!-- {%- for image in page.images -%}
-          <div>
-            <img src="{{ image }}" alt="" />
-          </div>
-          {%- endfor -%} -->
           </div>
           <div class="post-album__content">
             {% include lists/list-breadcrumb.html %}
