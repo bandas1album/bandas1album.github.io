@@ -50,6 +50,41 @@
       width: 8.333333333%;
       min-width: rem(120px);
     }
+
+    &:last-child {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      button {
+        @extend .reset-button;
+        width: 100%;
+        height: 100%;
+        color: $white;
+        background-color: $color-primary-shade;
+        text-align: center;
+        line-height: rem(24px);
+        transition: 0.2s all ease;
+
+        &:hover {
+          background-color: $color-primary;
+        }
+
+        strong,
+        span {
+          display: block;
+        }
+
+        strong {
+          font-size: rem(32px);
+          font-weight: 900;
+        }
+
+        span {
+          font-size: rem(24px);
+        }
+      }
+    }
   }
 
   &__card {

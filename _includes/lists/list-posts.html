@@ -1,5 +1,5 @@
 <ul class="list list-posts accelerated">
-  {%- for post in site.posts | limit: 96 -%}
+  {%- for post in site.posts | limit: 95 -%}
   <li class="list-posts__item">
     <a
       href="{{ post.url }}"
@@ -27,4 +27,10 @@
     </a>
   </li>
   {%- endfor -%}
+  <li class="list-posts__item">
+    <button data-sidebar="albums">
+      <strong>+{{site.posts.size}}</strong>
+      <span>álbuns</span>
+    </button>
+  </li>
 </ul>

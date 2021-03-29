@@ -1,10 +1,11 @@
 const sidebar = () => {
   const $el = document.querySelectorAll('[data-sidebar]');
   const $body = document.querySelector('body');
-  const buttons = Array.from($el);
   const $content = document.querySelector('.sidebar-content');
   const $list = document.querySelectorAll('[data-menu]');
   const $backdrop = document.querySelector('.sidebar-backdrop');
+
+  const buttons = Array.from($el);
 
   $backdrop.addEventListener('click', (e) => {
     $backdrop.classList.remove('active');
@@ -21,6 +22,7 @@ const sidebar = () => {
   buttons.forEach((btn) => {
     btn.addEventListener('click', (e) => {
       const $btn = e.target;
+      console.log($btn);
       const $selected = document.querySelector(
         `[data-menu=${$btn.dataset.sidebar}]`
       );
