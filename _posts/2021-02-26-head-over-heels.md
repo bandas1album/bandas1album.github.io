@@ -22,4 +22,23 @@ links:
   youtube: https://www.youtube.com/watch?v=sC9L37oyocE
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2011/11/head-over-heels-1971.html
+
+# Tracklist
+tracklist:
+  - name: Road Runner
+    duration: '3:21'
+  - name: Right Away
+    duration: '3:04'
+  - name: Red Rooster
+    duration: '7:32'
+  - name: Children Of The Mist
+    duration: '3:30'
+  - name: Question
+    duration: '3:00'
+  - name: Tired And Blue / Land, Land
+    duration: '5:00'
+  - name: (That's What I Like) In My Woman
+    duration: '2:45'
+  - name: Circles
+    duration: '7:33'
 ---
