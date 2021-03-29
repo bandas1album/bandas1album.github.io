@@ -22,4 +22,25 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_mG2XpgYrBD8xv2RfHCVpQFk9MUi_HKL5o
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2014/04/bull-this-is-bull-1970.html
+
+# Tracklist
+tracklist:
+  - name: Don't Cry My Lady
+    duration: '2:51'
+  - name: Let It Shine
+    duration: '3:00'
+  - name: Freedom
+    duration: '2:35'
+  - name: Feelin' Pretty Good
+    duration: '5:09'
+  - name: Lovin Man
+    duration: '2:55'
+  - name: Groovin
+    duration: '3:47'
+  - name: How Do Losers Say Goodbye
+    duration: '3:48'
+  - name: (Do You Have) Something To Say
+    duration: '2:19'
+  - name: Everybody Wanna Do
+    duration: '3:49'
 ---
