@@ -12,10 +12,10 @@ layout: compress
     <meta name="author" content="{{ site.authors }}" />
 
     <title>
-      {{ page.title }} - {{ page.artist }} ({{ page.released | date: "%Y" }}) |
+      {{ page.artist }} - {{ page.title }} ({{ page.released | date: "%Y" }}) |
       {{ site.title }}
     </title>
-    <meta name="title" content="{{ page.title }} - {{ page.artist }} ({{
+    <meta name="title" content="{{ page.artist }} - {{ page.title }} ({{
     page.released | date: "%Y" }}) | {{ site.title }}" /> <meta
     name="description" content="O álbum {{ page.title }} foi o único disco de
     estúdio lançado por {{ page.artist }} ({{ page.country }}), em {{
@@ -26,7 +26,7 @@ layout: compress
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ page.url | absolute_url }}" />
-    <meta property="og:title" content="{{ page.title }} - {{ page.artist }} ({{
+    <meta property="og:title" content="{{ page.artist }} - {{ page.title }} ({{
     page.released | date: "%Y" }}) | {{ site.title }}" /> <meta
     property="og:description" content="O álbum {{ page.title }} foi o único
     disco de estúdio lançado por {{ page.artist }} ({{ page.country }}), em {{
@@ -37,7 +37,7 @@ layout: compress
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="{{ page.url | absolute_url }}" />
-    <meta property="twitter:title" content="{{ page.title }} - {{ page.artist }}
+    <meta property="twitter:title" content="{{ page.artist }} - {{ page.title }}
     ({{ page.released | date: "%Y" }}) | {{ site.title }}" /> <meta
     property="twitter:description" content="O álbum {{ page.title }} foi o único
     disco de estúdio lançado por {{ page.artist }} ({{ page.country }}), em {{
@@ -187,7 +187,11 @@ layout: compress
                 itemprop="image"
                 loading="lazy"
                 src="/assets/img/albums{{page.url}}.jpg"
-                alt="Capa do álbum {{ page.title }} - {{ page.artist }}"
+                alt="Capa do álbum {{ page.artist }}"
+                -
+                {{
+                page.title
+                }}
               />
             </picture>
             <!-- {%- for image in page.images -%}
