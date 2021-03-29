@@ -42,3 +42,9 @@ tracklist:
   - name: Elegy
     duration: '2:58'
 ---
+
+Com prematuros 8 meses de vida, a Suck foi uma importante banda da cena "Big Heavies" que surgiu no início dos anos 70 com bandas de hard rock na África do Sul, juntamente com outras bandas como Otis Waygood Blues Band e Freedom's Childreen.
+
+Formada por Andrew Ioannides (África do Sul) (Flauta, Vocais), Stephen Gilroy (Grã Bretanha) (Guitarra), Louis Forer (África do Sul) (Baixo) e Saverio Grande (Itália) (Bateria), a banda Suck veio com este álbum cheio de pedradas, com aquele famoso "rock pauleira" trazendo covers, cheios de personalidade, de Black Sabbath, Grand Funk Railroad, King Crimson e Donovan.
+
+Lançado pela Parlaphone, eles trazem neste disco apenas uma música autoral ("The Whip") mas é bom de ouvir do começo ao fim. Um bálsamo para quem ama rock setentista.

@@ -58,3 +58,11 @@ tracklist:
   - name: Tell Him
     duration: '4:41'
 ---
+
+Premiado até hoje e considerado o melhor disco de rap da história, pela revista Rolling Stone, o álbum "The Miseducation of Lauryn Hill" da Lauryn Hill é um verdadeiro #OneAlbumWonder.
+
+Considerada a pioneira do neo-soul pelas misturas inovadoras do soul, com hip-hop, reggae e gospel, Lauryn após o fim o fim do The Fugees marcou e provou sua genialidade com este belíssimo álbum que ficou no primeiro lugar da Billboard 200 e vendeu 400 mil cópias na primeira semana.
+
+Com belíssimas músicas, o álbum trouxe diversos singles como "Doo Wop (That Thing)", "Everything is Everything", "To Zion" (com a participação do Carlos Santana), e "Ex-Factor".
+
+No ano de 2000, Lauryn decidiu afastar-se da fama para se dedicar à sua família e fazendo apenas pequenos shows. Em julho de 2018, Lauryn se lançou como estilista e modelo.

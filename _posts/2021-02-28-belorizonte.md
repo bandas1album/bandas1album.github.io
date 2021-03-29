@@ -23,3 +23,7 @@ links:
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2017/03/aum-belorizonte-1983.html
 ---
+
+Fazendo um jazz-rock delicioso, a banda mineira Aum formada nos anos 80 por José Paulo Mesquita (Baixo), Leopoldo Mesquita (Bateria), Marcio/Frango (Guitarra), Betinho (Teclados) e Taquinho (Guitarra) gravaram independentemente o primeiro e único disco da carreira "Belorizonte" e nadaram contra a corrente da época, fazendo um som instrumental maravilhoso com a fusão do jazz com o rock.
+
+Esta pérola pode ser encontrada em alguns sebos e mercados livres espalhados pelo Brasil sempre com valores altos.

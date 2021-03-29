@@ -44,3 +44,9 @@ tracklist:
   - name: Everybody Wanna Do
     duration: '3:49'
 ---
+
+Com muito blues, soul e psicodelia que Barry "Bull" Gordon foi apresentado ao empresário Sid Seidenberg por ninguém mais ninguém menos que B.B. King no inicio dos anos 70.
+
+Com essa visão de que Bull poderia ser um grande showman e "apadrinhado" pelo grande B.B. King, Berry lançou essa pérola juntamente com Jerry Friedman (Guitarra, Piano, Órgão), Andy Muson (Baixo), Paul Griffin (Órgão, Piano), Herb Lovelle (Bateria), Carl H. Carldwell, Hilda Harris, Eileen Gilbert e Tasha Thomas (Vocais).
+
+Com faixas que remetem as linhas distorcidas e groove do Jimi Hendrix, infelizmente este foi o primeiro e último trabalho de Bull. Não há muitas informações além dessas na internet sobre como Bull seguiu no meio musical.

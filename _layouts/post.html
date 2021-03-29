@@ -268,7 +268,8 @@ layout: compress
 
         {% if content != '' or page.tracklist %}
         <div class="post-content">
-          {%- if page.tracklist -%}
+          <h3>Um pouco mais sobre {{ page.artist }}</h3>
+          {{content}} {%- if page.tracklist -%}
           <div class="post-tracklist">
             <h3>Lista de faixas</h3>
             <table>
@@ -293,7 +294,7 @@ layout: compress
               {% endfor %}
             </table>
           </div>
-          {%- endif -%} {{content}}
+          {%- endif -%}
 
           <div class="post-comments">
             <div id="disqus_thread"></div>

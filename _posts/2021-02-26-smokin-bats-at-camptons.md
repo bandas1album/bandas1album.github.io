@@ -42,3 +42,7 @@ tracklist:
   - name: Your Blues
     duration: '7:24'
 ---
+
+Primevil foi uma banda de hard rock que, infelizmente, durou muito pouco. Formada em Indiana, Estados Unidos e composta pelo vocalista Dave Campton, os guitarristas Larry Lucas e Jay Wilfong, o baixista Mark Sipe, e o baterista Mel Cupp (Moe Whittemore contribuiu sintetizadores no estúdio) - na época em que mal tinham saído da adolescência, quando eles gravaram seu primeiro e único disco, Smokin’ Bats At Campton’s, em 1974.
+
+Graças a marca deixada pelo Primevil, com seu hard rock e blues rock, enriquecido com acenos discretos para o progressivo e psicodélico acabaria por se tornar um disco cult para os apreciadores da boa música que trocam cópias em vinil pelo eBay por centenas de dólares e, até por causa disso, eventualmente, solicitado uma reedição tardia em CD no ano de 2006.

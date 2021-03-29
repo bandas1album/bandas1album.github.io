@@ -23,3 +23,9 @@ links:
   wikipedia: https://pt.wikipedia.org/wiki/Blind_Faith_(%C3%A1lbum)
   download: http://murodoclassicrock4.blogspot.com.br/2010/11/blind-faith-discografia.html
 ---
+
+Eric Clapton e Ginger Baker após o fim do Cream, decidiram fazer um super grupo e em 1968 começaram a juntar-se com ex-integrantes de outras bandas da época como Spencer Davis Group e Family.
+
+Em agosto de 1969, no ápice da geração hippie, o grandioso Eric Clapton, juntamente com Steve Winwood (Órgão, Baixo, Guitarra, Piano, Vocais, Harmônica), Ginger Baker (Percussão, Bateria) e Rick Grech (Baixo, Violino, Vocais) lançaram esse pérola do blues rock e são considerados até hoje como um super grupo do rock.
+
+A capa do grupo gerou polêmica na época e até hoje é contestada por mostrar uma garota de onze anos com os seios a mostra enquanto segura um avião num formato fálico, fotógrafada pelo norte-americano Bob Seidemann. O nome da garota não foi divulgado no disco, mas na época gerou um comentário de que a garota deveria ser filha ou sobrinha do baterista Ginger Baker. E por conta de toda essa polêmica o álbum acabou ganhando uma capa alternativa nos Estados Unidos e no Brasil a capa original só saiu numa edição especial em 1980.

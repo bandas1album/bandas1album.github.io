@@ -23,3 +23,9 @@ links:
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2011/06/chris-harwood-nice-to-meet-miss.html
 ---
+
+Lançado pelo selo independente Birth, em 1970, o álbum "Nice To Meet Miss Christine" é uma pérola perdida do folk britânico que também flerta com outros estilos como country, jazz, r&b e world music.
+
+Fica claro que não é apenas um álbum de folk quando se olha para a produção e músicos auxiliares do álbum, como o guitarrista Peter Banks (Yes), o pianista Tommy Eyre (Rainbow), o flautista Ian McDonald (King Crimson), o baterista Pete York (Spencer Davis Group) e outros músicos e produtores como Mike Maran, Dave Lambert, Roger Sutton e J. Kay Boots. Com estes excelentes músicos dificilmente o álbum seria apenas de folk.
+
+E foi esta pérola que a Chris nos entregou e que infelizmente ficou esquecida ao passar das décadas e sendo o tipo de álbum que enquanto você escuta, pensa "por que eu nunca ouvi isso antes?".

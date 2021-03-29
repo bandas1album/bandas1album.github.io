@@ -46,3 +46,9 @@ tracklist:
   - name: Em Busca Do Tempo Perdido
     duration: '4:03'
 ---
+
+Com o vocal rouco e marcante do cearense Luiz Carlos Porto, a banda O Peso foi formada no Rio de Janeiro em 1974 juntamente com Gabriel O'Meara (Guitarra), Constant Papineau (Piano), Carlos Scart (Baixo) e Carlos Graça (Bateria).
+
+Um ano depois, 1975, a banda assinou com a gravadora Polydor e lançou este disco "Em Busca do Tempo Perdido", com um blues rock setentista maravilhoso.
+
+No final dos anos 70 a banda se dissolveu, tendo lançado apenas esta pérola. O vocalista Luiz Carlos Porto chegou a voltar com a banda, com outra formação, em 1984 quando o rock brasileiro estava revitalizado e novamente em pauta, fazendo poucos shows e com o repertório dos anos 70.

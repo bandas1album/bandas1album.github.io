@@ -11,8 +11,12 @@
   }
 
   p {
-    font-size: rem(24px);
+    font-size: rem(18px);
     line-height: 1.5;
+
+    @media (min-width: $tablet) {
+      font-size: rem(24px);
+    }
   }
 
   .post-comments {

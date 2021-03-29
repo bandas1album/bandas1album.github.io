@@ -23,3 +23,9 @@ links:
   wikipedia: https://es.wikipedia.org/wiki/D%C3%ADas_de_Blues
   download: http://murodoclassicrock4.blogspot.com.br/2017/06/dias-de-blues-1972.html
 ---
+
+Um dos precursores do hard rock uruguaio, com Daniel Bertolone (vocal e guitarra), Jorge Barral (Baixo e Vocais) e Jorge Graf (Bateria), o Dias de Blues surgiu após a dissolução da banda Opus Alfa e lançaram este homônimo em 1973.
+
+Devido a situação política do país naquele período, Jorge Barral se mudou para a Espanha e Daniel Bertolone para a Austrália, o baterista Jorge Graf continuou se apresentando com a banda com outros músicos até 1975.
+
+A banda se reuniu novamente em 1987 e 1991, mas apenas com Jorge Graf da formação original.

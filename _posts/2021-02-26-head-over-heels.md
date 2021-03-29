@@ -42,3 +42,7 @@ tracklist:
   - name: Circles
     duration: '7:33'
 ---
+
+Produzidos por Buzz Clifford e Daniel Moore, o power trio formado pelo Michael Urso (baixo e vocais), Paul Frank (guitarra e vocais) e John Bredeau (bateria e percussão) lançaram em 1971 uma pérola homônima "Head Over Heels".
+
+A banda fazia um hard blues rock de qualidade, com peso no cover de "Red Rooster" do Willie Dixon, vocais fortes que remetem muito a Led Zeppelin na faixa "Road Runner" e com muita personalidade nas baladas como em "Right Away".

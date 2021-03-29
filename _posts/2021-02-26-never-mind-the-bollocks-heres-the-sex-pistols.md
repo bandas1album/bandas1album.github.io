@@ -48,3 +48,11 @@ tracklist:
   - name: E.M.I.
     duration: '3:06'
 ---
+
+Formado por Johnny Rotten (Vocais), Steve Jones (Guitarra), Paul Cook (Bateria), Glen Matlock (Baixo) substituído por Sid Vicious após sua saída em 1977, o Sex Pistols é um dos grupos que não é necessário falar muito, pois não é escondido de ninguém tudo o que o álbum "Never Mind The Bollocks Here's The Sex Pistols" representa para o mundo.
+
+Com letras políticas - como seu single "God Save The Queen" -, visual exótico e atitudes contraditórias para a época, o Sex Pistols foi formado em 1975 e é considerada uma das bandas mais influentes da história da música mesmo tendo lançado apenas um disco, um verdadeiro #OneAlbumWonder.
+
+Após uma turbulenta turnê nos Estados Unidos no início de 1978, Rotten abandona a banda e anuncia o fim da mesma. Sid Vicious morre de overdose em fevereiro do próximo ano, 1979.
+
+O restante é história. Deixe nos comentários qual sua música favorita e se o Sex Pistols marcou sua vida de alguma forma.

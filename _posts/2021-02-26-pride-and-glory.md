@@ -54,3 +54,9 @@ tracklist:
   - name: Hate Your Guts
     duration: '4:36'
 ---
+
+Projeto musical iniciado em 1991 pelo Zakk Wylde, ex-guitarrista do Ozzy Osbourne e front-man do Black Label Society, o Pride & Glory lançou este homônimo em 1994 cheio de sons pesados que mesclam o southern rock e o heavy metal de uma forma maestral.
+
+A banda inicialmente foi chamada de "Lynyrd Skynhead", com Zakk Wylde (vocal e guitarra), James LoMenzo (baixo) e Greg D'Angelo (bateria). Em 1994, Brian Tichy entrou para a banda no lugar de D'Angelo e em maio do mesmo ano lançaram esta pérola. Em novembro, dias antes da turnê pelo Japão, LoMenzo deixou a banda e foi substituído por John 'J.D.' DeServio.
+
+Mesmo tendo lançado apenas um disco, a banda não é tão desconhecida por ter o peso de ser um projeto do Zakk Wylde, de qualquer forma é um pérola que não podemos deixar de ouvir.

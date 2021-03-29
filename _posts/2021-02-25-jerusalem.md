@@ -44,3 +44,9 @@ tracklist:
   - name: She Came Like A Bat From Hell
     duration: '5:34'
 ---
+
+Produzida por Ian Gillan, vocalista do Deep Purple, a Jerusalem é mais uma daquelas bandas que ficaram à sombra de bandas grandiosas dos anos 70 - como Led Zeppelin, Black Sabbath e Deep Purple - e acabaram perdendo a força para continuar e lançar novos trabalhos.
+
+Com Lynden Williams (Vocais), Bob Cook (Guitarra), Bill Hinde (Guitarra), Paul Dean (Baixo) e Ray Sparrow (Bateria), o Jerusalem vem com aquele proto metal na faixa "Frustration", riffs de blues distorcidos como em "Hooded Eagle", vocais fortes e uma ambiência dark como na segunda faixa "Primitive Man".
+
+A banda extinguiu-se depois do lançamento e o álbum ficou muito tempo perdido no meio obscuro do hard rock setentista e veio a ganhar um novo sopro de vida em 2004 com o relançamento em CD pela Universal, o que fez muita gente conhecer este álbum mais de 32 anos do seu lançamento.
