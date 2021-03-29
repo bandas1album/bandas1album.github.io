@@ -22,4 +22,23 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_kTYh9vSO3CtwbZL2IeoeXq1OOv5Du41d0&feature=gws_kp_album&feature=gws_kp_artist
   wikipedia: https://en.wikipedia.org/wiki/Primevil_(band)
   download: http://murodoclassicrock4.blogspot.com.br/2013/10/primevil-smokin-bats-at-camptons-1974.html
+
+# Tracklist
+tracklist:
+  - name: Leavin'
+    duration: '3:53'
+  - name: Progress
+    duration: '3:25'
+  - name: Fantasies
+    duration: '6:00'
+  - name: Pretty Woman
+    duration: '3:11'
+  - name: Tell Me If You Can
+    duration: '5:20'
+  - name: Hey, Lover
+    duration: '2:36'
+  - name: High Steppin' Stomper
+    duration: '4:27'
+  - name: Your Blues
+    duration: '7:24'
 ---
