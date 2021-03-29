@@ -2,7 +2,11 @@
   table {
     width: 100%;
     border-collapse: collapse;
-    font-size: rem(24px);
+    font-size: rem(18px);
+
+    @media (min-width: $tablet) {
+      font-size: rem(24px);
+    }
   }
 
   tr {
