@@ -22,4 +22,17 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_nz4JjOtB0lIEM--bmbfu-YtE0A9lmwol8
   wikipedia: https://en.wikipedia.org/wiki/Armageddon_(Armageddon_album)
   download: http://murodoclassicrock4.blogspot.com.br/2010/11/armageddon-1975.html
+
+# Tracklist
+tracklist:
+  - name: Buzzard
+    duration: '8:16'
+  - name: Silver Tightrope
+    duration: '8:23'
+  - name: Paths And Planes And Future Gains
+    duration: '4:30'
+  - name: Last Stand Before
+    duration: '8:23'
+  - name: Basking In The White Of The Midnight Sun
+    duration: '11:29'
 ---
