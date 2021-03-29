@@ -22,4 +22,23 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_nseoO8um674c40zI981AKOTvawxicHdYE
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com.br/2018/01/ardo-dombec-1971.html
+
+# Tracklist
+tracklist:
+  - name: Spectaculum
+    duration: '4:02'
+  - name: Supper Time
+    duration: '3:19'
+  - name: A Bit Near The Knuckle
+    duration: '4:32'
+  - name: Clean Up Sunday
+    duration: '6:50'
+  - name: Downtown-Paradise-Lost
+    duration: '5:52'
+  - name: Oh, Sorry
+    duration: '0:06'
+  - name: '108'
+    duration: '4:36'
+  - name: Unchangeable Things?!
+    duration: '5:58'
 ---
