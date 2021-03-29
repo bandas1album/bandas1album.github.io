@@ -6,6 +6,8 @@ module.exports = {
   entry: {
     main: path.join(__dirname, 'src/js', 'main'),
     single: path.join(__dirname, 'src/js', 'single'),
+    home: path.join(__dirname, 'src/js', 'home'),
+    category: path.join(__dirname, 'src/js', 'category'),
   },
   output: {
     filename: '[name].js',
