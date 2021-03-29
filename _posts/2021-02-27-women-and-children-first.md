@@ -22,4 +22,27 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_k3ZVFzZh1-tDB0Pfd9PVZ9iRR17vAxuIg
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2017/10/ancient-grease-women-and-children-first.html
+
+# Tracklist
+tracklist:
+  - name: Freedom Train
+    duration: '4:04'
+  - name: Don't Want
+    duration: '5:04'
+  - name: Odd Song
+    duration: '5:49'
+  - name: Eagle Song
+    duration: '4:55'
+  - name: Where The Snow Lies Forever
+    duration: '5:06'
+  - name: Mother Grease The Cat
+    duration: '5:11'
+  - name: Time To Die
+    duration: '4:03'
+  - name: Prelude To A Blind Man
+    duration: '4:59'
+  - name: Mystic Mountain
+    duration: '2:55'
+  - name: Women And Children First
+    duration: '6:32'
 ---
