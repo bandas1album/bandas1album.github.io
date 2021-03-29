@@ -172,10 +172,7 @@ layout: compress
     {% endif %}
   </head>
 
-  {% assign content = page.content | strip_newlines %}
-  <body
-    class="single {% if content != '' or page.tracklist %} has-content {% endif %}"
-  >
+  <body class="single has-content">
     {% include header.html %}
     <main class="main">
       {% include lists/list-posts.html %}
@@ -266,10 +263,11 @@ layout: compress
           </div>
         </div>
 
-        {% if content != '' or page.tracklist %}
+        {% assign content = page.content | strip_newlines %}
         <div class="post-content">
+          {% if content != '' %}
           <h3>Um pouco mais sobre {{ page.artist }}</h3>
-          {{content}} {%- if page.tracklist -%}
+          {{content}} {% endif %} {%- if page.tracklist -%}
           <div class="post-tracklist">
             <h3>Lista de faixas</h3>
             <table>
@@ -319,7 +317,6 @@ layout: compress
             </noscript>
           </div>
         </div>
-        {% endif %}
       </article>
     </main>
 
