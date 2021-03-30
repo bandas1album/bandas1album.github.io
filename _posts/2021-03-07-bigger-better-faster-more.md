@@ -22,6 +22,31 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_mzj3-QPB_70e3X9mmQV8ElewPuHx60h0Y
   wikipedia: https://pt.wikipedia.org/wiki/4_Non_Blondes
   download:
+
+# Tracklist
+tracklist:
+  - name: Train
+    duration: '3:47'
+  - name: Superfly
+    duration: '4:37'
+  - name: What's Up
+    duration: '4:55'
+  - name: Pleasantly Blue
+    duration: '2:27'
+  - name: Morphine & Chocolate
+    duration: '4:41'
+  - name: Spaceman
+    duration: '3:40'
+  - name: Old Mr. Heffer
+    duration: '2:16'
+  - name: Calling All The People
+    duration: '3:17'
+  - name: Dear Mr. President
+    duration: '4:43'
+  - name: Drifting
+    duration: '3:30'
+  - name: No Place Like Home
+    duration: '3:09'
 ---
 
 Formada em São Francisco, California, em 1989 por Linda Perry (vocal), Roger Rocha (guitarra), Christa Hillhouse (baixo), Dawn Richardson (bateria) a bandas de rock alternativo 4 Non Blondes, com este nome por uma brincadeira por nenhuma delas ser loira, lançou o único álbum "Bigger, Better, Faster, More!" em setembro de 1992 e vendeu aproximadamente 6 milhões de cópias.
