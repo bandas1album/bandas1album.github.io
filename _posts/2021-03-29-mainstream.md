@@ -22,4 +22,21 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_nka0vCmG7U106lqj-G2GQbXKnnkFvbc5g
   wikipedia: https://en.wikipedia.org/wiki/Mainstream_(Quiet_Sun_album)
   download: http://murodoclassicrock4.blogspot.com.br/2017/10/quiet-sun-mainstream-1975.html
+
+# Tracklist
+tracklist:
+  - name: Sol Caliente
+    duration: '8:02'
+  - name: Trumpets With Motherhood
+    duration: '1:30'
+  - name: Bargain Classics
+    duration: '5:37'
+  - name: R.F.D.
+    duration: '3:09'
+  - name: Mummy Was An Asteroid, Daddy Was A Small Non-Stick Kitchen Utensil
+    duration: '6:09'
+  - name: Trot
+    duration: '5:00'
+  - name: Rongwrong
+    duration: '9:39'
 ---
