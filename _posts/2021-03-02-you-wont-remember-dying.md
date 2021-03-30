@@ -22,4 +22,23 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_kSbu0YBpIQDF1OU_T8wnLn4baml8Sy1pk
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2011/05/bulbous-creation-you-wont-remember.html
+
+# Tracklist
+tracklist:
+  - name: End Of The Page
+    duration: '4:48'
+  - name: Having A Good Time
+    duration: '4:09'
+  - name: Satan
+    duration: '6:08'
+  - name: Fever Machine Man
+    duration: '6:35'
+  - name: Let's Go To The Sea
+    duration: '8:30'
+  - name: Hooked
+    duration: '4:08'
+  - name: Under The Black Sun
+    duration: '3:16'
+  - name: Stormy Monday
+    duration: '4:49'
 ---
