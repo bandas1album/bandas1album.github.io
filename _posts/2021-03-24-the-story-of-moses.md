@@ -22,4 +22,19 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_kdybsFVSOeG7OWL3TMQsr0vxSg2y_e7VE
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2014/04/light-story-of-moses-1972.html
+
+# Tracklist
+tracklist:
+  - name: The Water
+    duration: '8:43'
+  - name: The Blackberry Bushes
+    duration: '10:57'
+  - name: White Turnes Into Black
+    duration: '6:35'
+  - name: The Nuisances
+    duration: '6:55'
+  - name: The Desert
+    duration: '1:39'
+  - name: The Red Sea
+    duration: '5:04'
 ---
