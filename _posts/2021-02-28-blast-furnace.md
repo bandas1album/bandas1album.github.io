@@ -22,4 +22,29 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_mVZWHM49bl903Z9FIBOnFZ0Na-iX-7NRo
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2019/03/blast-furnace-1971.html
+
+# Tracklist
+tracklist:
+  - name: First And Last
+    duration: '4:06'
+  - name: Ginger Cake
+    duration: '5:30'
+  - name: Jaywalker
+    duration: '4:17'
+  - name: B-Major Blast
+    duration: '0:20'
+  - name: This Time Of Year
+    duration: '4:15'
+  - name: Toytown
+    duration: '7:10'
+  - name: Man Bites Dog
+    duration: '2:07'
+  - name: Long Distance
+    duration: '4:00'
+  - name: Goodbye Mr. Bobo
+    duration: '2:40'
+  - name: Dr. Night
+    duration: '4:55'
+  - name: Bye Bye Bobo
+    duration: '1:27'
 ---
