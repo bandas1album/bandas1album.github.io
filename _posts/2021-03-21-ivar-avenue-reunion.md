@@ -22,4 +22,25 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_kKuS03A9WXLEdCLMPb4Vqx8HpuHcQfaOg
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com.br/2018/03/ivar-avenue-reunion-1970.html
+
+# Tracklist
+tracklist:
+  - name: Ride Mama Ride
+    duration: '2:40'
+  - name: After While
+    duration: '6:34'
+  - name: Magic Fool
+    duration: '1:57'
+  - name: Fast Train
+    duration: '3:49'
+  - name: My Daddy Was A Jockey
+    duration: '2:45'
+  - name: Charlotte Brown
+    duration: '4:01'
+  - name: Run, Run Children
+    duration: '4:21'
+  - name: Walkin' Shoes
+    duration: '2:31'
+  - name: Toe Jam
+    duration: '2:32'
 ---
