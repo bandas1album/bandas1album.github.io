@@ -22,4 +22,23 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_mE8UX3lwoIvT_NgxYSzrCL4VWAEL_Dtgc
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2013/11/lost-nation-paradise-lost-1970.html
+
+# Tracklist
+tracklist:
+  - name: Tall Ivory Castle
+    duration: '4:48'
+  - name: Rome
+    duration: '4:05'
+  - name: Little Boy
+    duration: '4:27'
+  - name: Images
+    duration: '6:50'
+  - name: Seven Minute Woman
+    duration: '5:05'
+  - name: Shadows Within You
+    duration: '4:36'
+  - name: She'll Take You
+    duration: '7:14'
+  - name: Falling Inside My Mind
+    duration: '7:17'
 ---
