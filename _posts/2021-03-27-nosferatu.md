@@ -22,4 +22,19 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_lsmWEyv20kur0LmrZBvjDz5-xNbtDXPrE
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2010/11/nosferatu-1970.html
+
+# Tracklist
+tracklist:
+  - name: Highway
+    duration: '4:16'
+  - name: Willie The Fox
+    duration: '10:49'
+  - name: Found My Home
+    duration: '8:40'
+  - name: No. 4
+    duration: '8:52'
+  - name: Work Day
+    duration: '6:55'
+  - name: Vanity Fair
+    duration: '6:48'
 ---
