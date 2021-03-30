@@ -22,4 +22,23 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_magGkGG3Kgr2nxYJqz7PgRvExHaWiuw-I
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2011/05/landslide-two-sided-fantasy-1972.html
+
+# Tracklist
+tracklist:
+  - name: Doin' What I Want
+    duration: '5:08'
+  - name: Creepy Feelin'
+    duration: '4:01'
+  - name: Everybody Knows (Slippin')
+    duration: '7:18'
+  - name: Dream Traveler
+    duration: '4:37'
+  - name: Susan
+    duration: '5:54'
+  - name: Sad And Lonely
+    duration: '3:01'
+  - name: Little Bird
+    duration: '4:58'
+  - name: Happy
+    duration: '5:51'
 ---
