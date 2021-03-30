@@ -22,4 +22,23 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_nRd_tOhKlBVPub6_TpK7y5dKBbt3-E4pk
   wikipedia: https://it.wikipedia.org/wiki/...Il_lungo_cammino_dei_Raminghi
   download: http://murodoclassicrock4.blogspot.com.br/2013/12/i-raminghi-il-lungo-cammino-dei.html
+
+# Tracklist
+tracklist:
+  - name: Donna Hai Ragione Tu
+    duration: '9:33'
+  - name: La Nostra Verità
+    duration: '2:55'
+  - name: Cose Superate
+    duration: '3:38'
+  - name: Partire
+    duration: '2:52'
+  - name: Every Day Jesus
+    duration: '3:34'
+  - name: Non Moriremo Mai
+    duration: '3:52'
+  - name: Buio Mondo Nero E Giallo
+    duration: '5:08'
+  - name: Guarda Tuo Padre
+    duration: '4:13'
 ---
