@@ -22,4 +22,17 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_lnSN1XDkUClx_1Pwxn9YkmkmDzJB1Sc1g
   wikipedia: https://de.wikipedia.org/wiki/Prof._Wolfff
   download: http://murodoclassicrock4.blogspot.com.br/2011/12/prof-wolfff-1972.html
+
+# Tracklist
+tracklist:
+  - name: Hetzjagd
+    duration: '9:45'
+  - name: Hans Im Glück
+    duration: '7:37'
+  - name: Mißverständnis
+    duration: '3:55'
+  - name: Das Zimmer
+    duration: '4:45'
+  - name: Weh' Uns
+    duration: '9:39'
 ---
