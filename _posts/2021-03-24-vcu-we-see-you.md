@@ -22,4 +22,19 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_nnAusbgXtOl_a5k-_shPjjFvI2TI5A3ZY
   wikipedia: https://de.wikipedia.org/wiki/Lily_(Band)
   download: https://murodoclassicrock4.blogspot.com/2020/11/lily-vcu-we-see-you-1973.html
+
+# Tracklist
+tracklist:
+  - name: In Those Times
+    duration: '9:12'
+  - name: Which Is This
+    duration: '4:25'
+  - name: Pinky Pigs
+    duration: '6:35'
+  - name: Doctor Martin
+    duration: '4:37'
+  - name: I'm Lying On My Belly (Including "Tango Atonale")
+    duration: '5:57'
+  - name: Eyes Look From The Mount Of Flash
+    duration: '9:42'
 ---
