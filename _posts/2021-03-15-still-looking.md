@@ -22,4 +22,21 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_mPWR0Xj1cR2Ept3DAUDE6iSG3kjVQVTk4
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2017/02/headstone-still-looking-1974.html
+
+# Tracklist
+tracklist:
+  - name: Still Looking
+    duration: '7:29'
+  - name: I Like It
+    duration: '7:49'
+  - name: Misery
+    duration: '4:09'
+  - name: Those Days
+    duration: '5:44'
+  - name: Peace Of Mind
+    duration: '5:00'
+  - name: Springtime
+    duration: '4:10'
+  - name: I Love You
+    duration: '5:02'
 ---
