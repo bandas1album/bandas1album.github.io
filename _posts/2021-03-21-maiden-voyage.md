@@ -22,4 +22,23 @@ links:
   youtube: https://music.youtube.com/watch?v=q8zdORt1joU&list=RDAMVMq8zdORt1joU
   wikipedia: https://pt.wikipedia.org/wiki/Iron_Maiden_(banda_de_blues-rock)
   download: http://murodoclassicrock4.blogspot.com.br/2010/11/iron-maiden-maiden-voyage-1969.html
+
+# Tracklist
+tracklist:
+  - name: Falling
+    duration: '6:04'
+  - name: Ned Kelly
+    duration: '3:15'
+  - name: Liar
+    duration: '12:21'
+  - name: Ritual
+    duration: '8:47'
+  - name: CC Ryder
+    duration: '6:12'
+  - name: Plague
+    duration: '8:26'
+  - name: Ballad Of Martha Kent
+    duration: '6:50'
+  - name: God Of Darkness
+    duration: '4:18'
 ---
