@@ -22,4 +22,23 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_kacKZxcCTAyviNcAaURG-LymUSnTJoVfY
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2011/10/fox-san-francisco-session-1969-1970.html
+
+# Tracklist
+tracklist:
+  - name: Susie S. Kalator
+    duration: '6:34'
+  - name: Sun City
+    duration: '6:19'
+  - name: I Can't Take It
+    duration: '4:59'
+  - name: Keer On Livin' This Wax
+    duration: '5:28'
+  - name: I Was Alone
+    duration: '4:49'
+  - name: Geraldine
+    duration: '6:28'
+  - name: Parchman Farm
+    duration: '11:01'
+  - name: Baby, Please Don't Go
+    duration: '6:53'
 ---
