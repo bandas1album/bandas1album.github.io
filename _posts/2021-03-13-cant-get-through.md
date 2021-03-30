@@ -22,4 +22,17 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_mMA9m5I__QCxBWGzNmLT_nxcMaDErowak
   wikipedia: https://de.wikipedia.org/wiki/Hairy_Chapter
   download: http://murodoclassicrock4.blogspot.com.br/2012/01/hairy-chapter-cant-get-through-1971.html
+
+# Tracklist
+tracklist:
+  - name: There's A Kind Of Nothing
+    duration: '5:50'
+  - name: Can't Get Through
+    duration: '10:48'
+  - name: It Must Be An Officer's Daughter
+    duration: '8:05'
+  - name: As We Crossed Over
+    duration: '3:39'
+  - name: You've Got To Follow This Masquerade
+    duration: '4:47'
 ---
