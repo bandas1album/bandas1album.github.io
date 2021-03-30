@@ -22,4 +22,29 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_kUkcfan5p55S0Zmal9vVchAEwARB93STg
   wikipedia: https://en.wikipedia.org/wiki/Colonel_Bagshot
   download: https://murodoclassicrock4.blogspot.com/2019/07/colonel-bagshot-oh-what-lovely-war-1971.html
+
+# Tracklist
+tracklist:
+  - name: Six Day War
+    duration: '3:58'
+  - name: Lay It Down
+    duration: '3:07'
+  - name: Lord High Human Being
+    duration: '3:00'
+  - name: Headhunters
+    duration: '2:47'
+  - name: I've Seen The Light
+    duration: '4:45'
+  - name: Dirty Delilah Blues
+    duration: '4:15'
+  - name: Sometimes
+    duration: '2:02'
+  - name: That's What I'd Like To Know
+    duration: '4:00'
+  - name: Smile
+    duration: '2:55'
+  - name: Tightrope Tamer
+    duration: '2:50'
+  - name: Oh! What A Lovely War
+    duration: '3:18'
 ---
