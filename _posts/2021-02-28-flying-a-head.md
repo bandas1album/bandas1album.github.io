@@ -22,4 +22,25 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_k2pYtitRdERySSFFpN50INgngyiUF1gn8
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2012/02/atlee-flying-ahead-1970.html
+
+# Tracklist
+tracklist:
+  - name: Rip You Up
+    duration: '4:18'
+  - name: Swamp Rhythm
+    duration: '3:45'
+  - name: Painted Ladies
+    duration: '5:30'
+  - name: Jesus People
+    duration: '4:52'
+  - name: Let's Make Love
+    duration: '4:58'
+  - name: Will We Get Together
+    duration: '2:40'
+  - name: Dirty Old Man
+    duration: '5:15'
+  - name: Ain't That The Way
+    duration: '3:35'
+  - name: Dirty Sheets
+    duration: '4:05'
 ---
