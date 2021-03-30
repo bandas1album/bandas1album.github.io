@@ -22,4 +22,23 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_l5TUW5qs89s1_O5YfT9xhgQMsWWtDutOY
   wikipedia: https://en.wikipedia.org/wiki/Green_Bullfrog
   download: http://murodoclassicrock4.blogspot.com.br/2013/08/green-bullfrog-1970.html
+
+# Tracklist
+tracklist:
+  - name: My Baby Left Me
+    duration: '3:16'
+  - name: Making Time
+    duration: '2:51'
+  - name: Lawdy Miss Clawdy
+    duration: '3:16'
+  - name: Bullfrog
+    duration: '7:10'
+  - name: I Want You
+    duration: '3:38'
+  - name: I'm A Free Man
+    duration: '4:39'
+  - name: Walk A Mile In My Shoes
+    duration: '3:33'
+  - name: Lovin' You Is Good For Me Baby
+    duration: '5:05'
 ---
