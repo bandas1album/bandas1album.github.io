@@ -22,4 +22,25 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_nMO2KuXl-NbHJoIl6wOgMiFcif_eZFCjg
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2015/06/joseph-stone-age-man-1970.html
+
+# Tracklist
+tracklist:
+  - name: Trick Bag
+    duration: '4:35'
+  - name: I Ain't Fattenin' No More Frogs For Snakes
+    duration: '3:38'
+  - name: Cold Biscuits And Fish Heads
+    duration: '3:38'
+  - name: Stone Age Man
+    duration: '3:29'
+  - name: I'm Gonna Build A Mountain
+    duration: '2:12'
+  - name: Mojo Gumbo
+    duration: '2:55'
+  - name: The House Of The Rising Sun
+    duration: '2:24'
+  - name: Gotta Get Away
+    duration: '2:41'
+  - name: Come The Sun Tomorrow
+    duration: '3:44'
 ---
