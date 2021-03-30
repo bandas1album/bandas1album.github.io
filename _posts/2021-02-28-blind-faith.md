@@ -22,6 +22,21 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_kUIr8PhcrAM49vO_vtT1omGF1K7NCmfoE
   wikipedia: https://pt.wikipedia.org/wiki/Blind_Faith_(%C3%A1lbum)
   download: http://murodoclassicrock4.blogspot.com.br/2010/11/blind-faith-discografia.html
+
+# Tracklist
+tracklist:
+  - name: Had To Cry Today
+    duration: '8:48'
+  - name: Can't Find My Way Home
+    duration: '3:16'
+  - name: Well All Right
+    duration: '4:27'
+  - name: Presence Of The Lord
+    duration: '4:50'
+  - name: Sea Of Joy
+    duration: '5:22'
+  - name: Do What You Like
+    duration: '15:18'
 ---
 
 Eric Clapton e Ginger Baker após o fim do Cream, decidiram fazer um super grupo e em 1968 começaram a juntar-se com ex-integrantes de outras bandas da época como Spencer Davis Group e Family.
