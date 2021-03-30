@@ -22,4 +22,21 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_llIea5q-ZZSprMWIgWIlD-VhQ4QKsVZ1I
   wikipedia: https://es.wikipedia.org/wiki/Crack_(banda)
   download: http://murodoclassicrock4.blogspot.com.br/2016/10/crack-si-todo-hiciera-crack-1978.html
+
+# Tracklist
+tracklist:
+  - name: Descenso En El Mahëllstrong
+    duration: '5:24'
+  - name: Amantes De La Irrealidad
+    duration: '6:11'
+  - name: Cobarde O Desertor
+    duration: '4:53'
+  - name: Buenos Deseos
+    duration: '3:51'
+  - name: Marchando Una Del Cid (Partes 1 y 2)
+    duration: '7:43'
+  - name: Si Todo Hiciera Crack
+    duration: '10:08'
+  - name: Epílogo
+    duration: '2:17'
 ---
