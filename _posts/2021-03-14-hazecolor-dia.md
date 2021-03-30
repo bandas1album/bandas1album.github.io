@@ -22,4 +22,17 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_muOauufZJIcODXpnGe31jXjonKnE4vy0k
   wikipedia: https://pt.wikipedia.org/wiki/Hazecolor-dia
   download: https://murodoclassicrock4.blogspot.com.br/2018/03/haze-hazecolor-dia-1971.html
+
+# Tracklist
+tracklist:
+  - name: Peaceful Nonsense
+    duration: '7:21'
+  - name: Fast Career
+    duration: '8:37'
+  - name: Be Yourself
+    duration: '6:29'
+  - name: A Way To Find The Paradise
+    duration: '7:02'
+  - name: Decision
+    duration: '10:20'
 ---
