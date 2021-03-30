@@ -22,6 +22,27 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_lSNNUsJNS08Rlsjp8RYs6d_UnWTXGfGQM
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2011/06/chris-harwood-nice-to-meet-miss.html
+
+# Tracklist
+tracklist:
+  - name: Mama
+    duration: '3:22'
+  - name: Crying To Be Heard
+    duration: '5:06'
+  - name: Wooden Ships
+    duration: '5:01'
+  - name: Ain't Gonna Be Your Slave
+    duration: '3:19'
+  - name: Question Of Time
+    duration: '3:45'
+  - name: Gotta Do My Best
+    duration: '3:20'
+  - name: Before You Right Now
+    duration: '3:51'
+  - name: Never Knew What Love Was
+    duration: '2:47'
+  - name: Flies Like A Bird
+    duration: '2:55'
 ---
 
 Lançado pelo selo independente Birth, em 1970, o álbum "Nice To Meet Miss Christine" é uma pérola perdida do folk britânico que também flerta com outros estilos como country, jazz, r&b e world music.
