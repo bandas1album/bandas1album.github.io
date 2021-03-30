@@ -24,7 +24,6 @@ links:
   download: https://murodoclassicrock4.blogspot.com/2018/05/salem-mass-witch-burning-1971.html
 
 # Tracklist
-
 tracklist:
   - name: Witch Burning
     duration: '10:26'
