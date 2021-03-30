@@ -22,4 +22,17 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_l9JLIeVQK9L0CiG2vxT8T7NLRDBCXXps0
   wikipedia: https://pt.wikipedia.org/wiki/Festa_Mobile
   download: http://murodoclassicrock4.blogspot.com.br/2017/01/festa-mobile-diario-di-viaggio-della.html
+
+# Tracklist
+tracklist:
+  - name: La Corte Di Hon
+    duration: '4:54'
+  - name: Canto
+    duration: '6:09'
+  - name: Aristea
+    duration: '5:01'
+  - name: Ljalja
+    duration: '6:50'
+  - name: Ritorno
+    duration: '8:44'
 ---
