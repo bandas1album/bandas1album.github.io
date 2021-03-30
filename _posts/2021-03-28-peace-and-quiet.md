@@ -22,4 +22,19 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_mw9CPKlBk3N26zqGIaTdRVW_bvH9PsBbw
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2018/09/peace-quiet-1971.html
+
+# Tracklist
+tracklist:
+  - name: You Can Wait Till Tomorrow
+    duration: '3:10'
+  - name: Margo's Leaving Song (Got To Go Away)
+    duration: '7:44'
+  - name: Country Thing
+    duration: '7:44'
+  - name: Hear My Love
+    duration: '6:12'
+  - name: Black Mountain
+    duration: '3:39'
+  - name: Looney Tunes (Instrumental)
+    duration: '8:05'
 ---
