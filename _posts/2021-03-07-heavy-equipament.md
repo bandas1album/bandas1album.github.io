@@ -22,4 +22,25 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_nh8WNv3Nbq-IqlZB5TC_zhT0-OJJKRmHc
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2012/04/euclid-heavy-equipment-1970.html
+
+# Tracklist
+tracklist:
+  - name: Shadows Of Life
+    duration: '3:02'
+  - name: On The Way
+    duration: '4:37'
+  - name: Bye Bye Baby
+    duration: '4:38'
+  - name: Gimme Some Lovin'
+    duration: '4:24'
+  - name: First Time Last Time
+    duration: '3:37'
+  - name: Lazy Livin
+    duration: '5:57'
+  - name: 97 Days
+    duration: '3:10'
+  - name: She's Gone
+    duration: '2:47'
+  - name: It's All Over Now
+    duration: '4:24'
 ---
