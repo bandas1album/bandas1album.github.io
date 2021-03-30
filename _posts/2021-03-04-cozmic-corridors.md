@@ -22,4 +22,17 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_n_6v1hLImPWoncvHzrkCHqTeYeJuOwdYc
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2019/02/cozmic-corridor-1973.html
+
+# Tracklist
+tracklist:
+  - name: The Summit
+    duration: '9:51'
+  - name: Mountainside
+    duration: '8:43'
+  - name: Dark Path
+    duration: '3:07'
+  - name: Niemand Versteht
+    duration: '7:43'
+  - name: Daruber
+    duration: '11:08'
 ---
