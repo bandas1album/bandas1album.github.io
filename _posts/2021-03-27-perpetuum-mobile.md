@@ -32,4 +32,21 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_kTNptEB7QEi3oNzfIreJwIhj8A4E4Gyu4
   wikipedia: https://pt.wikipedia.org/wiki/Mariani_(banda)
   download: http://murodoclassicrock4.blogspot.com.br/2010/11/mariani-perpetuum-mobile-1970.html
+
+# Tracklist
+tracklist:
+  - name: First Song
+    duration: '5:43'
+  - name: Second Song
+    duration: '5:53'
+  - name: Third Song
+    duration: '4:45'
+  - name: Fourth Song
+    duration: '2:53'
+  - name: Mendor-Breaker Part I (Mendor)
+    duration: '6:02'
+  - name: Mendor-Breaker Part II (Breaker)
+    duration: '11:30'
+  - name: Pulsar
+    duration: '2:16'
 ---
