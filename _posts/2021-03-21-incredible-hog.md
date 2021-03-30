@@ -22,4 +22,27 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_llm1OfOvLX6h5VPoIpahbeZkGjOpw6wts
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2013/10/incredible-hog-1973.html
+
+# Tracklist
+tracklist:
+  - name: Lame
+    duration: '3:21'
+  - name: Wreck My Soul
+    duration: '5:43'
+  - name: Execution
+    duration: '3:09'
+  - name: Tadpole
+    duration: '3:31'
+  - name: Another Time
+    duration: '3:14'
+  - name: Warning
+    duration: '3:12'
+  - name: Walk The Road
+    duration: '3:22'
+  - name: There’s A Man
+    duration: '3:53'
+  - name: To The Sea
+    duration: '3:35'
+  - name: Losing Myself
+    duration: '3:48'
 ---
