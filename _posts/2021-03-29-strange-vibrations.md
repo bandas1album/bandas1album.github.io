@@ -22,4 +22,25 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_mE-E0VGZ8KdZb3jNHidaxTOEApVdex8-U
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2014/12/rhapsody-sweden-strange-vibrations-1978.html
+
+# Tracklist
+tracklist:
+  - name: I've Done All I Can
+    duration: '4:09'
+  - name: Been So Long
+    duration: '4:04'
+  - name: Crazy Dance
+    duration: '6:35'
+  - name: Belly Dancer
+    duration: '6:36'
+  - name: Strange Vibrations
+    duration: '4:58'
+  - name: The Creepers
+    duration: '8:22'
+  - name: Take To The Highway
+    duration: '9:34'
+  - name: It's Gotta Be Tonight (Bonus)
+    duration: '3:46'
+  - name: Sweet Rock 'N Roll (Bonus)
+    duration: '4:20'
 ---
