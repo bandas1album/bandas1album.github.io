@@ -22,4 +22,23 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_myJo3dhLakMBXzYtyCr3fQs8UvV8-4pJE
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2011/10/highway-robbery-for-love-or-money-1972.html
+
+# Tracklist
+tracklist:
+  - name: Mystery Rider
+    duration: '3:03'
+  - name: Fifteen
+    duration: '2:57'
+  - name: All I Need (To Have Is You)
+    duration: '4:19'
+  - name: Lazy Woman
+    duration: '5:44'
+  - name: Bells
+    duration: '3:24'
+  - name: Ain't Gonna Take No More
+    duration: '3:56'
+  - name: I'll Do It All Again
+    duration: '4:16'
+  - name: Promotion Man
+    duration: '6:06'
 ---
