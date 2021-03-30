@@ -22,4 +22,29 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_mTDXJkss6xkxGOvh-a09mBDj81bBgBkdk
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2014/12/rhapsody-sweden-strange-vibrations-1978.html
+
+# Tracklist
+tracklist:
+  - name: Royalty Rag
+    duration: '1:00'
+  - name: Cocaine Shuffle
+    duration: '3:47'
+  - name: Canyon Persuasion
+    duration: '2:54'
+  - name: Lovely Ladies
+    duration: '4:13'
+  - name: Denver Dame
+    duration: '3:53'
+  - name: Maid Of Constant Sorrow
+    duration: '4:02'
+  - name: Shake It And Break It
+    duration: '2:40'
+  - name: Callin' You Down
+    duration: '4:22'
+  - name: Country Girl Again
+    duration: '3:27'
+  - name: American Money Blues
+    duration: '5:38'
+  - name: Do What I Tell Me To
+    duration: '3:56'
 ---
