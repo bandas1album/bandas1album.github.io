@@ -28,8 +28,9 @@
   </li>
   {%- endfor -%}
   <li class="list-posts__item">
+    {% assign length = site.posts.size | minus: 95 %}
     <button data-sidebar="albums">
-      <strong>+{{site.posts.size}}</strong>
+      <strong>+{{length}}</strong>
       <span>álbuns</span>
     </button>
   </li>
