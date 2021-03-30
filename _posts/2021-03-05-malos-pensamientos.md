@@ -22,4 +22,25 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_n6xs4FlA38qQ5nDqs2W8LZBEYFy1bIBYs
   wikipedia: https://es.wikipedia.org/wiki/El_%C3%81lamo_(banda)
   download: http://murodoclassicrock4.blogspot.com.br/2016/05/el-alamo-malos-pensamientos-1971.html
+
+# Tracklist
+tracklist:
+  - name: Candy
+    duration: '3:35'
+  - name: Can You See Me
+    duration: '3:18'
+  - name: Pusher Men
+    duration: '3:18'
+  - name: Good Night
+    duration: '3:40'
+  - name: Sweet My Woman
+    duration: '6:45'
+  - name: Listen Me
+    duration: '5:10'
+  - name: I Cry
+    duration: '3:14'
+  - name: Borgoña
+    duration: '4:00'
+  - name: Malos Pensamientos
+    duration: '6:08'
 ---
