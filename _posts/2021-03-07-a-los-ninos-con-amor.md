@@ -22,4 +22,21 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_lEoda069vchkgvj0usd3fR70yqWl6oO7U
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2016/04/estrella-de-marzo-los-ninos-con-amor.html
+
+# Tracklist
+tracklist:
+  - name: Maestro
+    duration: '5:21'
+  - name: Claro Dia
+    duration: '5:43'
+  - name: Naturaleza Sonrieme
+    duration: '5:01'
+  - name: Casi Nada Falta Ya
+    duration: '3:27'
+  - name: Encuentro
+    duration: '4:46'
+  - name: Los Duendes
+    duration: '4:58'
+  - name: Cancion De Cuna
+    duration: '4:53'
 ---
