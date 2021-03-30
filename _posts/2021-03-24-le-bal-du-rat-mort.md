@@ -22,4 +22,17 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_nZA6LGFf51T1YxcgW-hFu9MWCSvHOlJIc
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2014/07/komintern-le-bal-du-rat-mort-1971.html
+
+# Tracklist
+tracklist:
+  - name: Bal Pour Un Rat Vivant
+    duration: '16:34'
+  - name: Hommage Au Maire De Tours (Hymne Pour Le Front De Libération Des Scatophages)
+    duration: '2:10'
+  - name: Petite Musique Pour Un Blockhaus
+    duration: '5:06'
+  - name: Pongistes De Tous Les Pays... D'après "La Ligue Anti-Prussienne"
+    duration: '2:22'
+  - name: 'Fou, Roi, Pantin - Suivi De: Pour Le Front De Libération Des Kiosques À Musique'
+    duration: '7:02'
 ---
