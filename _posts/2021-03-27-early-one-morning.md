@@ -22,4 +22,29 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_lZeGUBFCnYXGQ69Cb-QZaWiYhatn9A8Hg
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2013/11/mushroom-early-one-morning-1973.html
+
+# Tracklist
+tracklist:
+  - name: Early One Morning
+    duration: '2:37'
+  - name: Liothdón
+    duration: '4:17'
+  - name: Crying
+    duration: '3:53'
+  - name: Unborn Child
+    duration: '3:44'
+  - name: Johnny The Jumper
+    duration: '3:04'
+  - name: Potters Wheel
+    duration: '2:20'
+  - name: Standing Alone
+    duration: '5:36'
+  - name: Devil Among The Tailore
+    duration: '2:44'
+  - name: Tenpenny Piece
+    duration: '3:28'
+  - name: Drowsey Maggie
+    duration: '3:57'
+  - name: King Of Alba
+    duration: '4:17'
 ---
