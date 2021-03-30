@@ -22,4 +22,21 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_kJj9KMLH0jzxWehFVjGw4tYU1SFmXPuD4
   wikipedia: https://es.wikipedia.org/wiki/Mainhorse_(%C3%A1lbum)
   download: https://murodoclassicrock4.blogspot.com/2014/06/mainhorse-1970.html
+
+# Tracklist
+tracklist:
+  - name: Introduction
+    duration: '5:06'
+  - name: Passing Years
+    duration: '3:53'
+  - name: Such A Beautiful Day
+    duration: '4:41'
+  - name: Pale Sky
+    duration: '10:15'
+  - name: Basia
+    duration: '5:28'
+  - name: More Tea Vicar
+    duration: '3:31'
+  - name: God
+    duration: '10:31'
 ---
