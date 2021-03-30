@@ -22,4 +22,21 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_mobtUwJFbsJQ-yrvACy44klpX2wcuM3P4
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2013/12/friendship-time-1975-1976-2007.html
+
+# Tracklist
+tracklist:
+  - name: Anonymiteten
+    duration: '8:30'
+  - name: Engine
+    duration: '9:13'
+  - name: Clouds
+    duration: '8:36'
+  - name: Martins Lilla
+    duration: '3:00'
+  - name: Ombadidilio
+    duration: '7:48'
+  - name: Watersong
+    duration: '6:53'
+  - name: Crawling Up
+    duration: '3:50'
 ---
