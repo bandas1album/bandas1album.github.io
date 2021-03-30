@@ -22,4 +22,23 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_l14HloV6Dzo-ZgYil7IHgkjk7B5S0fUso
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2018/12/elias-hulk-unchained-1970.html
+
+# Tracklist
+tracklist:
+  - name: We Can Fly
+    duration: '6:16'
+  - name: Nightmare
+    duration: '3:11'
+  - name: Been Around Too Long
+    duration: '3:01'
+  - name: Yesterday's Trip
+    duration: '3:56'
+  - name: Anthology Of Dreams
+    duration: '3:08'
+  - name: Free
+    duration: '3:37'
+  - name: Delhi Blues
+    duration: '4:18'
+  - name: Ain't Got You
+    duration: '3:29'
 ---
