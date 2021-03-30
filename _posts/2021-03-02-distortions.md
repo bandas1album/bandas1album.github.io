@@ -22,4 +22,27 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_lvilTINwkx_8WspvqkcW1bgi0utzAlcYQ
   wikipedia: https://pt.wikipedia.org/wiki/Blue_Phantom
   download: http://murodoclassicrock4.blogspot.com.br/2014/09/blue-phantom-distortions-1971.html
+
+# Tracklist
+tracklist:
+  - name: Diodo
+    duration: '3:50'
+  - name: Metamorphosis
+    duration: '3:03'
+  - name: Microchaos
+    duration: '2:45'
+  - name: Compression
+    duration: '2:53'
+  - name: Equilibrium
+    duration: '4:08'
+  - name: Dipnoi
+    duration: '2:52'
+  - name: Distillation
+    duration: '3:45'
+  - name: Violence
+    duration: '3:00'
+  - name: Equivalence
+    duration: '2:35'
+  - name: Psycho-Nebulous
+    duration: '4:55'
 ---
