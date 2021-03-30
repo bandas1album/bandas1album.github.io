@@ -22,6 +22,21 @@ links:
   youtube: https://music.youtube.com/playlist?list=OLAK5uy_mOf9jvSTJQ46SIcsLg01EWZzTpA5vKp94
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2017/03/aum-belorizonte-1983.html
+
+# Tracklist
+tracklist:
+  - name: Tema Pra Malu
+    duration: '5:13'
+  - name: Serra Do Curral
+    duration: '2:55'
+  - name: Belo Horizonte
+    duration: '9:30'
+  - name: Nas Nuvens
+    duration: '3:56'
+  - name: 4 e 15
+    duration: '4:17'
+  - name: Tice
+    duration: '7:20'
 ---
 
 Fazendo um jazz-rock delicioso, a banda mineira Aum formada nos anos 80 por José Paulo Mesquita (Baixo), Leopoldo Mesquita (Bateria), Marcio/Frango (Guitarra), Betinho (Teclados) e Taquinho (Guitarra) gravaram independentemente o primeiro e único disco da carreira "Belorizonte" e nadaram contra a corrente da época, fazendo um som instrumental maravilhoso com a fusão do jazz com o rock.
