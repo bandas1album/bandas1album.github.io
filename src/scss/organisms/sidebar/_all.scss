@@ -68,10 +68,15 @@
       &__item {
         @extend .reset-button;
         width: 100%;
-        height: rem(64px);
-        font-size: rem(24px);
+        height: rem(48px);
+        font-size: rem(20px);
         color: $white;
         transition: 0.2s all ease;
+
+        @media (min-width: $tablet) {
+          height: rem(64px);
+          font-size: rem(24px);
+        }
 
         &:hover,
         &.active {
@@ -91,7 +96,11 @@
         justify-content: center;
         width: 100%;
         padding: rem(8px) 0;
-        font-size: rem(24px);
+        font-size: rem(18px);
+
+        @media (min-width: $tablet) {
+          font-size: rem(24px);
+        }
       }
     }
   }
