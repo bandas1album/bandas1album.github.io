@@ -9,7 +9,7 @@ image: '/assets/img/albums/paradise-lost.jpg'
 title: Paradise Lost
 artist: Lost Nation
 released: 1970-04-10
-country: Brasil
+country: Estados Unidos
 label: Rare Earth
 categories: ['Psychedelic Rock', 'Progressive Rock']
 
