@@ -112,102 +112,17 @@
   <div class="sidebar-content">
     <div class="sidebar__wrapper" data-scrollbar>
       <div class="sidebar-content__lists">
-        <div class="sidebar-content__list" style="display: none;" data-menu="albums">
-          <h3 class="sidebar-content__list__title">Álbuns de A a Z</h3>
-          {% assign sortedPosts = site.posts | sort: 'title' %}
+        <!-- albums -->
+        {% include sidebar/sidebar-albums.html %}
 
-          {% for post in sortedPosts %}
-            {% assign next = forloop.index + 1 %}
-            {% capture this_letter %}{{ post.title | slice: 0 }}{% endcapture %}
-            {% capture next_letter %}{{ sortedPosts[next].title | slice: 0 }}{% endcapture %}
+        <!-- genres -->
+        {% include sidebar/sidebar-genres.html %}
 
-            {% if forloop.first %}
-              <h4 class="sidebar-content__list__subtitle" id="{{ this_letter }}-ref">{{this_letter}}</h4>
-              <ol>
-            {% endif %}
+        <!-- year -->
+        {% include sidebar/sidebar-year.html %}
 
-            <li>
-              <a href="{{ post.url }}">
-                <strong>{{ post.title }}</strong>
-                <span>{{ post.artist }}</span>
-              </a>
-            </li>
-
-            {% if forloop.last %}
-              </ol>
-            {% else %}
-              {% if this_letter != next_letter %}
-                </ol>
-
-                <h4 class="sidebar-content__list__subtitle" id="{{ next_letter }}-ref">{{next_letter}}</h4>
-                <ol>
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-        </div>
-
-        <div class="sidebar-content__list" style="display: none;" data-menu="genres">
-          <h3 class="sidebar-content__list__title">Gêneros</h3>
-          <ol>
-            {% assign categories_list = site.categories %}
-            {% if categories_list.first[0] == null %}
-              {% for category in categories_list %}
-                <li>
-                  <a href="/genero/{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">
-                    <strong>{{ category | camelcase }}</strong>
-                    <span>{{ site.tags[category].size }} {% if site.tags[category].size == 1 %}álbum{% else %}álbuns{% endif %}</span>
-                  </a>
-                </li>
-              {% endfor %}
-            {% else %}
-              {% for category in categories_list %}
-                <li>
-                  <a href="/genero/{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">
-                    <strong>{{ category[0] | camelcase }}</strong>
-                    <span>{{ category[1].size }} {% if category[1].size == 1 %}álbum{% else %}álbuns{% endif %}</span>
-                  </a>
-                </li>
-              {% endfor %}
-            {% endif %}
-          {% assign categories_list = nil %}
-          </ol>
-        </div>
-
-        <div class="sidebar-content__list" style="display: none;" data-menu="year">
-          <h3 class="sidebar-content__list__title">Ano de lançamento</h3>
-          {% assign sortedByYear = site.posts | sort: 'released' | group_by_exp: "item", "item.released | date: '%Y'" | reverse %}
-          {% for list in sortedByYear %}
-            <h4 class="sidebar-content__list__subtitle" id="{{list.name}}-ref">{{list.name}}</h4>
-            <ol>
-              {% for item in list.items %}
-                <li>
-                  <a href="{{ item.url }}">
-                    <strong>{{ item.title }}</strong>
-                    <span>{{ item.artist }}</span>
-                  </a>
-                </li>
-              {% endfor %}
-            </ol>
-          {% endfor %}
-        </div>
-
-        <div class="sidebar-content__list" style="display: none;" data-menu="countries">
-          <h3 class="sidebar-content__list__title">Bandas por países</h3>
-          {% assign sortedByCountry = site.posts | sort: 'country' | group_by_exp: "item", "item.country | date: '%Y'" %}
-          {% for list in sortedByCountry %}
-            <h4 class="sidebar-content__list__subtitle" id="{{list.name}}-ref">{{list.name}}</h4>
-            <ol>
-              {% for item in list.items %}
-                <li>
-                  <a href="{{ item.url }}">
-                    <strong>{{ item.artist }}</strong>
-                    <span>{{ item.title }}</span>
-                  </a>
-                </li>
-              {% endfor %}
-            </ol>
-          {% endfor %}
-        </div>
+        <!-- countries -->
+        {% include sidebar/sidebar-countries.html %}
       </div>
 
       <footer class="sidebar-footer">
@@ -231,9 +146,9 @@
             <p>
               <small>
                 2021 &copy; Feito por
-                <a href="https://kevinoliveira.com.br/" target="_blank"
-                  >Kevin Oliveira</a
-                >
+                <a href="https://kevinoliveira.com.br/" target="_blank">
+                  Kevin Oliveira
+                </a>
               </small>
             </p>
           </div>
