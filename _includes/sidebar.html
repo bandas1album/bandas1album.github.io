@@ -11,10 +11,20 @@
           <button
             class="sidebar-nav__menu__item"
             data-sidebar="albums"
-            aria-title="Álbuns"
-            title="Álbuns"
+            aria-title="Álbuns de A a Z"
+            title="Álbuns de A a Z"
           >
             <i class="fas fa-compact-disc" aria-hidden="true"></i>
+          </button>
+        </li>
+        <li>
+          <button
+            class="sidebar-nav__menu__item"
+            data-sidebar="countries"
+            aria-title="Bandas por países"
+            title="Bandas por países"
+          >
+            <i class="fas fa-globe" aria-hidden="true"></i>
           </button>
         </li>
         <li>
@@ -174,6 +184,24 @@
                   <a href="{{ item.url }}">
                     <strong>{{ item.title }}</strong>
                     <span>{{ item.artist }}</span>
+                  </a>
+                </li>
+              {% endfor %}
+            </ol>
+          {% endfor %}
+        </div>
+
+        <div class="sidebar-content__list" style="display: none;" data-menu="countries">
+          <h3 class="sidebar-content__list__title">Bandas por países</h3>
+          {% assign sortedByCountry = site.posts | sort: 'country' | group_by_exp: "item", "item.country | date: '%Y'" %}
+          {% for list in sortedByCountry %}
+            <h4 class="sidebar-content__list__subtitle" id="{{list.name}}-ref">{{list.name}}</h4>
+            <ol>
+              {% for item in list.items %}
+                <li>
+                  <a href="{{ item.url }}">
+                    <strong>{{ item.artist }}</strong>
+                    <span>{{ item.title }}</span>
                   </a>
                 </li>
               {% endfor %}
