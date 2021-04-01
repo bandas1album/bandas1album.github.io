@@ -3,7 +3,7 @@
   align-items: center;
 
   &__link {
-    position: fixed;
+    position: absolute;
     top: 50%;
     transform: translateY(-50%);
     display: flex;
@@ -19,6 +19,7 @@
     height: rem(56px);
 
     @media (min-width: $tablet) {
+      position: fixed;
       min-width: rem(480px);
       max-width: rem(480px);
       height: rem(96px);
