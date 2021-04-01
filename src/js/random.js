@@ -8,7 +8,7 @@ const getData = () => {
     .then((data) => {
       const size = data.posts.length - 1;
       setTimeout(() => {
-        window.location.href = data.posts[getRandomArbitrary(0, size)].url;
+        window.location.assign(data.posts[getRandomArbitrary(0, size)].url);
       }, 1500);
     })
     .catch((err) => console.error(err));
