@@ -1,4 +1,9 @@
 .single {
+  .wrapper__button {
+    left: rem(24px);
+    bottom: rem(24px);
+  }
+
   .list-posts {
     position: fixed;
     z-index: -1;

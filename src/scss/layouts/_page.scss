@@ -1,6 +1,11 @@
 .page {
   background-color: $color-primary-shade;
 
+  .wrapper__button {
+    left: rem(88px);
+    bottom: rem(24px);
+  }
+
   .main {
     width: 100%;
     max-width: rem(800px);

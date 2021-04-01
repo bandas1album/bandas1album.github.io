@@ -1,6 +1,11 @@
 .default {
   background-color: $color-primary-shade;
 
+  .wrapper__button {
+    left: rem(88px);
+    bottom: rem(24px);
+  }
+
   .header {
     display: none;
   }
