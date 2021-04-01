@@ -24,6 +24,7 @@
   "dependencies": {
     "axios": "^0.21.0",
     "clipboard": "^2.0.6",
+    "smoothscroll-polyfill": "^0.4.4",
     "spotify-web-api-js": "^1.5.1"
   }
 }

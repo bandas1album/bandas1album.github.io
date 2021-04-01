@@ -1,4 +1,7 @@
+import smoothscroll from 'smoothscroll-polyfill';
+
 const sidebar = () => {
+  smoothscroll.polyfill();
   const $el = document.querySelectorAll('[data-sidebar]');
   const $body = document.querySelector('body');
   const $content = document.querySelector('.sidebar-content');
@@ -22,7 +25,6 @@ const sidebar = () => {
   buttons.forEach((btn) => {
     btn.addEventListener('click', (e) => {
       const $btn = e.target;
-      console.log($btn);
       const $selected = document.querySelector(
         `[data-menu=${$btn.dataset.sidebar}]`
       );
@@ -32,6 +34,7 @@ const sidebar = () => {
       $list.forEach((list) => {
         list.style.display = 'none';
       });
+      $content.scroll({ top: 0, left: 0, behavior: 'smooth' });
 
       $selected.style.display = 'block';
       $btn.classList.add('active');
