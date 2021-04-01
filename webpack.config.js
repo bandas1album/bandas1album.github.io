@@ -8,6 +8,7 @@ module.exports = {
     single: path.join(__dirname, 'src/js', 'single'),
     home: path.join(__dirname, 'src/js', 'home'),
     category: path.join(__dirname, 'src/js', 'category'),
+    random: path.join(__dirname, 'src/js', 'random'),
   },
   output: {
     filename: '[name].js',

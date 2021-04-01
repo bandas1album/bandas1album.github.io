@@ -31,6 +31,31 @@ body {
 
 .wrapper {
   display: flex;
+
+  &__button {
+    @extend .reset-button;
+    position: relative;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    right: rem(32px);
+    bottom: rem(64px);
+    width: rem(64px);
+    height: rem(64px);
+    border-radius: rem(8px);
+    background-color: $color-primary;
+    color: $white;
+    font-size: rem(24px);
+    transition: 0.2s all ease;
+    box-shadow: 0 rem(4px) rem(16px) rgba(0, 0, 0, 0.1);
+
+    &:hover {
+      background-color: $color-primary-tint;
+      box-shadow: 0 rem(8px) rem(16px) rgba(0, 0, 0, 0.2);
+    }
+  }
 }
 
 a {

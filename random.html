@@ -10,29 +10,35 @@ layout: compress
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="canonical" href="{{ page.url | absolute_url }}" />
 
-    <title>{{ page.title }} | {{ site.title }}</title>
-    <meta name="title" content="{{ page.title }} | {{ site.title }}" />
-    <meta name="description" content="{{ page.description }}" />
+    <title>Modo randômico | Bandas de 1 Álbum</title>
+    <meta name="title" content="Modo randômico | Bandas de 1 Álbum" />
+    <meta
+      name="description"
+      content="Está com dúvidas do que ouvir? A Bandas 1 Álbum vai indicar um belíssimo álbum para você ouvir agora!"
+    />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ page.url | absolute_url }}" />
-    <meta property="og:title" content="{{ page.title }} | {{ site.title }}" />
-    <meta property="og:description" content="{{ page.description }}" />
-    <meta property="og:image" content="/assets/img/albums{{page.url}}.jpg" />
+    <meta property="og:title" content="Modo randômico | Bandas de 1 Álbum" />
+    <meta
+      property="og:description"
+      content="Está com dúvidas do que ouvir? A Bandas 1 Álbum vai indicar um belíssimo álbum para você ouvir agora!"
+    />
+    <meta property="og:image" content="/assets/img/share.png" />
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="{{ page.url | absolute_url }}" />
     <meta
       property="twitter:title"
-      content="{{ page.title }} | {{ site.title }}"
+      content="Modo randômico | Bandas de 1 Álbum"
     />
-    <meta property="twitter:description" content="{{ page.description }}" />
     <meta
-      property="twitter:image"
-      content="/assets/img/albums{{page.url}}.jpg"
+      property="twitter:description"
+      content="Está com dúvidas do que ouvir? A Bandas 1 Álbum vai indicar um belíssimo álbum para você ouvir agora!"
     />
+    <meta property="twitter:image" content="/assets/img/share.png" />
 
     <!-- Font Awesome Solid + Brands -->
     <link href="/assets/fontawesome/css/fontawesome.css" rel="stylesheet" />
@@ -152,28 +158,18 @@ layout: compress
     {% endif %}
   </head>
 
-  <body class="page">
+  <body class="random">
     <div class="wrapper">
-      {%- include sidebar.html -%}
-      <div>
-        {% include header.html %}
-
-        <main class="main">
-          <article>{{content}}</article>
-        </main>
-      </div>
-
-      <a
-        href="/random"
-        title="Modo randômico"
-        aria-title="Modo randômico"
-        class="wrapper__button"
-      >
-        <i class="fas fa-random" aria-hidden="true"></i>
-      </a>
+      <img
+        class="spinner"
+        src="/assets/img/logo.png"
+        loading="lazy"
+        alt="{{ site.title }}"
+      />
+      <h1>Modo randômico ativado!</h1>
+      <h2>Estamos escolhendo um álbum para você...</h2>
     </div>
 
-    <script src="/assets/js/main.js?{{site.time | date: '%s%N'}}"></script>
-    <script src="/assets/js/page.js?{{site.time | date: '%s%N'}}"></script>
+    <script src="/assets/js/random.js?{{site.time | date: '%s%N'}}"></script>
   </body>
 </html>
