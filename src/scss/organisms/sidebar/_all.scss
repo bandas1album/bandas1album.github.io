@@ -2,6 +2,7 @@
   position: relative;
   display: flex;
   min-height: 100%;
+  z-index: 9;
 
   &-backdrop {
     position: fixed;
