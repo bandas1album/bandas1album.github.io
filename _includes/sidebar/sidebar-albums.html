@@ -2,32 +2,38 @@
   <h3 class="sidebar-content__list__title">Álbuns de A a Z</h3>
   {% assign sortedPosts = site.posts | sort: 'title' %}
 
-  {% for post in sortedPosts %}
-    {% assign next = forloop.index + 1 %}
-    {% capture this_letter %}{{ post.title | slice: 0 }}{% endcapture %}
-    {% capture next_letter %}{{ sortedPosts[next].title | slice: 0 }}{% endcapture %}
+  <ol>
+    {% for post in sortedPosts %}
+      {% assign next = forloop.index + 1 %}
+      {% capture this_letter %}{{ post.title | slice: 0 }}{% endcapture %}
+      {% capture next_letter %}{{ sortedPosts[next].title | slice: 0 }}{% endcapture %}
 
-    {% if forloop.first %}
-      <h4 class="sidebar-content__list__subtitle" id="{{ this_letter }}-ref">{{this_letter}}</h4>
-      <ol>
-    {% endif %}
-
-    <li>
-      <a href="{{ post.url }}">
-        <strong>{{ post.title }}</strong>
-        <span>{{ post.artist }}</span>
-      </a>
-    </li>
-
-    {% if forloop.last %}
-      </ol>
-    {% else %}
-      {% if this_letter != next_letter %}
-        </ol>
-
-        <h4 class="sidebar-content__list__subtitle" id="{{ next_letter }}-ref">{{next_letter}}</h4>
-        <ol>
+      {% if forloop.first %}
+      <li>
+        <h4 class="sidebar-content__list__subtitle" id="{{ this_letter }}-ref">{{this_letter}}</h4>
+        <ul>
       {% endif %}
-    {% endif %}
-  {% endfor %}
+
+      <li>
+        <a href="{{ post.url }}">
+          <strong>{{ post.title }}</strong>
+          <span>{{ post.artist }}</span>
+        </a>
+      </li>
+
+      {% if forloop.last %}
+        </ul>
+        </li>
+      {% else %}
+        {% if this_letter != next_letter %}
+          </ul>
+        </li>
+
+        <li>
+          <h4 class="sidebar-content__list__subtitle" id="{{ next_letter }}-ref">{{next_letter}}</h4>
+          <ul>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ol>
 </div>

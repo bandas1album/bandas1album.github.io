@@ -133,26 +133,32 @@
     &__list {
       // display: none;
 
+      ul,
       ol {
         width: 100%;
         height: 100%;
         margin: 0;
         padding: 0;
         list-style: none;
-        // background-color: $color-primary-tint;
+      }
 
-        &:not(:last-child) {
-          margin-bottom: rem(24px);
-        }
-
+      ul {
         li {
-          line-height: 1.2;
-          font-size: rem(16px);
-
           &:not(:last-child) {
             margin-bottom: rem(4px);
           }
         }
+      }
+
+      ol {
+        > li:not(:last-child) {
+          margin-bottom: rem(24px);
+        }
+      }
+
+      li {
+        line-height: 1.2;
+        font-size: rem(16px);
 
         a {
           display: block;

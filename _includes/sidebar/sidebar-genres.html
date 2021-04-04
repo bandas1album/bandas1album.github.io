@@ -1,6 +1,6 @@
 <div class="sidebar-content__list" style="display: none" data-menu="genres">
   <h3 class="sidebar-content__list__title">Gêneros</h3>
-  <ol>
+  <ul>
     {% assign categories_list = site.categories %} {% if
     categories_list.first[0] == null %} {% for category in categories_list %}
     <li>
@@ -27,5 +27,5 @@
       </a>
     </li>
     {% endfor %} {% endif %} {% assign categories_list = nil %}
-  </ol>
+  </ul>
 </div>

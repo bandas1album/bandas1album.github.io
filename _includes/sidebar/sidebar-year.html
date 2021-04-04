@@ -1,19 +1,24 @@
 <div class="sidebar-content__list" style="display: none" data-menu="year">
   <h3 class="sidebar-content__list__title">Ano de lançamento</h3>
   {% assign sortedByYear = site.posts | sort: 'released' | group_by_exp: "item",
-  "item.released | date: '%Y'" | reverse %} {% for list in sortedByYear %}
-  <h4 class="sidebar-content__list__subtitle" id="{{list.name}}-ref">
-    {{list.name}}
-  </h4>
+  "item.released | date: '%Y'" | reverse %}
   <ol>
-    {% for item in list.items %}
+    {% for list in sortedByYear %}
     <li>
-      <a href="{{ item.url }}">
-        <strong>{{ item.title }}</strong>
-        <span>{{ item.artist }}</span>
-      </a>
+      <h4 class="sidebar-content__list__subtitle" id="{{list.name}}-ref">
+        {{list.name}}
+      </h4>
+      <ul>
+        {% for item in list.items %}
+        <li>
+          <a href="{{ item.url }}">
+            <strong>{{ item.title }}</strong>
+            <span>{{ item.artist }}</span>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
     </li>
     {% endfor %}
   </ol>
-  {% endfor %}
 </div>
