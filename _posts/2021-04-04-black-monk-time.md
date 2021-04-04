@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/1284017
   lastfm: https://www.last.fm/music/The+Monks/Black+Monk+Time
   spotify: https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW?si=bQTssxcaQmOLQE7hORWWxQ
-  youtube: https://open.spotify.com/album/0YEmNXaNDq03tfgFmG4MOj?si=aUiDADETRcqctAbrL6jHvQ
+  youtube: https://music.youtube.com/playlist?list=OLAK5uy_ny6VXSbRQWMlYnjpVapSe__DcONYXJJnI
   wikipedia: https://pt.wikipedia.org/wiki/The_Monks
   download:
 
