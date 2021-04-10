@@ -240,6 +240,7 @@ layout: compress
                   class="post-navigation__link post-navigation__prev"
                   href="{{page.previous.url}}"
                   rel="prev"
+                  onclick="ga('send', 'event', 'Button', 'click', 'Pagination', 'Prev');"
                 >
                   <span>{{page.previous.title}}</span>
                   <i class="fas fa-chevron-left"></i>
@@ -249,6 +250,7 @@ layout: compress
                   class="post-navigation__link post-navigation__next"
                   href="{{page.next.url}}"
                   rel="next"
+                  onclick="ga('send', 'event', 'Button', 'click', 'Pagination', 'Next');"
                 >
                   <i class="fas fa-chevron-right"></i>
                   <span>{{page.next.title}}</span>
@@ -256,8 +258,13 @@ layout: compress
                 {% endif %}
               </nav>
 
-              <button data-open="share" class="post-footer__share">
-                <i class="fas fa-share-alt"></i>
+              <button
+                data-open="share"
+                onclick="ga('send', 'event', 'Button', 'click', 'Share', 'Open Modal');"
+                class="post-footer__share"
+                aria-title="Abrir modal de share"
+              >
+                <i class="fas fa-share-alt" aria-hidden="true"></i>
               </button>
             </footer>
           </div>

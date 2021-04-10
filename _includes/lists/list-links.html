@@ -2,6 +2,7 @@
   {%- if page.links.amazon -%}
   <li>
     <a
+      onclick="ga('send', 'event', 'Button', 'click', 'Album action', 'Amazon');"
       href="{{ page.links.amazon }}"
       target="_blank"
       class="post-album__content__links__item"
@@ -13,6 +14,7 @@
   {%- endif -%} {%- if page.links.deezer -%}
   <li>
     <a
+      onclick="ga('send', 'event', 'Button', 'click', 'Album action', 'Deezer');"
       href="{{ page.links.deezer }}"
       target="_blank"
       class="post-album__content__links__item"
@@ -24,6 +26,7 @@
   {%- endif -%} {%- if page.links.lastfm -%}
   <li>
     <a
+      onclick="ga('send', 'event', 'Button', 'click', 'Album action', 'Last.fm');"
       href="{{ page.links.lastfm }}"
       target="_blank"
       class="post-album__content__links__item"
@@ -35,6 +38,7 @@
   {%- endif -%} {%- if page.links.spotify -%}
   <li>
     <a
+      onclick="ga('send', 'event', 'Button', 'click', 'Album action', 'Spotify');"
       href="{{ page.links.spotify }}"
       target="_blank"
       class="post-album__content__links__item"
@@ -46,6 +50,7 @@
   {%- endif -%} {%- if page.links.youtube -%}
   <li>
     <a
+      onclick="ga('send', 'event', 'Button', 'click', 'Album action', 'YouTube');"
       href="{{ page.links.youtube }}"
       target="_blank"
       class="post-album__content__links__item"
@@ -57,6 +62,7 @@
   {%- endif -%} {%- if page.links.wikipedia -%}
   <li>
     <a
+      onclick="ga('send', 'event', 'Button', 'click', 'Album action', 'Wikipedia');"
       href="{{ page.links.wikipedia }}"
       target="_blank"
       class="post-album__content__links__item"
@@ -68,6 +74,7 @@
   {%- endif -%} {%- if page.links.download -%}
   <li>
     <a
+      onclick="ga('send', 'event', 'Button', 'click', 'Album action', 'Download');"
       href="{{ page.links.download }}"
       target="_blank"
       class="post-album__content__links__item"
