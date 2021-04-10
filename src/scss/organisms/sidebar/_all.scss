@@ -121,6 +121,10 @@
     transform: translateX(-100%);
     transition: 0.2s all ease;
 
+    .sidebar__wrapper {
+      padding-top: 0;
+    }
+
     &.active {
       transform: translateX(64px);
     }
@@ -175,19 +179,27 @@
       }
 
       &__title {
+        position: sticky;
+        top: 0;
+        z-index: 2;
         margin: 0;
-        padding: 0 rem(24px);
+        padding: rem(24px) rem(24px) rem(8px);
         margin-bottom: rem(24px);
         font-size: rem(22px);
+        background-color: $color-primary-shade;
       }
 
       &__subtitle {
+        position: sticky;
+        top: rem(58px);
+        z-index: 1;
+        background-color: $color-primary-shade;
         margin: 0;
         margin-bottom: rem(8px);
-        padding: 0 rem(24px);
+        padding: rem(8px) rem(24px);
         font-size: rem(20px);
         cursor: pointer;
-        opacity: 0.5;
+        color: rgba($white, 0.5);
       }
     }
   }
