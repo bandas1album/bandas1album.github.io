@@ -50,3 +50,9 @@ tracklist:
   - name: Chapel Of Love
     duration: '2:54'
 ---
+
+Lançado em 1963 e conquistado a posição 422 da lista "500 melhores álbuns de todos os tempos" da revista Rolling Stone, o álbum "Presenting the Fabulous Ronettes Featuring Veronica" foi gravado pelo grupo vocal The Ronettes em Nova Iorque e produzido pelo Phil Spector.
+
+O grupo The Ronettes foi formado por Veronica Bennett, sua irmã Estelle Bennett e sua prima Nedra Talley e com suas belíssimas vozes faziam um maravilhoso R&B, mesclado com rock e música pop da época, lançaram 18 singles mas apenas este álbum de estúdio.
+
+As músicas mais famosas do álbum foram "Be My Baby" - o de maior sucesso do grupo -, "Baby, I Love You", "(The Best Part of) Breakin' Up" e "(Walking) in the Rain", um verdadeiro clássico R&B que não pode deixar de ser ouvido para amantes do estilo e de música em geral.
