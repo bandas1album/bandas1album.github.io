@@ -17,7 +17,7 @@ Eternizando bandas que nos deixaram apenas uma pérola.
 
 1. Crie uma nova branch com o formato `add-{nome-do-album}`
 2. Na pasta `_posts` crie um post com o formato `YYYY-MM-DD-nome-do-album.MD`
-3. Para a criação do post use o seguinte snippet:
+3. Para a criação do post use o seguinte formato:
 
 ```md
 ---
@@ -42,6 +42,8 @@ links:
   download: #
 ---
 ```
+
+4. Para a capa do álbum temos dois tamanhos `160x160px` e `640x640px`, essas imagens precisam estar nos formatos `.webp` e `.jpg` renomeadas da mesma forma que o nome do álbum no passo dois, em formato de slug, sem a data. ([ver exemplo na pasta de imagens](/assets/img/albums))
 
 ## Licença
 
