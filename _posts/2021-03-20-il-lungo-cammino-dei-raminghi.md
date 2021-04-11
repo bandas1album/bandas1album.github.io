@@ -6,7 +6,7 @@ author: kvnol
 image: '/assets/img/albums/il-lungo-cammino-dei-raminghi.jpg'
 
 # Infos
-title: ...Il Lungo Cammino Dei Raminghi
+title: Il Lungo Cammino Dei Raminghi
 artist: Raminghi
 released: 1972-01-01
 country: Itália
