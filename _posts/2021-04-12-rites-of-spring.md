@@ -11,7 +11,7 @@ artist: Rites Of Spring
 released: 1985-06-01
 country: Estados Unidos
 label: Dischord Records
-categories: ['Hardcore', 'Punk', 'Emo']
+categories: ['Hardcore', 'Punk Rock', 'Emo']
 
 # Links
 links:
