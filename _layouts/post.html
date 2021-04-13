@@ -24,7 +24,7 @@ layout: compress
     álbum {{ page.title }} foi o único disco de estúdio lançado por {{
     page.artist }} ({{ page.country }}), em {{ page.released | date: "%Y" }}, {%
     if page.label %}pelo selo {{ page.label }}{% else %}gravado indepentemente{%
-    endif %}. Ouça agora este One Album Wonder!" />
+    endif %}. Ouça agora esse álbum de {{ page.categories[0] }}!" />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
@@ -35,7 +35,8 @@ layout: compress
     }}) | {{ site.title }} {%- endif -%}" /> <meta property="og:description"
     content="O álbum {{ page.title }} foi o único disco de estúdio lançado por
     {{ page.artist }} ({{ page.country }}), em {{ page.released | date: "%Y" }},
-    pelo selo {{ page.label }}. Ouça agora este One Album Wonder!" />
+    pelo selo {{ page.label }}. Ouça agora esse álbum de {{ page.genres[0] }}!"
+    />
     <meta property="og:image" content="/assets/img/albums{{page.url}}.jpg" />
 
     <!-- Twitter -->
@@ -48,7 +49,7 @@ layout: compress
     property="twitter:description" content="O álbum {{ page.title }} foi o único
     disco de estúdio lançado por {{ page.artist }} ({{ page.country }}), em {{
     page.released | date: "%Y" }}, pelo selo {{ page.label }}. Ouça agora este
-    One Album Wonder!" />
+    esse álbum de {{ page.genres[0] }}!" />
     <meta
       property="twitter:image"
       content="/assets/img/albums{{page.url}}.jpg"
