@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/613684
   lastfm: https://www.last.fm/pt/music/60,000,000+buffalo/Nevada+Jukebox
   spotify: https://open.spotify.com/album/2NmlWWaGDguCYnOBHhxMw7?si=RKynb3whRNup2UKNmnkUiw
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mTDXJkss6xkxGOvh-a09mBDj81bBgBkdk
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mTDXJkss6xkxGOvh-a09mBDj81bBgBkdk
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2014/12/rhapsody-sweden-strange-vibrations-1978.html
 

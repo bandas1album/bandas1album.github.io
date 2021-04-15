@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/10260426
   lastfm: https://www.last.fm/pt/music/Strawberry+Path/When+the+Raven+Has+Come+to+the+Earth
   spotify: https://open.spotify.com/album/4jmwO6VDgraxeYcAVX21Oa?si=tH2HGGZJRVWOCIyJ3Iw5IQ
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_nKnPGEBJv-iLxXz-FZtQ8OegDDXYWGvmI
+  youtube: https://youtube.com/playlist?list=OLAK5uy_nKnPGEBJv-iLxXz-FZtQ8OegDDXYWGvmI
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2020/01/strawberry-path-when-raven-has-come-to.html
 

@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/75622402
   lastfm: https://www.last.fm/music/White+Spirit/White+Spirit
   spotify: https://open.spotify.com/album/0iyIfaETYdfyqdsQRX7ABr?si=glThKMxCQA28KR1csHtNjA
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_lRjngTsEaMLbhC7ncOlRWUYIsQTFiA-uo
+  youtube: https://youtube.com/playlist?list=OLAK5uy_lRjngTsEaMLbhC7ncOlRWUYIsQTFiA-uo
   wikipedia: https://en.wikipedia.org/wiki/White_Spirit_(band)
   download: https://murodoclassicrock4.blogspot.com/2018/08/white-spirit-1980.html
 

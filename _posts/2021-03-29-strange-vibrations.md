@@ -19,7 +19,7 @@ links:
   deezer:
   lastfm: https://www.last.fm/pt/music/Rhapsody+Sweden/Strange+Vibrations
   spotify: https://open.spotify.com/album/3HUEWpCQYReKX1UcdcIc8F?si=hoZHjgp5SYmkY5t4gqmwfQ
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mE-E0VGZ8KdZb3jNHidaxTOEApVdex8-U
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mE-E0VGZ8KdZb3jNHidaxTOEApVdex8-U
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2014/12/rhapsody-sweden-strange-vibrations-1978.html
 

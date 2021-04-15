@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/49553622
   lastfm: https://www.last.fm/pt/music/Raminghi/...il+lungo+cammino+dei+RAMINGHI
   spotify: https://open.spotify.com/album/4McRGsyqkJnSaet9jhAcc3?si=mOTJzam0TXm8XcA1xs9Q2w
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_nRd_tOhKlBVPub6_TpK7y5dKBbt3-E4pk
+  youtube: https://youtube.com/playlist?list=OLAK5uy_nRd_tOhKlBVPub6_TpK7y5dKBbt3-E4pk
   wikipedia: https://it.wikipedia.org/wiki/...Il_lungo_cammino_dei_Raminghi
   download: http://murodoclassicrock4.blogspot.com.br/2013/12/i-raminghi-il-lungo-cammino-dei.html
 

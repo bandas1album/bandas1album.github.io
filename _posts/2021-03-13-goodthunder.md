@@ -20,7 +20,7 @@ links:
   deezer: https://www.deezer.com/br/album/136832272
   lastfm: https://www.last.fm/pt/music/Goodthunder/Goodthunder
   spotify: https://open.spotify.com/album/2wHXOqmbr8CYVa4YOUiK2D?si=t0KxIjZmSCyC5-7JIq0Vsg
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_kNZKlQcOpsfortl7koFKt77Q6Tt4yc_AE
+  youtube: https://youtube.com/playlist?list=OLAK5uy_kNZKlQcOpsfortl7koFKt77Q6Tt4yc_AE
   wikipedia: https://en.wikipedia.org/wiki/GoodThunder
   download:
 

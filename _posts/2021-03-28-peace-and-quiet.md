@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/1013807
   lastfm: https://www.last.fm/pt/music/Peace+&+Quiet/Peace+&+Quiet
   spotify: https://open.spotify.com/album/2c1H8M1FTifqIzyO0zKPFc?si=6BJ4lZDVTEGr6yTH3jTing
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mw9CPKlBk3N26zqGIaTdRVW_bvH9PsBbw
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mw9CPKlBk3N26zqGIaTdRVW_bvH9PsBbw
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2018/09/peace-quiet-1971.html
 

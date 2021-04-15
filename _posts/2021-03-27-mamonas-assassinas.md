@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/300301
   lastfm: https://www.last.fm/pt/music/Mamonas+Assassinas/Mamonas+Assassinas
   spotify: https://open.spotify.com/album/5Bt5FYi2uicM6ryvNqKUzI?si=42uaVhriSoiEMnbN7HcGyA
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mOsSlkMVRYHs9iSf76lDX1vmlqFfFWHXE
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mOsSlkMVRYHs9iSf76lDX1vmlqFfFWHXE
   wikipedia: https://pt.wikipedia.org/wiki/Mamonas_Assassinas
   download:
 

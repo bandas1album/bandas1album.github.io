@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/8305234
   lastfm: https://www.last.fm/music/The+Ronettes/Presenting+the+Fabulous+Ronettes+Featuring+Veronica
   spotify: https://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy?si=LZ60wmsWQC-YGSAlCV5ELg
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_nbcwnBhbhQqgvmT1HKQu2MtE9Br-AZR-w
+  youtube: https://youtube.com/playlist?list=OLAK5uy_nbcwnBhbhQqgvmT1HKQu2MtE9Br-AZR-w
   wikipedia: https://pt.wikipedia.org/wiki/The_Ronettes
   download:
 

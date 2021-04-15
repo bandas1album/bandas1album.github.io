@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/142921502
   lastfm: https://www.last.fm/pt/music/Parish+Hall/Parish+Hall
   spotify: https://open.spotify.com/album/7sGbQ41tQW6wn6Y4icQNhP?si=cstcmSE-Trq49lQgesaw_w
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mjgjHzFcy-CDPWCiqisjCw_rJvCEkvruU
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mjgjHzFcy-CDPWCiqisjCw_rJvCEkvruU
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2014/12/parish-hall-1970.html
 

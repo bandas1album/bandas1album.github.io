@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/8438364
   lastfm: https://www.last.fm/music/The+Open+Mind/The+Open+Mind
   spotify: https://open.spotify.com/album/16S5WFtiVJcXqROnh2qqNY?si=ikeuqiMsRaSBVz-PimhfvA
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mNaH7m8c95fafiH8cuO6jUvmYlkAvKMVo
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mNaH7m8c95fafiH8cuO6jUvmYlkAvKMVo
   wikipedia: https://en.wikipedia.org/wiki/The_Open_Mind_(band)
   download: https://murodoclassicrock4.blogspot.com/2013/10/the-open-mind-1969.html
 

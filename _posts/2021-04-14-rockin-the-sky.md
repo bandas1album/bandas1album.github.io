@@ -19,7 +19,7 @@ links:
   deezer:
   lastfm: https://www.last.fm/pt/music/Albatross/Rockin%27+The+Sky
   spotify:
-  youtube: https://music.youtube.com/watch?v=cQxfZfU0WvU
+  youtube: https://youtube.com/watch?v=cQxfZfU0WvU
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2017/07/albatross-rockin-sky-1975.html
 

@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/10257250
   lastfm: https://originals.last.fm/pt/music/Hairy+Chapter/Can%27t+Get+Through
   spotify: https://open.spotify.com/album/1znJihfyKU342D32mkcREp?si=gFfd81gHTf2YgExfUasLUw
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mMA9m5I__QCxBWGzNmLT_nxcMaDErowak
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mMA9m5I__QCxBWGzNmLT_nxcMaDErowak
   wikipedia: https://de.wikipedia.org/wiki/Hairy_Chapter
   download: http://murodoclassicrock4.blogspot.com.br/2012/01/hairy-chapter-cant-get-through-1971.html
 

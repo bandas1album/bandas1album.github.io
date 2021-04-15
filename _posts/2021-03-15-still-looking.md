@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/495947
   lastfm: https://www.last.fm/music/Headstone/Still+Looking
   spotify: https://open.spotify.com/album/49zvtqJ5d1fGTIviN624i9?si=GRxGa7OuSvi4wluQH8ECLw
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mPWR0Xj1cR2Ept3DAUDE6iSG3kjVQVTk4
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mPWR0Xj1cR2Ept3DAUDE6iSG3kjVQVTk4
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2017/02/headstone-still-looking-1974.html
 

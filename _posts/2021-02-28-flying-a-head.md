@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/1151295
   lastfm: https://www.last.fm/music/Atlee/Flying+A+Head
   spotify: https://open.spotify.com/album/5Sx0IGhaRwm0MTjQPEIQTm?si=kT5YJwFNTy2RkejGsdYuCQ
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_k2pYtitRdERySSFFpN50INgngyiUF1gn8
+  youtube: https://youtube.com/playlist?list=OLAK5uy_k2pYtitRdERySSFFpN50INgngyiUF1gn8
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2012/02/atlee-flying-ahead-1970.html
 

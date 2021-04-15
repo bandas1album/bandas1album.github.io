@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/207446
   lastfm: https://www.last.fm/music/Elias+Hulk/Unchained
   spotify: https://open.spotify.com/album/00cgf6s4GcsbyN2fHj01Zi?si=PU_Vkee8Tlu8oWhOzbvDMg
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_l14HloV6Dzo-ZgYil7IHgkjk7B5S0fUso
+  youtube: https://youtube.com/playlist?list=OLAK5uy_l14HloV6Dzo-ZgYil7IHgkjk7B5S0fUso
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2018/12/elias-hulk-unchained-1970.html
 

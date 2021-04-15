@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/207504
   lastfm: https://www.last.fm/music/Christine+Harwood/Nice+to+Meet+Miss+Christine
   spotify: https://open.spotify.com/album/47i5UrvW3cMYPHiqfRSFVP?si=IAF8u17KQvuVZz6Nj1DpLQ
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_lSNNUsJNS08Rlsjp8RYs6d_UnWTXGfGQM
+  youtube: https://youtube.com/playlist?list=OLAK5uy_lSNNUsJNS08Rlsjp8RYs6d_UnWTXGfGQM
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2011/06/chris-harwood-nice-to-meet-miss.html
 

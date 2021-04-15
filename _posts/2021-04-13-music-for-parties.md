@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/312375
   lastfm: https://www.last.fm/music/Silicon+Teens/Music+For+Parties
   spotify: https://open.spotify.com/album/39DAEINOXLIwOQ2kOaofAJ?si=glZauwcSR5yRkpGIrsX4tg
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_m22oFdFZV027NFFEobWm_AJPmgvAboua4
+  youtube: https://youtube.com/playlist?list=OLAK5uy_m22oFdFZV027NFFEobWm_AJPmgvAboua4
   wikipedia: https://en.wikipedia.org/wiki/Silicon_Teens
   download:
 

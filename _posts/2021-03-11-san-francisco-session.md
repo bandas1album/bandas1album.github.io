@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/12008940
   lastfm: https://www.last.fm/music/Fox/San+Francisco+Session
   spotify: https://open.spotify.com/album/4uTgkmyxafbKpny8CdKlvR?si=qFKUysgeSD-ovQoY7H6V1g
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_kacKZxcCTAyviNcAaURG-LymUSnTJoVfY
+  youtube: https://youtube.com/playlist?list=OLAK5uy_kacKZxcCTAyviNcAaURG-LymUSnTJoVfY
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2011/10/fox-san-francisco-session-1969-1970.html
 

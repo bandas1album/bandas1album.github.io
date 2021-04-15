@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/6746869
   lastfm: https://www.last.fm/es/music/Finchley+Boys/Everlasting+Tributes
   spotify: https://open.spotify.com/album/7ICJkMhCvHmMcpURjXisqQ?si=1aETnFWZTkqo5ax3vP1G2g
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_ka9GjaWm048xP2qGFTk-ZOlvUVN7UX69U
+  youtube: https://youtube.com/playlist?list=OLAK5uy_ka9GjaWm048xP2qGFTk-ZOlvUVN7UX69U
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2019/03/finchley-boys-everlasting-tributes-1972.html
 

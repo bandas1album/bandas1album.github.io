@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/148952682
   lastfm: https://www.last.fm/pt/music/Prof.+Wolfff/Prof.+Wolfff
   spotify: https://open.spotify.com/album/4qe6LlQ97YgTrYIY2sFa4M?si=qILCrQM2S5KV3KpnrEsrnQ
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_lnSN1XDkUClx_1Pwxn9YkmkmDzJB1Sc1g
+  youtube: https://youtube.com/playlist?list=OLAK5uy_lnSN1XDkUClx_1Pwxn9YkmkmDzJB1Sc1g
   wikipedia: https://de.wikipedia.org/wiki/Prof._Wolfff
   download: http://murodoclassicrock4.blogspot.com.br/2011/12/prof-wolfff-1972.html
 

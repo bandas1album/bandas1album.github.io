@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/68268981
   lastfm: https://www.last.fm/music/Thunderclap+Newman/Hollywood+Dream
   spotify: https://open.spotify.com/album/0McWkQTsU9eYngOswvNs87?si=LsucI4l3T9yAVHt2kbpKiA
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_m2dpOvc0L5ZNbOCjgI845-BZUm5IxZS9U
+  youtube: https://youtube.com/playlist?list=OLAK5uy_m2dpOvc0L5ZNbOCjgI845-BZUm5IxZS9U
   wikipedia: https://pt.wikipedia.org/wiki/Thunderclap_Newman
   download:
 

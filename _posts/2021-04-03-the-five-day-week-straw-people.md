@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/7048608
   lastfm: https://www.last.fm/music/The+Five+Day+Week+Straw+People/The+Five+Day+Week+Straw+People
   spotify: https://open.spotify.com/album/4PkebM7Q1Z9ezgFn8Xo3ha?si=FHxaU7eDQ8iFpRz0cf1rug
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mgHJtBNcj7a56YtIK7SKq-lKrk9W1fO3c
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mgHJtBNcj7a56YtIK7SKq-lKrk9W1fO3c
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2017/10/the-five-day-week-straw-people-1968.html
 

@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/9752612
   lastfm: https://www.last.fm/pt/music/Sam+Dice/Dutch+Disease
   spotify: https://open.spotify.com/album/0asZF1ajEagfnxZpPvIKS6?si=AhN_kssLR-ijd-OGBsjbcQ
-  youtube: https://music.youtube.com/watch?v=rZSd2Hst9bA&feature=share
+  youtube: https://youtube.com/watch?v=rZSd2Hst9bA&feature=share
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2016/12/sam-dice-dutch-disease-1978.html
 

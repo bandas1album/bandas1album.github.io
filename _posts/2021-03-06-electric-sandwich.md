@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/226489
   lastfm: https://www.last.fm/pt/music/Electric+Sandwich/Electric+Sandwich
   spotify: https://open.spotify.com/album/5Hs4rrjtD53kFRIMiQObiz?si=xSRuskeVRgKskesD_yoD7wVGQ
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mHcr3MPWNarOyfQwsPxvdw5vRELHyvcuI
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mHcr3MPWNarOyfQwsPxvdw5vRELHyvcuI
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2012/01/electric-sandwich-1971.html
 

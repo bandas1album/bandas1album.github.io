@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/61171722
   lastfm: https://www.last.fm/music/Sweet+Slag/Tracking+With+Close-Ups
   spotify: https://open.spotify.com/album/1R4UnMcttb6pOBK9ttnTcy?si=FgwlkuAcQ2-xPhK43srpwA
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_nuXnWKToN1JH5n1mbVgoyMnJH21wvHth0
+  youtube: https://youtube.com/playlist?list=OLAK5uy_nuXnWKToN1JH5n1mbVgoyMnJH21wvHth0
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2011/03/sweet-slag-tracking-with-close-ups-1971.html
 

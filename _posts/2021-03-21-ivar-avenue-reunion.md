@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/193593262
   lastfm: https://www.last.fm/pt/music/Ivar+Avenue+Reunion/Ivar+Avenue+Reunion
   spotify: https://open.spotify.com/album/7aFRSph8ZhTLKa0w74Cmrn?si=qr0vvVdIQ026ZPSYV2bu6A
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_kKuS03A9WXLEdCLMPb4Vqx8HpuHcQfaOg
+  youtube: https://youtube.com/playlist?list=OLAK5uy_kKuS03A9WXLEdCLMPb4Vqx8HpuHcQfaOg
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com.br/2018/03/ivar-avenue-reunion-1970.html
 

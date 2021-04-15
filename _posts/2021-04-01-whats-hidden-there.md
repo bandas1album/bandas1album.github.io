@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/79145862
   lastfm: https://www.last.fm/music/Svanfridur/What%27s+Hidden+There%3F
   spotify: https://open.spotify.com/album/18yybbA7O5JFIr3fyjDtf8?si=xUtAZLjlS2qK8XkQtWsFhw
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_m_VQQqNK_U1AakPh0qfuok1LgVIY6EGN8
+  youtube: https://youtube.com/playlist?list=OLAK5uy_m_VQQqNK_U1AakPh0qfuok1LgVIY6EGN8
   wikipedia: https://is.wikipedia.org/wiki/What%27s_hidden_there_(hlj%C3%B3mplata)
   download: https://murodoclassicrock4.blogspot.com/2020/03/svanfridur-whats-hidden-there-1972.html
 

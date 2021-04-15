@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/8950975
   lastfm: https://www.last.fm/music/Landslide/Two+Sided+Fantasy
   spotify: https://open.spotify.com/album/18ibVLv97M9OwjuGw7Iadk?si=E06Kx0fJRhaStkAi2OK6Tg
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_magGkGG3Kgr2nxYJqz7PgRvExHaWiuw-I
+  youtube: https://youtube.com/playlist?list=OLAK5uy_magGkGG3Kgr2nxYJqz7PgRvExHaWiuw-I
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2011/05/landslide-two-sided-fantasy-1972.html
 

@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/6142628
   lastfm: https://www.last.fm/pt/music/Nosferatu/Nosferatu
   spotify: https://open.spotify.com/album/0J0RpnhC19KHgWL2SYYQEB?si=h_IMbxOqReeejG1ZguYE_g
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_lsmWEyv20kur0LmrZBvjDz5-xNbtDXPrE
+  youtube: https://youtube.com/playlist?list=OLAK5uy_lsmWEyv20kur0LmrZBvjDz5-xNbtDXPrE
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2010/11/nosferatu-1970.html
 

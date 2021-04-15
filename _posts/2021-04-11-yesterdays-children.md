@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/7508702
   lastfm: https://www.last.fm/music/Yesterday%27s+Children/Yesterday%27s+Children
   spotify: https://open.spotify.com/album/6asJqAGSKRj9JDaqCnPvuK?si=WmzVuDdATnKXmuNBFViRSA
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_l6L8ddiaFHFPaNPcWg2tUZgCwqyDOFvoI
+  youtube: https://youtube.com/playlist?list=OLAK5uy_l6L8ddiaFHFPaNPcWg2tUZgCwqyDOFvoI
   wikipedia: https://en.wikipedia.org/wiki/Yesterday%27s_Children
   download: http://murodoclassicrock4.blogspot.com.br/2010/11/yesterdays-children-1969.html
 

@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/8674341
   lastfm: https://www.last.fm/pt/music/Southern+Cross/Southern+Cross
   spotify: https://open.spotify.com/album/5IarvkkakY7zpHVRkuxDbX?si=HbyxkkYQSMu0qPzAvBRjRA
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_m0vbHjeVRIgi_N4fl-TyurmhxaKAYje0g
+  youtube: https://youtube.com/playlist?list=OLAK5uy_m0vbHjeVRIgi_N4fl-TyurmhxaKAYje0g
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2017/06/southern-cross-1976.html
 

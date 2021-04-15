@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/8734805
   lastfm: https://www.last.fm/pt/music/St.+John+Green/St.+John+Green
   spotify: https://open.spotify.com/album/1tj8bM1X6t2h8G9PY1zrlV?si=jYaE5Vo7RsupY20zAHVJ4g
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mTl0-iKHWVXc0XloC_GbFBnH-AQzpp0c8
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mTl0-iKHWVXc0XloC_GbFBnH-AQzpp0c8
   wikipedia: https://en.wikipedia.org/wiki/St._John_Green
   download: https://murodoclassicrock4.blogspot.com/2018/12/st-john-green-1968.html
 

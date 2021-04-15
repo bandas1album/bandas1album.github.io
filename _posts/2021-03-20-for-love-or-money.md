@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/140135692
   lastfm: https://www.last.fm/music/Highway+Robbery/For+Love+or+Money
   spotify: https://open.spotify.com/album/7ekZe63Khfo3P3kYFyA4ib?si=8jAKeo2ySP-Q7Ok8CeEuxA
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_myJo3dhLakMBXzYtyCr3fQs8UvV8-4pJE
+  youtube: https://youtube.com/playlist?list=OLAK5uy_myJo3dhLakMBXzYtyCr3fQs8UvV8-4pJE
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2011/10/highway-robbery-for-love-or-money-1972.html
 

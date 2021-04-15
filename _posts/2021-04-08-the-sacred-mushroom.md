@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/6663949
   lastfm: https://www.last.fm/music/The+Sacred+Mushroom/The+Sacred+Mushroom
   spotify: https://open.spotify.com/album/2dGj1UKByNf1ajh7XbA0YP?si=u14HbCdUSHu9QbDUA-d-3A
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_lImBMIS_38kW8SginumNEfQG-m2ANS1go
+  youtube: https://youtube.com/playlist?list=OLAK5uy_lImBMIS_38kW8SginumNEfQG-m2ANS1go
   wikipedia: https://en.wikipedia.org/wiki/The_Sacred_Mushroom
   download: http://murodoclassicrock4.blogspot.com.br/2011/06/sacred-mushroom-1969.html
 

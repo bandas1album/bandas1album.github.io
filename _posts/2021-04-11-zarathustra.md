@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/163197642
   lastfm: https://www.last.fm/music/Zarathustra/Zarathustra
   spotify: https://open.spotify.com/album/5ts8AmqUpwioAq17DfKF2z?si=LHVxyE2iREavayGwemMjnw
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_nTt9bv37fCbaSbpZrd6UIdbpdhYj4x95w
+  youtube: https://youtube.com/playlist?list=OLAK5uy_nTt9bv37fCbaSbpZrd6UIdbpdhYj4x95w
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2015/02/zarathustra-1972.html
 

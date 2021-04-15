@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/46441832
   lastfm: https://www.last.fm/music/Randy+&+The+Gypsys/Randy+&+The+Gypsys
   spotify: https://open.spotify.com/album/5sHqtuUcEUFCJUlK3k2Su6?si=db8vRWYsRi2IAo3x-V0t4w
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_lHE48J7-A2eWvI7yhxi4uwKFJZKDzy5c4
+  youtube: https://youtube.com/playlist?list=OLAK5uy_lHE48J7-A2eWvI7yhxi4uwKFJZKDzy5c4
   wikipedia: https://pt.wikipedia.org/wiki/Randy_Jackson
   download:
 

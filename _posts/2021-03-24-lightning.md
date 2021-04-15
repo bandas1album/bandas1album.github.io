@@ -19,7 +19,7 @@ links:
   deezer:
   lastfm: https://www.last.fm/pt/music/Lightning/Lightning
   spotify: https://open.spotify.com/album/0omtHcZArslQG4KpwIap3k?si=q-1u_Oe9QIWq4Pq-vGEi3Q
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_nh5lBYj05dn8SvOxNQIOwGiAqGyiJw3es
+  youtube: https://youtube.com/playlist?list=OLAK5uy_nh5lBYj05dn8SvOxNQIOwGiAqGyiJw3es
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2017/05/lightning-1968-1971.html
 

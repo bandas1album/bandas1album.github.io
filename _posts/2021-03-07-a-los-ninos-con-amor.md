@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/15230211
   lastfm: https://www.last.fm/music/Estrella+de+Marzo/A+Los+Ni%C3%B1os+Con+Amor
   spotify: https://open.spotify.com/album/1Uk3C4OiDXGtblBsZw1yVs?si=3D2BT5euR8iIfJe3qNft_g
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_lEoda069vchkgvj0usd3fR70yqWl6oO7U
+  youtube: https://youtube.com/playlist?list=OLAK5uy_lEoda069vchkgvj0usd3fR70yqWl6oO7U
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2016/04/estrella-de-marzo-los-ninos-con-amor.html
 

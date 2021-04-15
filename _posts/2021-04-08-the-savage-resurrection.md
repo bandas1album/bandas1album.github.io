@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/6819945
   lastfm: https://www.last.fm/music/The+Savage+Resurrection/The+Savage+Resurrection
   spotify: https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu?si=l9DlZRjvRs6E3XTM-pAKEg
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_nX79juDsAkgfACVYRbVkWlSUrjU9ws7e8
+  youtube: https://youtube.com/playlist?list=OLAK5uy_nX79juDsAkgfACVYRbVkWlSUrjU9ws7e8
   wikipedia: https://en.wikipedia.org/wiki/The_Savage_Resurrection
   download: http://murodoclassicrock4.blogspot.com.br/2013/09/the-savage-resurrection-1968.html
 

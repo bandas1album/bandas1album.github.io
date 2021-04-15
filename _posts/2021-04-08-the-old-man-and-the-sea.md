@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/670589
   lastfm: https://www.last.fm/music/The+Old+Man+&+The+Sea/The+Old+Man+&+The+Sea
   spotify: https://open.spotify.com/album/2LwjeyHiHWKZVtWUf2LJrf?si=xX8EEOOyTgenQgG4BHU_Zg
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_msFZnc2Pg9NE2VRZmNuqklDUE4zUpk058
+  youtube: https://youtube.com/playlist?list=OLAK5uy_msFZnc2Pg9NE2VRZmNuqklDUE4zUpk058
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2016/12/the-old-man-sea-1972.html
 

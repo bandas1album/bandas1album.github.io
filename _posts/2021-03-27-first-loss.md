@@ -19,7 +19,7 @@ links:
   deezer:
   lastfm: https://www.last.fm/pt/music/Murphy+Blend/First+Loss
   spotify: https://open.spotify.com/album/2poCKfbmJyZfxeFtRf0INO?si=Ov8wYKFYS_2fO-Rx-ohFVw
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_k_7pNBd9H7aiX5ut3z4BcArHgna7FO968
+  youtube: https://youtube.com/playlist?list=OLAK5uy_k_7pNBd9H7aiX5ut3z4BcArHgna7FO968
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2013/05/murphy-blend-first-lost-1970.html
 

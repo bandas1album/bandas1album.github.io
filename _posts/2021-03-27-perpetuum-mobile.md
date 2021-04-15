@@ -29,7 +29,7 @@ links:
   deezer: https://www.deezer.com/br/album/395605
   lastfm: https://www.last.fm/pt/music/Mariani/Perpetuum+Mobile
   spotify: https://open.spotify.com/album/7D7AdmCarSmT5lzcaA1lF9?si=EQINXvu0Q96gyfwpZ1qY6g
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_kTNptEB7QEi3oNzfIreJwIhj8A4E4Gyu4
+  youtube: https://youtube.com/playlist?list=OLAK5uy_kTNptEB7QEi3oNzfIreJwIhj8A4E4Gyu4
   wikipedia: https://pt.wikipedia.org/wiki/Mariani_(banda)
   download: http://murodoclassicrock4.blogspot.com.br/2010/11/mariani-perpetuum-mobile-1970.html
 

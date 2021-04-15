@@ -19,7 +19,7 @@ links:
   deezer:
   lastfm: https://www.last.fm/pt/music/Atlantis+Philharmonic/Atlantis+Philharmonic
   spotify:
-  youtube: https://music.youtube.com/watch?v=scQUjrVE6LE&feature=share
+  youtube: https://youtube.com/watch?v=scQUjrVE6LE&feature=share
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2017/06/atlantis-philharmonic-1974-2016-shm-cd_8.html
 

@@ -19,7 +19,7 @@ links:
   deezer:
   lastfm: https://www.last.fm/pt/music/A+Euphonious+Wail/A+Euphonious+Wail
   spotify:
-  youtube: https://music.youtube.com/watch?v=sYpXLwL4BNM&feature=share
+  youtube: https://youtube.com/watch?v=sYpXLwL4BNM&feature=share
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2018/12/a-euphonious-wail-1972.html
 

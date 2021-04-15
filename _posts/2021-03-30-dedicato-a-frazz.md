@@ -19,7 +19,7 @@ links:
   deezer:
   lastfm: https://www.last.fm/pt/music/Semiramis/Dedicato+a+Frazz
   spotify: https://open.spotify.com/album/0BWTfsFWL3TuBXZ2dBA7GV?si=AOdW7vX9T9qRsML7ieQN6A
-  youtube: https://music.youtube.com/watch?v=9DsYfbKdSPI&list=RDAMVM9DsYfbKdSPI
+  youtube: https://youtube.com/watch?v=9DsYfbKdSPI&list=RDAMVM9DsYfbKdSPI
   wikipedia: https://it.wikipedia.org/wiki/Dedicato_a_Frazz
   download: http://murodoclassicrock4.blogspot.com.br/2013/10/semiramis-dedicato-frazz-1973.html
 

@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/13453911
   lastfm: https://www.last.fm/music/Light/The+Story+of+Moses
   spotify: https://open.spotify.com/album/2xhM8ij6GyXhqsNFfCfibv?si=nBA41hcXQvaJdYcb-pSO3Q
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_kdybsFVSOeG7OWL3TMQsr0vxSg2y_e7VE
+  youtube: https://youtube.com/playlist?list=OLAK5uy_kdybsFVSOeG7OWL3TMQsr0vxSg2y_e7VE
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2014/04/light-story-of-moses-1972.html
 

@@ -19,7 +19,7 @@ links:
   deezer: https://deezer.com/br/album/15802512
   lastfm: https://www.last.fm/music/Blast+Furnace/Blast+Furnace
   spotify: https://open.spotify.com/album/0xzQJJ7po8W7jIfuNLhDlW?si=_3c-0yorTA2hn9n20Q_Zrw
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mVZWHM49bl903Z9FIBOnFZ0Na-iX-7NRo
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mVZWHM49bl903Z9FIBOnFZ0Na-iX-7NRo
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2019/03/blast-furnace-1971.html
 

@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/41825111
   lastfm: https://www.last.fm/music/Them+Crooked+Vultures/Them+Crooked+Vultures
   spotify: https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3?si=2SncUPNnR1iFA8_nHlIhtg
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_lQ0CIY6uRr8l37kCvodlKJTvLYMcjwPfw
+  youtube: https://youtube.com/playlist?list=OLAK5uy_lQ0CIY6uRr8l37kCvodlKJTvLYMcjwPfw
   wikipedia: https://pt.wikipedia.org/wiki/Them_Crooked_Vultures
   download: https://murodoclassicrock4.blogspot.com/2011/07/john-paul-jones-discografia.html
 

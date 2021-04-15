@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/725713
   lastfm: https://www.last.fm/music/Rites+of+Spring/Rites+of+Spring
   spotify: https://open.spotify.com/album/2xtDqnjyKOuOd3Y9wl3Thx?si=QoNpQZtjTnmCZROd6Stt5A
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_lIVaih5kNnVhUzCM6rP61XJmA3qwCa5ek
+  youtube: https://youtube.com/playlist?list=OLAK5uy_lIVaih5kNnVhUzCM6rP61XJmA3qwCa5ek
   wikipedia: https://pt.wikipedia.org/wiki/Rites_of_Spring
   download:
 

@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/7199594
   lastfm: https://www.last.fm/music/Colonel+Bagshot/Oh!+What+A+Lovely+War
   spotify: https://open.spotify.com/album/1h5a0LPH3IzQZjBdQcPN9x?si=VPB4YF9zQFCpdeAU6Xcdug
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_kUkcfan5p55S0Zmal9vVchAEwARB93STg
+  youtube: https://youtube.com/playlist?list=OLAK5uy_kUkcfan5p55S0Zmal9vVchAEwARB93STg
   wikipedia: https://en.wikipedia.org/wiki/Colonel_Bagshot
   download: https://murodoclassicrock4.blogspot.com/2019/07/colonel-bagshot-oh-what-lovely-war-1971.html
 

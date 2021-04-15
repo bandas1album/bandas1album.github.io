@@ -19,7 +19,7 @@ links:
   deezer:
   lastfm: https://www.last.fm/music/Atlas/Bl%C3%A5+vardag
   spotify:
-  youtube: https://music.youtube.com/watch?v=1fZkUOl8HzI&feature=share
+  youtube: https://youtube.com/watch?v=1fZkUOl8HzI&feature=share
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2014/05/atlas-bla-vardag-1979.html
 

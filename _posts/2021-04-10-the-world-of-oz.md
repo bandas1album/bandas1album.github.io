@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/7243452
   lastfm: https://www.last.fm/music/The+World+Of+Oz/The+World+Of+Oz
   spotify: https://open.spotify.com/album/44cDOAdbuxTMosRxw4UdOa?si=NsmBa2h2Sx6II-FXBOWFiQ
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_m9ldf659UcaDslP3ZhWAn8GYGspA2FYjI
+  youtube: https://youtube.com/playlist?list=OLAK5uy_m9ldf659UcaDslP3ZhWAn8GYGspA2FYjI
   wikipedia: https://en.wikipedia.org/wiki/World_of_Oz
   download: http://murodoclassicrock4.blogspot.com.br/2011/12/world-of-oz-1969.html
 

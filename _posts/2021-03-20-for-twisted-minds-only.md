@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/14120120
   lastfm: https://www.last.fm/music/Horse/For+Twisted+Minds+Only
   spotify: https://open.spotify.com/album/5Y3dgq5Jb0NYW42EYp1f8y?si=xYABrYpNRDuqc0TKc3gfig
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_kiarjiYsE1RxMCJYl5kVLW2ieKW7sWB-g
+  youtube: https://youtube.com/playlist?list=OLAK5uy_kiarjiYsE1RxMCJYl5kVLW2ieKW7sWB-g
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2016/09/horse-1970_29.html
 

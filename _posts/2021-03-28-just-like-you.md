@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/1180838
   lastfm: https://www.last.fm/pt/music/Pugsley+Munion/Just+Like+You
   spotify: https://open.spotify.com/album/645PEEJZ9jJlIJ0PgHZxPd?si=MWZ3nINSTuCbacpFEvc0pw
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_nG77AJG5587PEOK5tEKtye1k5vPwH6DgE
+  youtube: https://youtube.com/playlist?list=OLAK5uy_nG77AJG5587PEOK5tEKtye1k5vPwH6DgE
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2011/07/pugsley-munion-just-like-you-1971.html
 

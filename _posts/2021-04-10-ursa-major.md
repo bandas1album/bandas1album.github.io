@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/163197622
   lastfm: https://www.last.fm/music/Ursa+Major/Ursa+Major
   spotify: https://open.spotify.com/album/5Jf2CaqoHjjej4QF9wBsLu?si=alpdqCkZQ2mk1DikCYYpMQ
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_m72B1njAkUnthacHhzp-6vRdrnRzNQu2E
+  youtube: https://youtube.com/playlist?list=OLAK5uy_m72B1njAkUnthacHhzp-6vRdrnRzNQu2E
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2010/12/ursa-major-1972.html
 

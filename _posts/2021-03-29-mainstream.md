@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/1252022
   lastfm: https://www.last.fm/pt/music/Quiet+Sun/Mainstream
   spotify: https://open.spotify.com/album/6WUzJONHD1qkuMhbqJfgsD?si=MOtchR43TdGRMt3eOm_ATg
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_nka0vCmG7U106lqj-G2GQbXKnnkFvbc5g
+  youtube: https://youtube.com/playlist?list=OLAK5uy_nka0vCmG7U106lqj-G2GQbXKnnkFvbc5g
   wikipedia: https://en.wikipedia.org/wiki/Mainstream_(Quiet_Sun_album)
   download: http://murodoclassicrock4.blogspot.com.br/2017/10/quiet-sun-mainstream-1975.html
 

@@ -19,7 +19,7 @@ links:
   deezer:
   lastfm: https://www.last.fm/pt/music/Alan+Jack+Civilization/Bluesy+Mind
   spotify:
-  youtube: https://music.youtube.com/watch?v=ox1_C7yTLPw
+  youtube: https://youtube.com/watch?v=ox1_C7yTLPw
   wikipedia: https://fr.wikipedia.org/wiki/Alan_Jack
   download: http://murodoclassicrock4.blogspot.com.br/2013/07/alan-jack-civilization-bluesy-mind-1969.html
 

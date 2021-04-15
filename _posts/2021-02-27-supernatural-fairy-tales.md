@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/10038188
   lastfm: https://www.last.fm/music/Art/Supernatural+Fairy+Tales
   spotify: https://open.spotify.com/album/3W5TMuDeW7HuOszLyubYeV?si=vT8AH74zQTuvrAsPQhbAjQ
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_lBZ9xLyWPZmqDmqqOTLSmn3kw6XBIo5cQ
+  youtube: https://youtube.com/playlist?list=OLAK5uy_lBZ9xLyWPZmqDmqqOTLSmn3kw6XBIo5cQ
   wikipedia: https://en.wikipedia.org/wiki/Supernatural_Fairy_Tales
   download: http://murodoclassicrock4.blogspot.com.br/2010/11/art-supernatural-fairy-tales-1967.html
 

@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/1206546
   lastfm: https://www.last.fm/music/Ritchie+Blackmore/Green+Bullfrog
   spotify: https://open.spotify.com/album/1gl9LSUudSS7QIH4VCSejE?si=Mhq3P3KAQgCKb7V1LdCneQ
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_l5TUW5qs89s1_O5YfT9xhgQMsWWtDutOY
+  youtube: https://youtube.com/playlist?list=OLAK5uy_l5TUW5qs89s1_O5YfT9xhgQMsWWtDutOY
   wikipedia: https://en.wikipedia.org/wiki/Green_Bullfrog
   download: http://murodoclassicrock4.blogspot.com.br/2013/08/green-bullfrog-1970.html
 

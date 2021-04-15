@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/636371
   lastfm: https://www.last.fm/music/The+Ghost/When+You%27re+Dead
   spotify: https://open.spotify.com/album/3bmir0w5shjLNlLmvdR4SL?si=HnjLkV0zSJ6ABKf19Busag
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_lOhhWvqjpTPisS-z3x_giUqj5YyMh_lcU
+  youtube: https://youtube.com/playlist?list=OLAK5uy_lOhhWvqjpTPisS-z3x_giUqj5YyMh_lcU
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2015/12/the-ghost-when-youre-dead-one-second.html
 

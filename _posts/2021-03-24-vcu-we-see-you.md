@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/3537311
   lastfm: https://www.last.fm/music/Lily/%22V.C.U.%22+%5BWe+See+You%5D
   spotify: https://open.spotify.com/album/7eMWg9vUz1Du6seI3zKXsM?si=89xCPn2aRXCpSitbDu_T6w
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_nnAusbgXtOl_a5k-_shPjjFvI2TI5A3ZY
+  youtube: https://youtube.com/playlist?list=OLAK5uy_nnAusbgXtOl_a5k-_shPjjFvI2TI5A3ZY
   wikipedia: https://de.wikipedia.org/wiki/Lily_(Band)
   download: https://murodoclassicrock4.blogspot.com/2020/11/lily-vcu-we-see-you-1973.html
 

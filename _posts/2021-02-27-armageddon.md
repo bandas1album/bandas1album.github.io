@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/11119880
   lastfm: https://www.last.fm/music/Armageddon/Armageddon
   spotify: https://open.spotify.com/album/4xhrRw2nuVpxbo5sYi1mc1?si=CGGADf_1RQO1Vrri8TKfog
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_nz4JjOtB0lIEM--bmbfu-YtE0A9lmwol8
+  youtube: https://youtube.com/playlist?list=OLAK5uy_nz4JjOtB0lIEM--bmbfu-YtE0A9lmwol8
   wikipedia: https://en.wikipedia.org/wiki/Armageddon_(Armageddon_album)
   download: http://murodoclassicrock4.blogspot.com.br/2010/11/armageddon-1975.html
 

@@ -19,7 +19,7 @@ links:
   deezer:
   lastfm: https://www.last.fm/music/Ballettirosadimacchia/Ballettirosadimacchia
   spotify:
-  youtube: https://music.youtube.com/watch?v=4c-vDrMO91M&feature=share
+  youtube: https://youtube.com/watch?v=4c-vDrMO91M&feature=share
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2018/06/ballettirosadimacchia-1974.html
 

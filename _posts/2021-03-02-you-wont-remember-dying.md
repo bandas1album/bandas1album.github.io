@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/8806847
   lastfm: https://www.last.fm/pt/music/Bulbous+Creation/You+Won%27t+Remember+Dying
   spotify: https://open.spotify.com/album/2ZLBpPRWkaR9osvtax7XHd?si=mlBjWLNbRtWZdRc02n5tvQ
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_kSbu0YBpIQDF1OU_T8wnLn4baml8Sy1pk
+  youtube: https://youtube.com/playlist?list=OLAK5uy_kSbu0YBpIQDF1OU_T8wnLn4baml8Sy1pk
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2011/05/bulbous-creation-you-wont-remember.html
 

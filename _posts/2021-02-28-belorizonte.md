@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/121025822
   lastfm: https://www.last.fm/music/AUM/Belorizonte
   spotify: https://open.spotify.com/album/2d2jW1uwFfS9itNrpPR2yr?si=MESQXyIHQDyzvyd_scgFWw
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mOf9jvSTJQ46SIcsLg01EWZzTpA5vKp94
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mOf9jvSTJQ46SIcsLg01EWZzTpA5vKp94
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2017/03/aum-belorizonte-1983.html
 

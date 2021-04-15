@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/169662832
   lastfm: https://www.last.fm/pt/music/Pinnacle/Cyborg+Assassin
   spotify: https://open.spotify.com/album/7L8vTerisCIkSzM8nKOFFI?si=oE9Qe0b5T2-UQLowmnoAPA
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_no22u9E7dUxXFxQgA81GbjcG9jLBA2_ms
+  youtube: https://youtube.com/playlist?list=OLAK5uy_no22u9E7dUxXFxQgA81GbjcG9jLBA2_ms
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2013/03/pinnacle-cyborg-assassin-1974.html
 

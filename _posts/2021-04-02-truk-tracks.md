@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/9089501
   lastfm: https://www.last.fm/music/Too+Much/Too+Much
   spotify: https://open.spotify.com/album/0kuaHXF2ydI83QrPaqXVCY?si=N_VIIDjSTiitEDSrR7Qk3Q
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mKv0P_ZwjPlI5ESFNr-qE3RggJAimBKWQ
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mKv0P_ZwjPlI5ESFNr-qE3RggJAimBKWQ
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2011/03/truk-truk-tracks-1971.html
 

@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/111169
   lastfm: https://www.last.fm/pt/music/Festa+Mobile/Diario+Di+Viaggio+Della+Festa+Mobile
   spotify: https://open.spotify.com/album/0guEbIol17hZp1uw9Ufj5F?si=6WfB27_PTtmQ3gF2xSAaPQ
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_l9JLIeVQK9L0CiG2vxT8T7NLRDBCXXps0
+  youtube: https://youtube.com/playlist?list=OLAK5uy_l9JLIeVQK9L0CiG2vxT8T7NLRDBCXXps0
   wikipedia: https://pt.wikipedia.org/wiki/Festa_Mobile
   download: http://murodoclassicrock4.blogspot.com.br/2017/01/festa-mobile-diario-di-viaggio-della.html
 

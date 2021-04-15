@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/79868162
   lastfm: https://www.last.fm/music/Friendship+Time/Friendship+Time
   spotify: https://open.spotify.com/album/3avfSMUTy3L8jWzOxnHY5m?si=hT_ioVZgSyGhczM80MAYWg
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mobtUwJFbsJQ-yrvACy44klpX2wcuM3P4
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mobtUwJFbsJQ-yrvACy44klpX2wcuM3P4
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2013/12/friendship-time-1975-1976-2007.html
 

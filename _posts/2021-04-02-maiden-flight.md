@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/7612489
   lastfm: https://www.last.fm/pt/music/The+Bolton+Iron+Maiden/Maiden+Flight
   spotify: https://open.spotify.com/album/7qUrN5NVMLlF4Mr5CIZRla?si=ipO7T0deQO2apOKO63VfsA
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_k0y5aKWsaB1Nxk5lrgTH27v0xLRBcsII4
+  youtube: https://youtube.com/playlist?list=OLAK5uy_k0y5aKWsaB1Nxk5lrgTH27v0xLRBcsII4
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2017/04/the-bolton-iron-maiden-maiden-flight.html
 

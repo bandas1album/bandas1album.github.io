@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/129468032
   lastfm: https://www.last.fm/music/Wilkinson+Tri-Cycle/Wilkinson+Tri-Cycle
   spotify: https://open.spotify.com/album/6RJyzssoCcmOx3YylzyYCm?si=kdj0Q1oUSuewAS2HTz2BmA
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_n0HBxxJJQ82Tt-Xr_yJGR1sfBvH45v-ZQ
+  youtube: https://youtube.com/playlist?list=OLAK5uy_n0HBxxJJQ82Tt-Xr_yJGR1sfBvH45v-ZQ
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com/2017/12/wilkinson-tri-cycle-1969.html
 

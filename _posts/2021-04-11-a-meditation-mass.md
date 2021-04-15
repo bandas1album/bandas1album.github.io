@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/215777
   lastfm: https://www.last.fm/music/Yatha+Sidhra/A+Meditation+Mass
   spotify: https://open.spotify.com/album/0GrGzm48mhWhsqRK8pi1Df?si=YJ_RwlW2QlGqpjwD-nJS8g
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mODw1VRtyeeQQdut5CBwvufZDenlrKGOs
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mODw1VRtyeeQQdut5CBwvufZDenlrKGOs
   wikipedia: https://ru.wikipedia.org/wiki/A_Meditation_Mass
   download: http://murodoclassicrock4.blogspot.com.br/2013/07/yatha-sidhra-meditation-mass-1974.html
 

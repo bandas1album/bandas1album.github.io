@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/120807892
   lastfm: https://www.last.fm/music/Crack/_/Si+todo+Hiciera+Crack
   spotify: https://open.spotify.com/album/0Zh3MW5fWFJ9lRoiKJvdYY?si=1Z1jrBXVTKK6vZwflUusgQ
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_llIea5q-ZZSprMWIgWIlD-VhQ4QKsVZ1I
+  youtube: https://youtube.com/playlist?list=OLAK5uy_llIea5q-ZZSprMWIgWIlD-VhQ4QKsVZ1I
   wikipedia: https://es.wikipedia.org/wiki/Crack_(banda)
   download: http://murodoclassicrock4.blogspot.com.br/2016/10/crack-si-todo-hiciera-crack-1978.html
 

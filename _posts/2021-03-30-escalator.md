@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/12848274
   lastfm: https://www.last.fm/pt/music/Sam+Gopal/Escalator
   spotify: https://open.spotify.com/album/3gJNEAV0nxiUifEnXG7V4e?si=dwvODOnLTLuzoZba_L4yzg
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_ntp-90Z3yzIuLsd-uoTTUbpplFNEfaTds
+  youtube: https://youtube.com/playlist?list=OLAK5uy_ntp-90Z3yzIuLsd-uoTTUbpplFNEfaTds
   wikipedia: https://en.wikipedia.org/wiki/Escalator_(album)
   download: http://murodoclassicrock4.blogspot.com.br/2016/01/sam-gopal-escalator-1969.html
 

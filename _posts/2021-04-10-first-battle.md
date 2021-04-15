@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/46206
   lastfm: https://www.last.fm/music/Waterloo/First+Battle
   spotify: https://open.spotify.com/album/5kIZuSJuoSKuaYWmApJtXh?si=S44aRgHkQq6rtH_1fqqx8A
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mxOCqdEood_2r2ESylRckF4CQiPrdF3TQ
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mxOCqdEood_2r2ESylRckF4CQiPrdF3TQ
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2013/10/waterloo-first-battle-1970.html
 

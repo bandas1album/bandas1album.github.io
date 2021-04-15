@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/12257820
   lastfm: https://www.last.fm/pt/music/Blue+Phantom/Distortions
   spotify: https://open.spotify.com/album/0xqCyrqYn4dUeeKHw2B7lJ?si=S-nJxfCmS86sV6LflNhN2w
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_lvilTINwkx_8WspvqkcW1bgi0utzAlcYQ
+  youtube: https://youtube.com/playlist?list=OLAK5uy_lvilTINwkx_8WspvqkcW1bgi0utzAlcYQ
   wikipedia: https://pt.wikipedia.org/wiki/Blue_Phantom
   download: http://murodoclassicrock4.blogspot.com.br/2014/09/blue-phantom-distortions-1971.html
 

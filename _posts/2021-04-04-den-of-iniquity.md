@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/157126972
   lastfm: https://www.last.fm/music/The+Norman+Haines+Band/Den+Of+Iniquity
   spotify: https://open.spotify.com/album/59UikOa1qppIMrzFoemEqT?si=CK7VrxePTm2CMgxmJM3C1Q
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mU0OiWRge-8539LqWg2Npan7uehDyWkkk
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mU0OiWRge-8539LqWg2Npan7uehDyWkkk
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2016/12/the-norman-haines-band-den-of-iniquity.html
 

@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/13934446
   lastfm: https://www.last.fm/music/Velvett+Fogg/Velvett+Fogg
   spotify: https://open.spotify.com/album/75iGQvtuxZn2ZqJ0ce3gMp?si=OPob9SRrRnKAv58B--PwKQ
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_nM1qasTMDUP2l4b9-MHnsJvNu-ipbcSPw
+  youtube: https://youtube.com/playlist?list=OLAK5uy_nM1qasTMDUP2l4b9-MHnsJvNu-ipbcSPw
   wikipedia: https://en.wikipedia.org/wiki/Velvett_Fogg
   download: http://murodoclassicrock4.blogspot.com.br/2010/12/velvett-fogg-1969.html
 

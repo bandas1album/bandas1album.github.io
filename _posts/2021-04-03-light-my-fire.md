@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/1176729
   lastfm: https://www.last.fm/music/The+Firebirds/Light+My+Fire
   spotify: https://open.spotify.com/album/2dea4yPRRfC6jAF9to82R5?si=5kY6GBN2R7Wi4kXdfR5BTg
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_l4IKNgC0uli2fVXFNGvqTbzUAzRWHqlV0
+  youtube: https://youtube.com/playlist?list=OLAK5uy_l4IKNgC0uli2fVXFNGvqTbzUAzRWHqlV0
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2013/10/the-firebirds-light-my-fire-1969.html
 

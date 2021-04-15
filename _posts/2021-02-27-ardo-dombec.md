@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/134227432
   lastfm: https://www.last.fm/music/Ardo+Dombec/Ardo+Dombec
   spotify: https://open.spotify.com/album/3HWhlb0ck7rL8LVs9GZDcr?si=YTDNH7zbRw6AQx_MMDWqQQ
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_nseoO8um674c40zI981AKOTvawxicHdYE
+  youtube: https://youtube.com/playlist?list=OLAK5uy_nseoO8um674c40zI981AKOTvawxicHdYE
   wikipedia:
   download: https://murodoclassicrock4.blogspot.com.br/2018/01/ardo-dombec-1971.html
 

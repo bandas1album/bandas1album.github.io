@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/8544545
   lastfm: https://www.last.fm/pt/music/Life/Life+After+Death
   spotify: https://open.spotify.com/album/4UJvOPK4muDnGqCEV42KDS?si=2jtTR9-vSNCkVUG1pi__Lw
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_lkVYIBut8xwKr4PzaHaftkDUIDGNgZnic
+  youtube: https://youtube.com/playlist?list=OLAK5uy_lkVYIBut8xwKr4PzaHaftkDUIDGNgZnic
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2017/03/life-life-after-death-1974.html
 

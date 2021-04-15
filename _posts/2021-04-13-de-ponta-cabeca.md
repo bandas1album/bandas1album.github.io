@@ -19,7 +19,7 @@ links:
   deezer:
   lastfm: https://www.last.fm/pt/music/A+Chave/De+Ponta+Cabeça
   spotify:
-  youtube: https://music.youtube.com/playlist?list=PLGkeRiGAYgatf5bi1_leRcOkvFcXGhmBe
+  youtube: https://youtube.com/playlist?list=PLGkeRiGAYgatf5bi1_leRcOkvFcXGhmBe
   wikipedia: https://pt.wikipedia.org/wiki/A_Chave_(banda)
   download: http://murodoclassicrock4.blogspot.com.br/2014/04/a-chave-de-ponta-cabeca-1977.html
 

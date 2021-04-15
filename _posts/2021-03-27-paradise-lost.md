@@ -19,7 +19,7 @@ links:
   deezer: https://www.deezer.com/br/album/133027612
   lastfm: https://www.last.fm/pt/music/Lost+Nation/Paradise+Lost
   spotify: https://open.spotify.com/album/1K9ObvVtQwlFCXXRaleVQe?si=EpLI1JcoSty3QEbrDwn10A
-  youtube: https://music.youtube.com/playlist?list=OLAK5uy_mE8UX3lwoIvT_NgxYSzrCL4VWAEL_Dtgc
+  youtube: https://youtube.com/playlist?list=OLAK5uy_mE8UX3lwoIvT_NgxYSzrCL4VWAEL_Dtgc
   wikipedia:
   download: http://murodoclassicrock4.blogspot.com.br/2013/11/lost-nation-paradise-lost-1970.html
 
