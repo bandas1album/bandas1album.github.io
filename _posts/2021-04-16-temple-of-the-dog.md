@@ -51,4 +51,4 @@ Formado em 1990, em Seattle, por Chris Cornell, Stone Gossard, Jeff Ament, Mike 
 
 A banda lançou o álbum homônimo no dia 16 de abril de 1991 pela gravadora A&M Records, mas foi apenas em 1992 depois do lançamento do primeiro álbum do Pearl Jam, Ten, e da explosão da cena grunge que o Temple Of The Dog chegou ao topo das paradas norte-americanas, vendendo mais de um milhão de cópias.
 
-Como um verdadeiro One Album Wonder, o hit deste álbum foi o single "Hunger Strike" que tinha Chris Cornell e Eddie Vedder nos vocais, fazendo um incrível dueto. Temple Of The Dog é um álbum que não pode deixar de ser ouvido por amantes da música e principalmente para amantes do rock pela história que carrega.
+Como um verdadeiro One Album Wonder, não poderia deixar de ter um hit e deste álbum foi o single "Hunger Strike" que tinha Chris Cornell e Eddie Vedder nos vocais, fazendo um incrível dueto. Temple Of The Dog é um álbum que não pode deixar de ser ouvido por amantes da música e principalmente por amantes do rock, pela história que carrega.
