@@ -50,3 +50,9 @@ tracklist:
   - name: End On End
     duration: '7:37'
 ---
+
+Formada no ano de 1984, em Washington nos Estados Unidos, a banda Rites of Spring esteve ativa em meados da década de 80 e é considerada uma das precursoras do gênero pós-hardcore.
+
+Contando com **Guy Picciotto**, **Edward Janney**, **Mike Fellows** e **Brendan Canty** na formação, a banda foi enraizada no estilo rápido do hardcore punk. O nome da banda foi inspirado no balé "The Rite of Spring" de Stravinsky e por conta de suas letras que discutiam sentimentos como mágoa e dor, são considerados extremamente importantes para a criação do gênero Emocore.
+
+O único álbum da carreira da banda conta com 12 canções, que foram gravadas em fevereiro de 1985 no _Inner Ear Studios_ e produzido por Ian MacKaye, das bandas Fugazi e [Minor Threat](/minor-threat). A banda acabou em janeiro do ano seguinte.
