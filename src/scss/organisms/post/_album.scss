@@ -9,6 +9,7 @@
 
   @media (min-width: $tablet) {
     width: calc(100% - 208px);
+    margin: rem(120px) auto 0;
   }
 
   @media (min-width: $desktop) {
