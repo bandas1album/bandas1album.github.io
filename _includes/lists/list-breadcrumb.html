@@ -17,7 +17,7 @@
     itemtype="http://schema.org/ListItem"
   >
     <meta itemprop="position" content="2" />
-    <a itemprop="item" href="/{{page.categories[0]}}">
+    <a itemprop="item" href="/genero/{{ page.categories[0] | slugify }}">
       <span itemprop="name">{{page.categories[0]}}</span>
     </a>
   </li>
