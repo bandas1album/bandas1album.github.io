@@ -26,14 +26,10 @@
     flex-direction: column;
     justify-content: space-between;
 
-    @media (min-width: 768px) {
-      width: calc(100% - 80px);
-    }
-
-    @media (min-width: 1024px) {
+    @media (min-width: $tablet) {
       align-items: center;
       flex-direction: row;
-      width: calc(100% - 144px);
+      width: calc(100% - 208px);
     }
   }
 
@@ -91,7 +87,7 @@
   &__nav {
     display: none;
 
-    @media (min-width: 1024px) {
+    @media (min-width: $desktop-hd) {
       display: block;
     }
 

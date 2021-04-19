@@ -1,7 +1,11 @@
 .single {
   .wrapper__button {
-    left: rem(24px);
+    right: rem(24px);
     bottom: rem(24px);
+
+    @media (min-width: $desktop) {
+      left: rem(24px);
+    }
   }
 
   .list-posts {

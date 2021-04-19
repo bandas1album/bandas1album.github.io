@@ -9,6 +9,9 @@
 
   @media (min-width: $tablet) {
     width: calc(100% - 208px);
+  }
+
+  @media (min-width: $desktop) {
     margin: rem(160px) auto 0;
     flex-direction: row;
   }
@@ -21,7 +24,7 @@
     width: 100%;
     margin-bottom: rem(32px);
 
-    @media (min-width: $tablet) {
+    @media (min-width: $desktop) {
       width: calc(100% - 480px);
       max-width: rem(480px);
       margin-bottom: 0;
