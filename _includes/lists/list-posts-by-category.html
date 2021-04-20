@@ -1,6 +1,14 @@
-<ul class="list list-posts list-posts-by-category accelerated">
+<ul
+  class="list list-posts list-posts-by-category {%- if site.categories[page.title].size > 8 -%}{%- else -%}{%- endif -%}"
+>
   <li>
-    <h1><span>Mostrando todos os posts de</span> {{ page.title }}</h1>
+    <h1>
+      <span>
+        Mostrando todos os
+        <strong>{{ site.categories[page.title].size }}</strong> álbuns de
+      </span>
+      {{ page.title }}
+    </h1>
   </li>
 
   {% for post in site.categories[{{page.title}}] %}
