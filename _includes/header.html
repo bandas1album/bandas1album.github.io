@@ -1,8 +1,13 @@
 {%- if page.layout == 'post' -%}
 <header class="header" role="banner">
   <div class="header__wrapper">
-    <a href="{{ site.url }}" class="header__close">
-      <i class="fas fa-times"></i>
+    <a
+      href="{{ site.url }}"
+      aria-label="Voltar para a home"
+      title="Voltar para a home"
+      class="header__close"
+    >
+      <i class="fas fa-times" aria-hidden="true"></i>
     </a>
   </div>
 </header>
