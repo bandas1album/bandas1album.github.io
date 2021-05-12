@@ -29,13 +29,13 @@ layout: null
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
         <links>
-          <amazon>{{ post.amazon | xml_escape }}</amazon>
-          <deezer>{{ post.deezer | xml_escape }}</deezer>
-          <lastfm>{{ post.lastfm | xml_escape }}</lastfm>
-          <spotify>{{ post.spotify | xml_escape }}</spotify>
-          <youtube>{{ post.youtube | xml_escape }}</youtube>
-          <wikipedia>{{ post.wikipedia | xml_escape }}</wikipedia>
-          <download>{{ post.download | xml_escape }}</download>
+          <amazon>{{ post.links.amazon | xml_escape }}</amazon>
+          <deezer>{{ post.links.deezer | xml_escape }}</deezer>
+          <lastfm>{{ post.links.lastfm | xml_escape }}</lastfm>
+          <spotify>{{ post.links.spotify | xml_escape }}</spotify>
+          <youtube>{{ post.links.youtube | xml_escape }}</youtube>
+          <wikipedia>{{ post.links.wikipedia | xml_escape }}</wikipedia>
+          <download>{{ post.links.download | xml_escape }}</download>
         </links>
         <tracklist>
           {% for track in post.tracklist %}
