@@ -2,9 +2,10 @@
 layout: none
 ---
 {
-  "posts": [
+  "data": [
     {% for post in site.posts %}
       {
+        "author"
         "title": "{{post.title}}",
         "artist": "{{post.artist}}",
         "url": "{{post.url}}",
