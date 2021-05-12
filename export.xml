@@ -14,6 +14,10 @@ layout: null
     {% for post in site.posts %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
+        <artist>{{ post.artist | xml_escape }}</artist>
+        <image>{{ post.image | prepend: site.baseurl | prepend: site.url }}</image>
+        <country>{{ post.country | xml_escape }}</country>
+        <label>{{ post.label | xml_escape }}</label>
         <description>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
@@ -24,6 +28,19 @@ layout: null
         {% for cat in post.categories %}
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
+        <links>
+          {% for link in post.links %}
+          <url>{{ link | xml_escape }}</url>
+          {% endfor %}
+        </links>
+        <tracklist>
+          {% for track in post.tracklist %}
+          <track>
+            <name>{{ track.name | xml_escape }}</name>
+            <duration>{{ track.duration | xml_escape }}</duration>
+          </track>
+          {% endfor %}
+        </tracklist>
       </item>
     {% endfor %}
   </channel>
