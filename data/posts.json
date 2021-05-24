@@ -2,7 +2,7 @@
 layout: none
 ---
 {
-  "data": [
+  "posts": [
     {% for post in site.posts %}
       {
         "author"
