@@ -5,7 +5,6 @@ layout: none
   "posts": [
     {% for post in site.posts %}
       {
-        "author"
         "title": "{{post.title}}",
         "artist": "{{post.artist}}",
         "url": "{{post.url}}",
